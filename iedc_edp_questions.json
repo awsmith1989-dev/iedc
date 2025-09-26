@@ -1,0 +1,1871 @@
+[
+  {
+    "id": "ch1-001",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "easy",
+    "question": "Which statement best captures why entrepreneurship matters to local economies?",
+    "options": [
+      "It centralizes employment into one firm",
+      "It diversifies activity and builds resilience against shocks",
+      "It reduces business formation rates",
+      "It eliminates the need for workforce development"
+    ],
+    "answerIndex": 1,
+    "explanation": "A broader base of firms and sectors buffers communities from downturns.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-002",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "easy",
+    "question": "In the manual’s framing, which segment is most numerous in the U.S. business population?",
+    "options": [
+      "Scaleups",
+      "Small businesses (500+ employees)",
+      "Microenterprises",
+      "Publicly traded firms"
+    ],
+    "answerIndex": 2,
+    "explanation": "Microenterprises account for the largest share of firms by count.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-003",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "easy",
+    "question": "A common obstacle to small business success highlighted in the manual is:",
+    "options": [
+      "Overabundance of capital",
+      "Inadequate management capacity",
+      "Excess export demand",
+      "Too many incubators"
+    ],
+    "answerIndex": 1,
+    "explanation": "Management gaps (planning, finance, marketing) are frequent barriers.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-004",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "easy",
+    "question": "Which role is typical for an EDO in small business development?",
+    "options": [
+      "Directly owning all local firms",
+      "Coordinating partners and filling gaps in services",
+      "Setting federal banking rules",
+      "Eliminating competition among firms"
+    ],
+    "answerIndex": 1,
+    "explanation": "EDOs align partners, reduce fragmentation, and plug service gaps.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-005",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "medium",
+    "question": "Which policy lever most directly nurtures local firm creation?",
+    "options": [
+      "Recruitment incentives",
+      "Entrepreneur‑friendly permitting and TA networks",
+      "Corporate tax abatements to a single plant",
+      "Parking minimums"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reduce friction (permitting) and knit support services together.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-006",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "medium",
+    "question": "An EDO deciding 'what to provide' should start by:",
+    "options": [
+      "Copying a national model",
+      "Mapping gaps and partner strengths locally",
+      "Funding the largest employer",
+      "Buying startups"
+    ],
+    "answerIndex": 1,
+    "explanation": "Landscape analysis avoids duplication and targets gaps.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-007",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "medium",
+    "question": "A typical characteristic of small businesses is:",
+    "options": [
+      "Centralized national governance",
+      "Owner‑operator management and local roots",
+      "Significant IPO activity",
+      "Large HR departments"
+    ],
+    "answerIndex": 1,
+    "explanation": "They are often locally owned/managed with limited staff.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-008",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "medium",
+    "question": "A federal program in this chapter that provides TA includes:",
+    "options": [
+      "NOAA Sea Grants",
+      "SCORE and SBDCs",
+      "FAA runway grants",
+      "USDA SNAP"
+    ],
+    "answerIndex": 1,
+    "explanation": "SCORE mentors; SBDCs counsel and train entrepreneurs.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-009",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "hard",
+    "question": "Given a community with many TA providers but low new firm survival, which FIRST action aligns with the manual’s guidance?",
+    "options": [
+      "Launch another TA center",
+      "Convene providers to map services vs. outcomes, define handoffs, and set shared KPIs",
+      "Offer blanket tax abatements",
+      "Recruit a single large employer"
+    ],
+    "answerIndex": 1,
+    "explanation": "Coordination, handoffs, and metrics address fragmentation and quality.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch1-010",
+    "chapter": "Chapter 1: Introduction to Entrepreneurial and Small Business Development Strategies",
+    "difficulty": "hard",
+    "question": "Which indicator BEST signals ecosystem capacity building rather than vanity metrics?",
+    "options": [
+      "Website sessions",
+      "Growth in the diversity and density of support resources",
+      "Media mentions",
+      "Ribbon cuttings"
+    ],
+    "answerIndex": 1,
+    "explanation": "Resource diversity/density reflects structural capacity.",
+    "refs": [
+      "Manual, Ch. 1"
+    ]
+  },
+  {
+    "id": "ch2-001",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "easy",
+    "question": "Which resource typically provides no‑cost 1:1 counseling and training to small firms?",
+    "options": [
+      "Small Business Development Centers (SBDCs)",
+      "Angel groups",
+      "Export-Import Bank",
+      "Industrial Development Authorities"
+    ],
+    "answerIndex": 0,
+    "explanation": "SBDCs deliver counseling, training, and referrals across core topics.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-002",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "easy",
+    "question": "A primary benefit of peer networks for entrepreneurs is:",
+    "options": [
+      "Guaranteed grants",
+      "Investor introductions only",
+      "Reduced isolation and shared problem‑solving",
+      "Free office leases"
+    ],
+    "answerIndex": 2,
+    "explanation": "Peer groups normalize challenges and accelerate learning via peers.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-003",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "easy",
+    "question": "Mentor programs most often add value by:",
+    "options": [
+      "Replacing market research",
+      "Providing real‑world guidance in finance, operations, and sales",
+      "Guaranteeing bank loans",
+      "Eliminating risk"
+    ],
+    "answerIndex": 1,
+    "explanation": "Experienced mentors guide on cash flow, staffing, sales, and growth.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-004",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "easy",
+    "question": "Youth entrepreneurship efforts commonly emphasize:",
+    "options": [
+      "Tax abatement design",
+      "Identity, opportunity recognition, and basic startup skills",
+      "Securities regulation",
+      "Advanced M&A topics"
+    ],
+    "answerIndex": 1,
+    "explanation": "Programs build mindset, confidence, and core startup literacy.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-005",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "medium",
+    "question": "Coordinating many TA providers reduces:",
+    "options": [
+      "Duplication and founder confusion",
+      "Credit scores",
+      "Technology adoption",
+      "Legal compliance"
+    ],
+    "answerIndex": 0,
+    "explanation": "A single front door and shared calendars clarify access.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-006",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "medium",
+    "question": "Legal structuring guidance often covers:",
+    "options": [
+      "Entity types, liability, and taxation",
+      "Logo usage",
+      "Office snacks",
+      "Securities underwriting"
+    ],
+    "answerIndex": 0,
+    "explanation": "Entity choice drives liability and tax treatment.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-007",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "medium",
+    "question": "A good screening process for TA prioritizes:",
+    "options": [
+      "First‑come only",
+      "Client needs, readiness, and fit with provider skills",
+      "Political affiliation",
+      "Alphabetical order"
+    ],
+    "answerIndex": 1,
+    "explanation": "Match needs to provider capabilities and stage.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-008",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "medium",
+    "question": "One reason to pair TA with loans is to:",
+    "options": [
+      "Increase default risk",
+      "Boost borrower capability and repayment odds",
+      "Replace underwriting",
+      "Avoid follow‑up"
+    ],
+    "answerIndex": 1,
+    "explanation": "TA addresses gaps that threaten repayment.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-009",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "hard",
+    "question": "Design a screening rubric. Which triad is MOST defensible?",
+    "options": [
+      "Charisma, social followers, pitch deck length",
+      "Problem clarity, customer evidence, and coachability",
+      "Zip code, alma mater, slide count"
+    ],
+    "answerIndex": 1,
+    "explanation": "Evidence‑based readiness plus learning mindset predicts progress.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch2-010",
+    "chapter": "Chapter 2: Technical Assistance for Entrepreneurs and Small Business Owners",
+    "difficulty": "hard",
+    "question": "For minority‑owned firms facing capital barriers, the most leverage comes from pairing:",
+    "options": [
+      "Unrestricted grants only",
+      "Targeted TA + CDFI relationships + loan‑ready packaging",
+      "IPO prep",
+      "Municipal bonds"
+    ],
+    "answerIndex": 1,
+    "explanation": "Integrated TA and mission lenders improve access and success rates.",
+    "refs": [
+      "Manual, Ch. 2"
+    ]
+  },
+  {
+    "id": "ch3-001",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "easy",
+    "question": "Economic gardening focuses primarily on:",
+    "options": [
+      "Recruiting large external plants",
+      "Growing existing local firms with market intelligence and tools",
+      "Building public real estate",
+      "Privatizing public services"
+    ],
+    "answerIndex": 1,
+    "explanation": "It supports second‑stage firms with data, SEO, and market insights.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-002",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "easy",
+    "question": "A typical gardening service is:",
+    "options": [
+      "Incentive negotiation",
+      "Lead generation and competitive intel",
+      "Issuing bonds",
+      "Zoning enforcement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Teams provide tailored research on markets, competitors, and leads.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-003",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "easy",
+    "question": "Which firm profile fits gardening targets?",
+    "options": [
+      "Pre‑revenue ideation",
+      "Second‑stage with traction and growth potential",
+      "Fortune 500",
+      "Solely retail micro‑kiosks"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gardening prioritizes second‑stage companies poised for scale.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-004",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "easy",
+    "question": "An expected outcome of gardening is increased:",
+    "options": [
+      "Speculative real estate supply",
+      "Out‑migration",
+      "Qualified sales leads and new markets",
+      "Import tariffs"
+    ],
+    "answerIndex": 2,
+    "explanation": "Programs aim to open markets and pipelines for sales growth.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-005",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "medium",
+    "question": "Which KPI aligns with gardening goals?",
+    "options": [
+      "Likes on posts",
+      "Number of qualified leads and new accounts opened",
+      "Lobby square footage",
+      "Local bond issuance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Gardening is sales‑growth oriented via intelligence and outreach.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-006",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "medium",
+    "question": "A common delivery model for gardening uses:",
+    "options": [
+      "Out‑of‑state tax credits",
+      "Specialized research teams working with local EDOs",
+      "General obligation bonds",
+      "Only volunteers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dedicated analysts and marketers partner with EDO staff.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-007",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "medium",
+    "question": "Which firm is LEAST likely to be a gardening client?",
+    "options": [
+      "Second‑stage B2B manufacturer",
+      "Regional SaaS with $2M ARR",
+      "Pre‑revenue ideator",
+      "Established exporter seeking new verticals"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ideation stage lacks the data footprint to leverage gardening services.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-008",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "medium",
+    "question": "Lead generation often begins with:",
+    "options": [
+      "HS codes",
+      "Customer/competitor mapping and list building",
+      "Zoning cases",
+      "PPP loans"
+    ],
+    "answerIndex": 1,
+    "explanation": "Analysts profile prospects and build targeted lists.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-009",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "hard",
+    "question": "A gardening program has strong lead lists but low conversion. Which adjustment is MOST aligned?",
+    "options": [
+      "Increase vanity metrics",
+      "Embed sales coaching with ICP refinement and CRM discipline",
+      "Cut research depth",
+      "Switch to only FDI attraction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sales enablement and ICP/CRM rigor translate leads to deals.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch3-010",
+    "chapter": "Chapter 3: Economic Gardening",
+    "difficulty": "hard",
+    "question": "When choosing targets, which criterion should weigh MOST?",
+    "options": [
+      "Founder liked the logo",
+      "Revenue mix, margins, and scalable channels",
+      "Street frontage",
+      "Office color"
+    ],
+    "answerIndex": 1,
+    "explanation": "Operational and go‑to‑market indicators predict scalable growth.",
+    "refs": [
+      "Manual, Ch. 3"
+    ]
+  },
+  {
+    "id": "ch4-001",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "easy",
+    "question": "Before writing a full plan, the manual recommends first clarifying:",
+    "options": [
+      "Logo and color palette",
+      "Customer problem, persona, and value proposition",
+      "Office lease terms",
+      "Press release schedule"
+    ],
+    "answerIndex": 1,
+    "explanation": "Problem‑solution fit and personas anchor a viable model.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-002",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "easy",
+    "question": "A succinct business plan executive summary should emphasize:",
+    "options": [
+      "Historic industry trivia",
+      "The ask, key traction, and market opportunity",
+      "Detailed appendix references",
+      "Board biographies only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Summaries state the opportunity, traction, model, and capital ask.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-003",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "easy",
+    "question": "Which statement about financial statements in a plan is MOST accurate?",
+    "options": [
+      "They’re optional for lenders",
+      "They include projected P&L, cash flow, and balance sheet",
+      "Only tax returns are needed",
+      "Only a cap table matters"
+    ],
+    "answerIndex": 1,
+    "explanation": "Standard pro formas include P&L, cash flow, and balance sheet.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-004",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "easy",
+    "question": "In a lean approach, the early plan is best treated as:",
+    "options": [
+      "A fixed blueprint",
+      "A living hypothesis to test",
+      "A legal mandate",
+      "A marketing brochure"
+    ],
+    "answerIndex": 1,
+    "explanation": "Plans evolve with validated learning and evidence.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-005",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "medium",
+    "question": "A business model canvas helps teams:",
+    "options": [
+      "Replace all financials",
+      "Visualize value, channels, and costs quickly",
+      "Comply with SEC rules",
+      "Apply for zoning"
+    ],
+    "answerIndex": 1,
+    "explanation": "It’s a 1‑page hypothesis map to iterate quickly.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-006",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "medium",
+    "question": "A realistic revenue model should primarily link to:",
+    "options": [
+      "Executive preferences",
+      "Customer acquisition and pricing mechanics",
+      "Random social metrics",
+      "Headcount only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tie revenue to how customers are acquired and priced.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-007",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "medium",
+    "question": "Competitive analysis in the plan should emphasize:",
+    "options": [
+      "Feature lists only",
+      "Differentiation and barriers to imitation",
+      "Founders’ hobbies",
+      "Building size"
+    ],
+    "answerIndex": 1,
+    "explanation": "Focus on advantage durability and switching costs.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-008",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "medium",
+    "question": "Cash flow projections differ from profit because they:",
+    "options": [
+      "Ignore timing",
+      "Track timing of cash in/out including non‑P&L items",
+      "Exclude capex",
+      "Equal net income monthly"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cash flow captures timing and items like loan principal and capex.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-009",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "hard",
+    "question": "Your projections show positive profit but negative cash. The MOST likely driver is:",
+    "options": [
+      "Strong Instagram",
+      "Receivables growth and capital expenditures",
+      "Free rent",
+      "Lower COGS"
+    ],
+    "answerIndex": 1,
+    "explanation": "Timing differences (A/R, loan principal, capex) drain cash while profit remains positive.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch4-010",
+    "chapter": "Chapter 4: Business Model Development",
+    "difficulty": "hard",
+    "question": "Which sequencing is MOST credible in a lean planning cycle?",
+    "options": [
+      "Hire big team → national launch → pivot later",
+      "Hypothesize → test with customers → iterate model → then scale",
+      "Raise large debt first → find product‑market fit later",
+      "Skip unit economics → spend on brand"
+    ],
+    "answerIndex": 1,
+    "explanation": "Validated learning precedes scale to reduce risk.",
+    "refs": [
+      "Manual, Ch. 4"
+    ]
+  },
+  {
+    "id": "ch5-001",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "easy",
+    "question": "International plans add emphasis on:",
+    "options": [
+      "Celebrity endorsements",
+      "Market entry modes and country risk",
+      "Ignoring pricing",
+      "Domestic zoning variances"
+    ],
+    "answerIndex": 1,
+    "explanation": "Export plans consider entry modes, partners, and risk profiles.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-002",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "easy",
+    "question": "A core export market research task is to:",
+    "options": [
+      "Rely on a single blog",
+      "Triangulate demand, competitors, and regulations",
+      "Avoid HS codes",
+      "Copy domestic pricing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use multiple sources to assess demand, rivals, standards, and rules.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-003",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "easy",
+    "question": "A distributor agreement commonly covers:",
+    "options": [
+      "Equity vesting",
+      "Territory, exclusivity, performance, and termination",
+      "M&A covenants",
+      "U.S. zoning"
+    ],
+    "answerIndex": 1,
+    "explanation": "Well‑scoped export channels define roles and expectations clearly.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-004",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "easy",
+    "question": "When pricing exports, firms should consider:",
+    "options": [
+      "Only COGS",
+      "Incoterms, duties, logistics, and FX risk",
+      "Social media trends",
+      "Local property taxes"
+    ],
+    "answerIndex": 1,
+    "explanation": "Landed cost depends on terms, tariffs, freight, and currency swings.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-005",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "medium",
+    "question": "An exporter’s compliance checklist commonly includes:",
+    "options": [
+      "ITAR/EAR checks where applicable",
+      "Only social media handles",
+      "U.S. property tax forms",
+      "Parking permits"
+    ],
+    "answerIndex": 0,
+    "explanation": "Assess whether items fall under ITAR/EAR and screen parties.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-006",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "medium",
+    "question": "Market entry 'beachhead' logic means:",
+    "options": [
+      "Launching in every market at once",
+      "Prioritizing one market to validate assumptions",
+      "Waiting for inbound only",
+      "Ignoring distribution"
+    ],
+    "answerIndex": 1,
+    "explanation": "Focus limited resources to learn and scale from a first market.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-007",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "medium",
+    "question": "When choosing agents vs. distributors, firms should weigh:",
+    "options": [
+      "Real estate mileage",
+      "Control, inventory risk, and margins",
+      "Logo placement",
+      "Municipal bond ratings"
+    ],
+    "answerIndex": 1,
+    "explanation": "Agents offer control with lower commitment; distributors take title/margin.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-008",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "medium",
+    "question": "FX risk can be mitigated by:",
+    "options": [
+      "Ignoring currency",
+      "Forward contracts or pricing in home currency",
+      "Posting on TikTok",
+      "Buying real estate abroad"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hedges or contractual terms reduce currency exposure.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-009",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "hard",
+    "question": "A U.S. firm exporting a controlled dual‑use item should FIRST:",
+    "options": [
+      "Ignore rules",
+      "Determine EAR classification and licensing needs",
+      "Ask a distributor to handle compliance blindly",
+      "Self‑certify without research"
+    ],
+    "answerIndex": 1,
+    "explanation": "Classify items under EAR/ITAR and secure required licenses early.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch5-010",
+    "chapter": "Chapter 5: International Business Plan Development",
+    "difficulty": "hard",
+    "question": "You face high logistics costs to a distant market. The BEST mitigation is:",
+    "options": [
+      "Ignore landed cost",
+      "Consolidate shipments, negotiate Incoterms, and evaluate nearer markets",
+      "Drop QA",
+      "Raise price arbitrarily"
+    ],
+    "answerIndex": 1,
+    "explanation": "Optimize logistics, terms, and market selection to sustain margins.",
+    "refs": [
+      "Manual, Ch. 5"
+    ]
+  },
+  {
+    "id": "ch6-001",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "easy",
+    "question": "A key goal of incubators is to:",
+    "options": [
+      "Maximize real estate vacancy",
+      "Accelerate firm survival and growth",
+      "Replace lenders",
+      "Ban graduation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Incubators improve survival/scale via bundled space and services.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-002",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "easy",
+    "question": "A feasibility study for an incubator often includes:",
+    "options": [
+      "CEO headshot selection",
+      "Demand analysis, site options, and cash flow",
+      "Election polling",
+      "Only architecture renderings"
+    ],
+    "answerIndex": 1,
+    "explanation": "Feasibility covers market demand, sites, operations, and finance.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-003",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "easy",
+    "question": "Common incubator funding sources include:",
+    "options": [
+      "CDBG, EDA, foundations, donations",
+      "Corporate tax refunds",
+      "SEC fines",
+      "Parking tickets"
+    ],
+    "answerIndex": 0,
+    "explanation": "Public programs and philanthropy frequently seed incubator capital.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-004",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "easy",
+    "question": "Graduation policies typically define:",
+    "options": [
+      "Eternal tenancy",
+      "Tenure triggers like revenue, jobs, or time",
+      "Firm logo rules",
+      "Local tax rates"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clear criteria encourage progression and throughput.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-005",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "medium",
+    "question": "Incubator feasibility includes a pro forma because it:",
+    "options": [
+      "Is required by SEC",
+      "Tests operating sustainability and cash needs",
+      "Sets tax millage rates",
+      "Replaces bylaws"
+    ],
+    "answerIndex": 1,
+    "explanation": "It projects revenues/expenses, occupancy, and funding gaps.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-006",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "medium",
+    "question": "Measuring incubator impact should avoid:",
+    "options": [
+      "Outcome metrics like jobs and survival",
+      "Only vanity metrics (followers, likes)",
+      "Tracking graduate capital",
+      "Benchmarking vs. peers"
+    ],
+    "answerIndex": 1,
+    "explanation": "Vanity metrics tell little about economic outcomes.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-007",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "medium",
+    "question": "Virtual incubators primarily deliver:",
+    "options": [
+      "Lab space only",
+      "Services and networks without dedicated space",
+      "Bonds",
+      "Zoning waivers"
+    ],
+    "answerIndex": 1,
+    "explanation": "They offer services/coaching without a physical facility.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-008",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "medium",
+    "question": "A common pitfall during site selection is:",
+    "options": [
+      "Overestimating demand and underestimating tenant improvements",
+      "Too many lenders involved",
+      "Too little parking revenue",
+      "Too many beach volleyball courts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Demand and build‑out costs often get underestimated.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-009",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "hard",
+    "question": "An incubator pro forma shows chronic deficits at 70% occupancy. The BEST response is:",
+    "options": [
+      "Ignore it",
+      "Adjust rent/service mix, pursue grants, and phase staffing",
+      "Eliminate any services",
+      "Assume 100% occupancy"
+    ],
+    "answerIndex": 1,
+    "explanation": "Blend revenues, right‑size costs, and stage growth to sustainability.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch6-010",
+    "chapter": "Chapter 6: Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "hard",
+    "question": "Measuring impact credibly requires:",
+    "options": [
+      "Counting only event RSVPs",
+      "Tracking graduates 2–5 years post‑exit with comparison benchmarks",
+      "Only website hits",
+      "Tenant selfies"
+    ],
+    "answerIndex": 1,
+    "explanation": "Longitudinal tracking with comps or benchmarks is stronger.",
+    "refs": [
+      "Manual, Ch. 6"
+    ]
+  },
+  {
+    "id": "ch7-001",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "easy",
+    "question": "Debt financing generally:",
+    "options": [
+      "Dilutes ownership",
+      "Requires repayment with interest",
+      "Transfers control to investors",
+      "Eliminates underwriting"
+    ],
+    "answerIndex": 1,
+    "explanation": "Debt is serviced over time; equity dilutes ownership.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-002",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "easy",
+    "question": "Equity financing is most appropriate when:",
+    "options": [
+      "Cash flow easily covers debt",
+      "The firm needs patient capital for high‑growth opportunities",
+      "Collateral is strong for a loan",
+      "The owner wants to avoid any oversight"
+    ],
+    "answerIndex": 1,
+    "explanation": "Equity trades ownership for growth capital without fixed payments.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-003",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "easy",
+    "question": "Angel networks typically invest:",
+    "options": [
+      "Public bonds",
+      "Very late‑stage buyouts",
+      "Early‑stage equity checks",
+      "USDA grants"
+    ],
+    "answerIndex": 2,
+    "explanation": "Angels fund early growth in exchange for equity.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-004",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "easy",
+    "question": "A CDFI most commonly provides:",
+    "options": [
+      "Derivatives",
+      "Flexible loans in underserved markets",
+      "SPAC equity",
+      "Only export insurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "CDFIs target gaps faced by LMI and underserved borrowers.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-005",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "medium",
+    "question": "Which funding source is MOST likely to accept higher perceived risk in underserved markets?",
+    "options": [
+      "Prime banks only",
+      "CDFIs",
+      "Late‑stage PE funds",
+      "Municipal treasury bills"
+    ],
+    "answerIndex": 1,
+    "explanation": "CDFIs are mission‑driven to address credit gaps.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-006",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "medium",
+    "question": "Debt service coverage ratio (DSCR) of 1.25 generally means:",
+    "options": [
+      "Cash flow covers debt service by 25%",
+      "Debt exceeds cash by 25%",
+      "Equity dilution 25%",
+      "Tax credit value 25%"
+    ],
+    "answerIndex": 0,
+    "explanation": "A 1.25 DSCR indicates a 25% cushion above required debt service.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-007",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "medium",
+    "question": "Convertible notes are:",
+    "options": [
+      "Grants",
+      "Debt that converts to equity per terms",
+      "Preferred equity only",
+      "Bonds with coupons"
+    ],
+    "answerIndex": 1,
+    "explanation": "They begin as debt and convert under triggers/discounts.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-008",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "medium",
+    "question": "Angel groups often look for:",
+    "options": [
+      "Strong team and traction signals",
+      "Only real‑estate collateral",
+      "PPP eligibility",
+      "Municipal guarantees"
+    ],
+    "answerIndex": 0,
+    "explanation": "Team strength and traction reduce perceived risk.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-009",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "hard",
+    "question": "A bank declines a loan for thin collateral, but cash flow is strong. The MOST fitting instrument is:",
+    "options": [
+      "Common equity only",
+      "Revenue‑based financing or mezzanine debt",
+      "Municipal bonds",
+      "Unsecured credit cards"
+    ],
+    "answerIndex": 1,
+    "explanation": "Cash‑flow‑based instruments bridge collateral gaps.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch7-010",
+    "chapter": "Chapter 7: Entrepreneurial Financing",
+    "difficulty": "hard",
+    "question": "To crowd in private lenders, a community program should use:",
+    "options": [
+      "Zero underwriting",
+      "A loan‑loss reserve with prudent policies",
+      "Only grants",
+      "Exclusively equity"
+    ],
+    "answerIndex": 1,
+    "explanation": "LLRs de‑risk lenders while maintaining standards.",
+    "refs": [
+      "Manual, Ch. 7"
+    ]
+  },
+  {
+    "id": "ch8-001",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "easy",
+    "question": "A lender’s underwriting usually emphasizes:",
+    "options": [
+      "Founder’s favorite color",
+      "Capacity, collateral, conditions, character, capital",
+      "Number of social posts",
+      "Office décor"
+    ],
+    "answerIndex": 1,
+    "explanation": "The 5 Cs framework guides risk assessment for small‑business credit.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-002",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "easy",
+    "question": "SBA 7(a) is best described as:",
+    "options": [
+      "A grant",
+      "A guarantee program for lender‑issued loans",
+      "A direct federal loan only",
+      "An equity fund"
+    ],
+    "answerIndex": 1,
+    "explanation": "7(a) guarantees a portion of lender loans, expanding access to credit.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-003",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "easy",
+    "question": "SBA 504 primarily finances:",
+    "options": [
+      "Working capital only",
+      "Fixed assets like owner‑occupied real estate/equipment",
+      "Angel rounds",
+      "Export insurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "504 targets long‑term, fixed‑asset projects with CDC participation.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-004",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "easy",
+    "question": "RLFs (Revolving Loan Funds) help communities by:",
+    "options": [
+      "Replacing banks",
+      "Filling capital gaps and recycling repayments into new loans",
+      "Eliminating underwriting",
+      "Issuing equity"
+    ],
+    "answerIndex": 1,
+    "explanation": "RLFs recycle capital to extend impact over time.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-005",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "medium",
+    "question": "Community Reinvestment Act (CRA) can influence:",
+    "options": [
+      "Bank community development activities and lending",
+      "SEC filings",
+      "Zoning setbacks",
+      "USDA crop insurance"
+    ],
+    "answerIndex": 0,
+    "explanation": "CRA shapes how banks serve LMI communities with capital/services.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-006",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "medium",
+    "question": "SBA Microloan program typical use is:",
+    "options": [
+      "Large M&A",
+      "Small working capital and equipment for microenterprises",
+      "IPO underwriting",
+      "Export insurance"
+    ],
+    "answerIndex": 1,
+    "explanation": "Microloans target smaller dollar needs for very small firms.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-007",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "medium",
+    "question": "Venture capital is generally appropriate when:",
+    "options": [
+      "Small stable cash flows",
+      "Hyper‑growth potential and large markets",
+      "Collateralized real estate",
+      "No governance change desired"
+    ],
+    "answerIndex": 1,
+    "explanation": "VC seeks outsized returns from scalable opportunities.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-008",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "medium",
+    "question": "A revolving loan fund recycles capital by:",
+    "options": [
+      "Periodic tax levies",
+      "Re‑lending principal as loans are repaid",
+      "Selling equity",
+      "Grant cycles only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Repaid funds fuel future lending cycles.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-009",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "hard",
+    "question": "A borrower is approved for SBA 504. Which structure is MOST accurate?",
+    "options": [
+      "50% bank senior, 40% CDC/SBA debenture, 10% equity (typical)",
+      "90% bank, 10% grant",
+      "100% SBA direct loan",
+      "70% equity, 30% debt"
+    ],
+    "answerIndex": 0,
+    "explanation": "A common 504 stack is 50/40/10 with CDC participation.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch8-010",
+    "chapter": "Chapter 8: Small Business Financing",
+    "difficulty": "hard",
+    "question": "Your RLF default rate spikes. The FIRST step is to:",
+    "options": [
+      "Close the fund",
+      "Analyze cohorts, tighten underwriting, and enhance TA/monitoring",
+      "Raise rates on all loans",
+      "Eliminate small loans"
+    ],
+    "answerIndex": 1,
+    "explanation": "Use data to target causes and pair TA/monitoring to remediate.",
+    "refs": [
+      "Manual, Ch. 8"
+    ]
+  },
+  {
+    "id": "ch9-001",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "easy",
+    "question": "An equity‑centered approach to entrepreneurship programs aims to:",
+    "options": [
+      "Treat all applicants identically regardless of context",
+      "Address systemic barriers and expand inclusive access",
+      "Focus solely on top‑performing firms",
+      "Exclude historically underserved founders"
+    ],
+    "answerIndex": 1,
+    "explanation": "It targets structural gaps (capital, networks, bias) to broaden access.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-002",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "easy",
+    "question": "Which practice can reduce bias in mentor matching?",
+    "options": [
+      "Random assignment only",
+      "Transparent criteria and opt‑in profiles",
+      "Hide all founder info",
+      "No evaluation at all"
+    ],
+    "answerIndex": 1,
+    "explanation": "Clear criteria and choice increase fit and fairness.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-003",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "easy",
+    "question": "Culturally competent TA means:",
+    "options": [
+      "Delivering identical materials to all",
+      "Adapting delivery, language, and examples to the community",
+      "Using only legal jargon",
+      "Requiring advanced degrees"
+    ],
+    "answerIndex": 1,
+    "explanation": "Programs align content with audience context and language.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-004",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "easy",
+    "question": "A metric aligned to equity goals is:",
+    "options": [
+      "Website hits",
+      "Diversity of firms served and outcomes by group",
+      "Office plant count",
+      "Total chairs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Track participation and outcomes disaggregated by population groups.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-005",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "medium",
+    "question": "To operationalize equity, programs should FIRST:",
+    "options": [
+      "Launch marketing",
+      "Co‑design with target communities and set measurable goals",
+      "Focus on gala events",
+      "End TA"
+    ],
+    "answerIndex": 1,
+    "explanation": "Co‑design builds trust and aligns supports to needs; goals guide work.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-006",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "medium",
+    "question": "Data for accountability should be:",
+    "options": [
+      "Aggregate only",
+      "Disaggregated by population to detect gaps",
+      "Hidden",
+      "Anecdotal only"
+    ],
+    "answerIndex": 1,
+    "explanation": "Disaggregation reveals participation and outcome disparities.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-007",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "medium",
+    "question": "Supplier diversity initiatives commonly include:",
+    "options": [
+      "No targets",
+      "Inclusive procurement outreach and capacity‑building",
+      "Eliminating small vendors",
+      "Only national chains"
+    ],
+    "answerIndex": 1,
+    "explanation": "Outreach + TA help local diverse firms access contracts.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-008",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "medium",
+    "question": "A barrier that equity programs address directly is:",
+    "options": [
+      "Excess venture supply",
+      "Network access and social capital",
+      "Too many incubators",
+      "High Instagram engagement"
+    ],
+    "answerIndex": 1,
+    "explanation": "Bridging networks expands opportunity access.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-009",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "hard",
+    "question": "An incubator serves few women‑owned firms despite outreach. Which change is MOST aligned with equity practice?",
+    "options": [
+      "Keep the same hours",
+      "Offer child‑care support, schedule‑flexible programming, and targeted mentor pools",
+      "Require on‑site 9–5 only",
+      "Increase application length"
+    ],
+    "answerIndex": 1,
+    "explanation": "Reduce practical barriers and tailor supports to needs.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch9-010",
+    "chapter": "Chapter 9: Equity Chapter",
+    "difficulty": "hard",
+    "question": "Equity metrics should be governed by:",
+    "options": [
+      "Ad‑hoc updates",
+      "Clear definitions, baselines, targets, and reporting cadence",
+      "Hidden dashboards",
+      "Only anecdotal wins"
+    ],
+    "answerIndex": 1,
+    "explanation": "Strong governance ensures accountability over time.",
+    "refs": [
+      "Manual, Ch. 9"
+    ]
+  },
+  {
+    "id": "ch10-001",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "easy",
+    "question": "Export readiness support typically includes:",
+    "options": [
+      "Local zoning reviews",
+      "Market selection, compliance guidance, and Incoterms basics",
+      "Parking policy",
+      "Domestic eminent domain"
+    ],
+    "answerIndex": 1,
+    "explanation": "Programs prep firms on markets, standards, and trade terms.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-002",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "easy",
+    "question": "A trade mission’s primary value is:",
+    "options": [
+      "Guaranteed sales",
+      "Curated meetings and market exposure",
+      "VAT refunds",
+      "Warehouse construction"
+    ],
+    "answerIndex": 1,
+    "explanation": "Missions open doors via curated B2B meetings and visibility.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-003",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "easy",
+    "question": "Export financing tools can include:",
+    "options": [
+      "EXIM insurance and working‑capital guarantees",
+      "Angel equity only",
+      "Municipal bonds",
+      "SBA 504 only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Trade finance mechanisms help de‑risk A/R and working capital.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-004",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "easy",
+    "question": "For small firms, a practical first step toward exporting is:",
+    "options": [
+      "Global Super Bowl ad",
+      "Distributor/agent search in one priority market",
+      "Building a foreign factory",
+      "IPO"
+    ],
+    "answerIndex": 1,
+    "explanation": "Channel partners help test a beachhead market efficiently.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-005",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "medium",
+    "question": "Providing customized market research to exporters often includes:",
+    "options": [
+      "Competitor mapping, buyer lists, and standards",
+      "Only logo design",
+      "Local zoning",
+      "Real‑estate comps"
+    ],
+    "answerIndex": 0,
+    "explanation": "Curated intel reduces search costs and speeds entry.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-006",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "medium",
+    "question": "Reverse trade missions:",
+    "options": [
+      "Send local firms abroad",
+      "Bring foreign buyers to the region",
+      "Are tourism programs",
+      "Replace compliance"
+    ],
+    "answerIndex": 1,
+    "explanation": "They host foreign buyers locally for B2B engagement.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-007",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "medium",
+    "question": "A simple export finance gap for small firms is often:",
+    "options": [
+      "Too much VC",
+      "Working capital to fulfill POs",
+      "No need for banks",
+      "Tariffs always zero"
+    ],
+    "answerIndex": 1,
+    "explanation": "Pre‑shipment and A/R financing support fulfillment.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-008",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "medium",
+    "question": "A practical export incentive example is:",
+    "options": [
+      "Property tax abatement",
+      "Duty drawback where eligible",
+      "Parking fee waivers",
+      "Bond referenda"
+    ],
+    "answerIndex": 1,
+    "explanation": "Duty drawback refunds certain duties on re‑exported goods.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-009",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "hard",
+    "question": "A firm with limited export capacity should prioritize which sequence?",
+    "options": [
+      "Trade mission → factory build",
+      "Export readiness → one beachhead → channel partner → scale",
+      "IPO → global rollout",
+      "Random cold outreach worldwide"
+    ],
+    "answerIndex": 1,
+    "explanation": "Capacity and learning first, then focused entry and partners.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch10-010",
+    "chapter": "Chapter 10: Exporting for Small Businesses",
+    "difficulty": "hard",
+    "question": "An exporter faces repeated quality issues abroad. The BEST action is:",
+    "options": [
+      "Ignore complaints",
+      "Tighten QC, adjust specs for market standards, and audit partners",
+      "Switch HS codes",
+      "Rely only on price cuts"
+    ],
+    "answerIndex": 1,
+    "explanation": "Align quality with market expectations and ensure partner compliance.",
+    "refs": [
+      "Manual, Ch. 10"
+    ]
+  },
+  {
+    "id": "ch11-001",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "easy",
+    "question": "Microenterprises are typically defined by:",
+    "options": [
+      "Revenues over $50M",
+      "Very small headcount and capital needs",
+      "Public listing",
+      "Global subsidiaries"
+    ],
+    "answerIndex": 1,
+    "explanation": "They are the smallest firms by employment and capital intensity.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-002",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "easy",
+    "question": "A common element of effective microlending is:",
+    "options": [
+      "No underwriting",
+      "Right‑sized capital plus TA and follow‑up",
+      "Equity only",
+      "Crypto collateral"
+    ],
+    "answerIndex": 1,
+    "explanation": "Paired TA and structured follow‑up reduce defaults and increase success.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-003",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "easy",
+    "question": "Typical microloan capital sources include:",
+    "options": [
+      "CDBG and foundations",
+      "SEC fines",
+      "Lottery proceeds only",
+      "Only venture debt"
+    ],
+    "answerIndex": 0,
+    "explanation": "Programs often blend public and philanthropic sources.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-004",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "easy",
+    "question": "A core delinquency‑prevention tactic is:",
+    "options": [
+      "Ignore early warning signs",
+      "Early outreach and restructuring options",
+      "Accelerate to collections immediately",
+      "Raise interest retroactively"
+    ],
+    "answerIndex": 1,
+    "explanation": "Proactive contact and adjustments reduce defaults.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-005",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "medium",
+    "question": "Microlending underwriting balances:",
+    "options": [
+      "Only collateral",
+      "Character, cash flow, and right‑sized terms",
+      "Only FICO > 800",
+      "No evaluation"
+    ],
+    "answerIndex": 1,
+    "explanation": "Relationship‑based underwriting is common at micro scale.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-006",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "medium",
+    "question": "TA in microenterprise programs often emphasizes:",
+    "options": [
+      "Advanced derivatives",
+      "Bookkeeping, pricing, and marketing basics",
+      "IPO rules",
+      "International tax arbitrage"
+    ],
+    "answerIndex": 1,
+    "explanation": "Foundational skills drive survival and growth for micro firms.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-007",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "medium",
+    "question": "A cost‑effectiveness lens considers:",
+    "options": [
+      "Cost per outcome (e.g., job retained/created) over time",
+      "Only total budget",
+      "Only overhead",
+      "Only event counts"
+    ],
+    "answerIndex": 0,
+    "explanation": "Normalize cost to outcomes for comparability.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-008",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "medium",
+    "question": "Capitalization strategies blend:",
+    "options": [
+      "One donor only",
+      "Public, philanthropic, and earned revenue",
+      "Crypto mining",
+      "Only fines"
+    ],
+    "answerIndex": 1,
+    "explanation": "Diversified sources stabilize programs.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-009",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "hard",
+    "question": "To improve microloan portfolio health sustainably, the BEST lever is:",
+    "options": [
+      "Aggressive late fees only",
+      "Better screening, staged disbursement, and ongoing TA",
+      "Shorten all terms to 3 months",
+      "Only raise interest rates"
+    ],
+    "answerIndex": 1,
+    "explanation": "Up‑front rigor plus TA reduces delinquency structurally.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  },
+  {
+    "id": "ch11-010",
+    "chapter": "Chapter 11: Microenterprise Programs",
+    "difficulty": "hard",
+    "question": "A microenterprise program with high cost per job should FIRST:",
+    "options": [
+      "Cut data collection",
+      "Analyze cost drivers by service type and rebalance mix",
+      "Eliminate training",
+      "Ignore costs"
+    ],
+    "answerIndex": 1,
+    "explanation": "Understand which services drive cost; rebalance to efficiency while keeping outcomes.",
+    "refs": [
+      "Manual, Ch. 11"
+    ]
+  }
+]
