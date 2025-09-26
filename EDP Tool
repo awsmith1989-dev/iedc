@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EDP Study Tool</title>
+  <style>
+    :root{
+      --bg:#14405f;          /* background */
+      --card:#1b5277;        /* card background */
+      --ink:#ffffff;         /* default text */
+      --muted:#cdd7e3;       /* muted text */
+      --acc:#ffcf24;         /* accent/highlight */
+      --good:#45d07c;
+      --bad:#ff6b6b;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial}
+    .wrap{max-width:980px;margin:32px auto;padding:0 16px}
+    header{display:flex;gap:16px;align-items:center;justify-content:space-between;margin-bottom:12px}
+    h1{font-size:clamp(20px,3.5vw,28px);margin:0;color:var(--acc)}
+    .card{background:var(--card);border:1px solid #1f274a;border-radius:18px;box-shadow:0 10px 30px rgba(0,0,0,.25);padding:18px}
+    .row{display:flex;flex-wrap:wrap;gap:12px}
+    .btn{appearance:none;border:1px solid #2a3771;background:#0f2c40;color:var(--ink);padding:10px 14px;border-radius:12px;cursor:pointer}
+    .btn:hover{background:#12364d}
+    .btn.primary{background:var(--acc);color:#0b1020;border-color:#e6b500}
+    .btn.primary:hover{filter:brightness(1.05)}
+    .btn.ghost{background:transparent}
+    .btn.good{background:var(--good);color:#06210f;border-color:#34b466}
+    .btn.bad{background:var(--bad);color:#2a0d0d;border-color:#ff4d4d}
+    select, input[type="text"], textarea{width:100%;background:#0f2c40;color:var(--ink);border:1px solid #2a3771;border-radius:12px;padding:10px}
+    label{font-weight:600;color:var(--acc)}
+    .chip{display:inline-flex;align-items:center;gap:8px;padding:6px 10px;border:1px solid #2a3771;border-radius:100px;background:#0f2c40;color:var(--ink);font-size:13px}
+    .muted{color:var(--muted)}
+    .options{display:grid;grid-template-columns:1fr;gap:10px;margin:12px 0}
+    .opt{display:flex;gap:10px;align-items:flex-start;background:#0f2c40;border:1px solid #2a3771;padding:10px;border-radius:12px;cursor:pointer;color:var(--ink)}
+    .opt input{margin-top:4px}
+    .opt.correct{border-color:#34b466;background:#0f1f19}
+    .opt.incorrect{border-color:#ff4d4d;background:#2a0d0d}
+    .kbd{font:600 12px/1.2 ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;background:#0b1020;border:1px solid #2a3771;border-radius:6px;padding:2px 6px;color:var(--acc)}
+    .grid{display:grid;gap:12px}
+    @media(min-width:900px){.grid{grid-template-columns:2fr 1fr}}
+    .stat{display:grid;grid-template-columns:auto 1fr auto;gap:8px;align-items:center;padding:8px 0;border-bottom:1px dashed #26305e;color:var(--ink)}
+    .pill{padding:4px 8px;border-radius:999px;font-weight:700}
+    .pill.good{background:#0f1f19;color:#78e3aa;border:1px solid #1f6a45}
+    .pill.bad{background:#2a0d0d;color:#ffb3b3;border:1px solid #803333}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+    .small{font-size:13px}
+    details{background:#0f2c40;border:1px solid #2a3771;border-radius:12px;padding:10px;color:var(--ink)}
+    h3{color:var(--ink)}
+    strong, em{color:var(--acc)}
+    .stacked-selects select{height:60px;}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>EDP Study Tool <span class="muted small">(Squarespace‑ready)</span></h1>
+    <button class="btn ghost" id="exportBtn" title="Export progress & settings">Export</button>
+  </header>
+
+  <div class="grid">
+    <!-- LEFT: Quiz Engine -->
+    <section class="card" id="quizCard">
+      <div class="row" style="justify-content:space-between;align-items:flex-start">
+        <div style="min-width:280px;flex:1">
+          <label for="chapters">Chapters in play</label>
+          <select id="chapters" multiple size="6"></select>
+          <div class="small muted" style="margin-top:6px">Tip: hold <span class="kbd">Cmd/Ctrl</span> to select multiple. Your selection is saved.</div>
+        </div>
+        <div style="min-width:260px;flex:1;display:flex;flex-direction:column;gap:12px" class="stacked-selects">
+          <div>
+            <label for="mode">Mode</label>
+            <select id="mode" size="2">
+              <option value="random">Random</option>
+              <option value="spaced">Spaced review (least‑seen)</option>
+            </select>
+          </div>
+          <div>
+            <label for="difficulty">Difficulty</label>
+            <select id="difficulty" multiple>
+              <option value="easy" selected>Easy</option>
+              <option value="medium" selected>Medium</option>
+              <option value="hard" selected>Hard</option>
+            </select>
+          </div>
+          <div class="row" style="margin-top:8px;justify-content:flex-start">
+            <button class="btn" id="nextBtn">New Question</button>
+            <button class="btn" id="resetBtn">Reset Progress</button>
+          </div>
+        </div>
+      </div>
+
+      <hr style="border-color:#26305e;margin:14px 0"/>
+
+      <div id="qwrap">
+        <div class="muted">Click <em>New Question</em> to begin.</div>
+      </div>
+
+      <div class="row" style="margin-top:10px">
+        <button class="btn primary" id="checkBtn" disabled>Check Answer</button>
+        <button class="btn" id="explainBtn" disabled>Show Explanation</button>
+      </div>
+    </section>
+
+    <!-- RIGHT: Progress & Admin -->
+    <aside class="card">
+      <h3 style="margin:0 0 8px">Progress</h3>
+      <div id="stats"></div>
+      <div class="small muted" style="margin-top:8px">Progress is stored locally in your browser (no account needed). For shared analytics, add a Google Apps Script webhook below.</div>
+      <hr style="border-color:#26305e;margin:14px 0"/>
+      <h3 style="margin:0 0 8px">Admin</h3>
+      <details>
+        <summary><strong>Upload question bank (JSON) / Manage data</strong></summary>
+        <p class="small">Paste or drop a JSON array of question objects (schema below), then click <em>Load</em>. Data is saved to this page only.</p>
+        <textarea id="jsonInput" rows="8" placeholder='[
+  {"id":"ch1-001","chapter":"1: Fundamentals","question":"…?","options":["A","B","C","D"],"answerIndex":1,"explanation":"…","refs":["Manual Vol.1 p. 23-24"],"difficulty":"easy"}
+]'></textarea>
+        <div class="row" style="margin-top:8px">
+          <button class="btn" id="loadJsonBtn">Load</button>
+          <button class="btn" id="downloadJsonBtn">Download Current Bank</button>
+        </div>
+        <details style="margin-top:10px">
+          <summary><strong>Or: Load question bank from URL</strong></summary>
+          <p class="small">Paste a public URL to a <em>.json</em> file, then click <em>Fetch</em>. The bank will be cached locally.</p>
+          <input type="text" id="bankUrl" placeholder="https://yourhost/iedc_edp_questions.json"/>
+          <div class="row" style="margin-top:8px">
+            <button class="btn" id="fetchBankBtn">Fetch</button>
+            <button class="btn" id="saveBankUrlBtn">Remember URL</button>
+          </div>
+        </details>
+        <p class="small muted" style="margin-top:8px">Schema: { id, chapter, question, options[4], answerIndex, explanation?, refs?[], difficulty?:(easy|medium|hard) }</p>
+      </details>
+      <details style="margin-top:10px">
+        <summary><strong>Optional: Send anonymous stats to a Google Sheet</strong></summary>
+        <p class="small">Create a Google Apps Script web app that appends POSTed JSON rows to a Sheet. Paste its URL below; this tool will POST quiz events (<span class="mono">started, answered, correct</span>). Leave blank to keep all data local.</p>
+        <input type="text" id="webhookUrl" placeholder="https://script.google.com/macros/s/AKfycbx…/exec"/>
+        <button class="btn" id="saveWebhook">Save</button>
+        <p class="small muted">Runs entirely client‑side via <span class="mono">fetch()</span>/<span class="mono">sendBeacon()</span>. Ensure your endpoint allows requests.</p>
+      </details>
+    </aside>
+  </div>
+
+  <footer class="muted small" style="margin-top:16px">v1.2 — Hardcoded bank auto‑load + Difficulty filter</footer>
+</div>
+
+<script>
+/********************
+ * Constants / Config
+ ********************/
+const STORAGE_KEY = 'iedc-edp-quiz-v1';
+// Hardcoded question bank URL (GitHub raw)
+const HARDCODED_BANK_URL = 'https://raw.githubusercontent.com/awsmith1989-dev/iedc/refs/heads/main/iedc_edp_questions.json';
+
+/********************
+ * State & Persistence
+ ********************/
+const state = loadState();
+
+function loadState(){
+  const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  return {
+    bank: saved.bank || [],
+    progress: saved.progress || { attempts:0, correct:0, perChapter:{}, seen:{} },
+    settings: saved.settings || { chapters:[], mode:'random', webhook:'', bankUrl:'', difficulty:['easy','medium','hard'] },
+    lastQ: null,
+    selectedIndex: null,
+    checked:false
+  };
+}
+function saveState(){ localStorage.setItem(STORAGE_KEY, JSON.stringify({ bank:state.bank, progress:state.progress, settings:state.settings })); }
+
+function $(id){return document.getElementById(id)}
+
+/********************
+ * Helpers
+ ********************/
+function uniqueChapters(){ return [...new Set(state.bank.map(q=>q.chapter))].sort(); }
+function stripNumTitle(s){ if(!s) return s; const m = s.match(/^\s*\d+\s*:\s*(.*)$/); return m? m[1] : s; }
+
+function filteredBank(){
+  const chosenCh = state.settings.chapters?.length ? new Set(state.settings.chapters) : new Set(uniqueChapters());
+  const chosenDf = new Set((state.settings.difficulty && state.settings.difficulty.length)? state.settings.difficulty : ['easy','medium','hard']);
+  return state.bank.filter(q => chosenCh.has(q.chapter) && (!q.difficulty || chosenDf.has(String(q.difficulty).toLowerCase())));
+}
+
+/********************
+ * UI Renderers
+ ********************/
+function populateChapterSelect(){
+  const sel = $('chapters'); if(!sel) return; sel.innerHTML='';
+  uniqueChapters().forEach(ch=>{
+    const opt=document.createElement('option');
+    opt.value=ch;            // keep value = full chapter key
+    opt.textContent=stripNumTitle(ch); // show only the title
+    sel.appendChild(opt);
+  });
+  // restore selection
+  [...sel.options].forEach(o=>{ o.selected = !state.settings.chapters.length || state.settings.chapters.includes(o.value); });
+}
+
+function renderQ(q){
+  const wrap = $('qwrap');
+  if(!q || !q.options){ wrap.innerHTML = `<div class="muted">${q? (q.question||'') : ''}</div>`; $('checkBtn').disabled = true; $('explainBtn').disabled = true; return; }
+  const opts = q.options.map((t,i)=>`
+    <label class="opt" data-index="${i}">
+      <input type="radio" name="opt" ${state.selectedIndex===i?'checked':''}/> <div>${t}</div>
+    </label>`).join('');
+  const diff = q.difficulty? `<span class="chip" title="Difficulty">Difficulty: <strong>${String(q.difficulty).toUpperCase()}</strong></span>`: '';
+  wrap.innerHTML = `
+    <div class="chip">Chapter: <strong>${stripNumTitle(q.chapter||'—')}</strong></div> ${diff}
+    <h3 style="margin:10px 0">${q.question}</h3>
+    <div class="options">${opts}</div>
+    <div id="feedback" class="small"></div>
+    <details style="margin-top:8px" id="exp"><summary><strong>Explanation & refs</strong></summary>
+      <div class="small" style="margin-top:6px">${q.explanation||'—'}</div>
+      ${q.refs && q.refs.length? `<div class="small muted" style="margin-top:6px">Refs: ${q.refs.join('; ')}</div>`: ''}
+    </details>
+  `;
+  document.querySelectorAll('.opt').forEach(el=>{
+    el.addEventListener('click',()=>{ state.selectedIndex = +el.dataset.index; document.querySelectorAll('.opt').forEach(e=>e.classList.remove('correct','incorrect')); $('checkBtn').disabled=false; $('explainBtn').disabled=false; })
+  });
+  $('checkBtn').disabled = state.selectedIndex==null; $('explainBtn').disabled = state.selectedIndex==null;
+}
+
+function renderStats(){
+  const s = state.progress;
+  const pct = s.attempts? Math.round(100*s.correct/s.attempts):0;
+  let html = `<div class="stat"><div>Total</div><div class="muted">${s.correct}/${s.attempts} correct</div><div class="pill ${pct>=70?'good':'bad'}">${pct}%</div></div>`;
+  Object.entries(s.perChapter).sort().forEach(([ch,v])=>{
+    const p = v.attempts? Math.round(100*v.correct/v.attempts):0;
+    html += `<div class="stat"><div>${stripNumTitle(ch)}</div><div class="muted">${v.correct}/${v.attempts}</div><div class="pill ${p>=70?'good':'bad'}">${p}%</div></div>`
+  });
+  $('stats').innerHTML = html;
+}
+
+/********************
+ * Quiz Logic
+ ********************/
+function pickQuestion(){
+  const pool = filteredBank();
+  if(!pool.length){ renderQ({question:'No questions available for the chosen filters. Load a bank or adjust Chapter/Difficulty.'}); return; }
+  let q;
+  if(state.settings.mode==='spaced'){
+    const seen = state.progress.seen || {};
+    const withSeen = pool.map(item=>({ item, c:(seen[item.id]||0) }));
+    const min = Math.min(...withSeen.map(x=>x.c));
+    const candidates = withSeen.filter(x=>x.c===min).map(x=>x.item);
+    q = candidates[Math.floor(Math.random()*candidates.length)];
+  } else {
+    q = pool[Math.floor(Math.random()*pool.length)];
+  }
+  state.lastQ = q; state.selectedIndex = null; state.checked=false;
+  state.progress.seen[q.id] = (state.progress.seen[q.id]||0)+1; saveState();
+  renderQ(q);
+  postEvent('started', { id:q.id, chapter:q.chapter, difficulty:q.difficulty||'' });
+}
+
+function check(){
+  const q = state.lastQ; if(!q || state.selectedIndex==null || state.checked) return;
+  state.checked = true;
+  const correct = (state.selectedIndex===q.answerIndex);
+  state.progress.attempts++; if(correct) state.progress.correct++;
+  const ch = state.progress.perChapter[q.chapter] || { attempts:0, correct:0 };
+  ch.attempts++; if(correct) ch.correct++; state.progress.perChapter[q.chapter]=ch; saveState();
+  const opts = document.querySelectorAll('.opt');
+  opts[q.answerIndex]?.classList.add('correct');
+  if(!correct) opts[state.selectedIndex]?.classList.add('incorrect');
+  const fb = $('feedback'); fb.innerHTML = correct? `<span class="pill good">Correct</span>` : `<span class="pill bad">Try again</span>`;
+  postEvent('answered', { id:q.id, chapter:q.chapter, correct, difficulty:q.difficulty||'' });
+}
+
+/********************
+ * Admin functions
+ ********************/
+function loadJson(){
+  try {
+    const arr = JSON.parse($('jsonInput').value);
+    if(!Array.isArray(arr)) throw new Error('JSON must be an array of question objects');
+    for(const q of arr){ if(!q.id||!q.chapter||!q.question||!q.options||q.answerIndex==null) throw new Error('Missing required fields on some items'); }
+    state.bank = arr; saveState(); populateChapterSelect(); alert('Question bank loaded!');
+  } catch(e){ alert('Could not load JSON: '+e.message); }
+}
+
+function downloadJson(){
+  const blob = new Blob([JSON.stringify(state.bank, null, 2)], {type:'application/json'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'iedc-edp-question-bank.json'; a.click();
+}
+
+function exportAll(){
+  const blob = new Blob([JSON.stringify({ bank:state.bank, progress:state.progress, settings:state.settings }, null, 2)], {type:'application/json'});
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'iedc-edp-study-tool-export.json'; a.click();
+}
+
+function postEvent(type, payload){
+  try {
+    const webhookFromState = (typeof state !== 'undefined' && state.settings && state.settings.webhook) ? state.settings.webhook : '';
+    const url = webhookFromState || (typeof WEBHOOK_URL !== 'undefined' ? WEBHOOK_URL : '');
+    if(!url){ return; }
+    const body = { type, ts: new Date().toISOString(), ...(payload||{}) };
+
+    if (navigator.sendBeacon) {
+      const blob = new Blob([JSON.stringify(body)], { type: 'text/plain' });
+      navigator.sendBeacon(url, blob);
+      return;
+    }
+    fetch(url, { method:'POST', mode:'no-cors', headers:{ 'Content-Type':'text/plain' }, body: JSON.stringify(body) }).catch(()=>{});
+  } catch(_) { /* ignore */ }
+}
+
+/********************
+ * Events & Init
+ ********************/
+$('nextBtn').addEventListener('click', ()=>{ pickQuestion(); renderStats(); });
+$('checkBtn').addEventListener('click', ()=>{ check(); renderStats(); });
+$('explainBtn').addEventListener('click', ()=>{ $('exp')?.setAttribute('open','open'); });
+$('resetBtn').addEventListener('click', ()=>{ if(!confirm('Reset all progress?')) return; state.progress = { attempts:0, correct:0, perChapter:{}, seen:{} }; saveState(); renderStats(); alert('Progress reset.'); });
+$('loadJsonBtn').addEventListener('click', loadJson);
+$('downloadJsonBtn').addEventListener('click', downloadJson);
+$('exportBtn').addEventListener('click', exportAll);
+$('saveWebhook').addEventListener('click', ()=>{ state.settings.webhook = $('webhookUrl').value.trim(); saveState(); alert('Saved.'); });
+$('fetchBankBtn')?.addEventListener('click', async ()=>{
+  const url = $('bankUrl').value.trim(); if(!url) return alert('Enter a URL to a JSON file.');
+  try{
+    const res = await fetch(url, {cache:'no-store'}); if(!res.ok) throw new Error(res.status+' '+res.statusText);
+    const arr = await res.json();
+    if(!Array.isArray(arr)) throw new Error('JSON must be an array');
+    for(const q of arr){ if(!q.id||!q.chapter||!q.question||!q.options||q.answerIndex==null) throw new Error('Missing required fields'); }
+    state.bank = arr; state.settings.bankUrl = url; saveState(); populateChapterSelect(); alert('Loaded question bank from URL!');
+  }catch(e){ alert('Could not fetch: '+e.message); }
+});
+$('saveBankUrlBtn')?.addEventListener('click', ()=>{ state.settings.bankUrl = $('bankUrl').value.trim(); saveState(); alert('Saved URL'); });
+
+$('mode').addEventListener('change', e=>{ state.settings.mode = e.target.value; saveState(); });
+$('chapters').addEventListener('change', e=>{
+  const sel=[...e.target.options].filter(o=>o.selected).map(o=>o.value);
+  state.settings.chapters = sel; saveState();
+});
+$('difficulty').addEventListener('change', e=>{
+  const vals=[...e.target.options].filter(o=>o.selected).map(o=>o.value);
+  state.settings.difficulty = vals.length? vals : ['easy','medium','hard'];
+  saveState();
+});
+
+(function init(){
+  populateChapterSelect();
+  $('mode').value = state.settings.mode || 'random';
+  $('webhookUrl').value = state.settings.webhook || '';
+  // difficulty restore
+  const difSel = $('difficulty');
+  if(difSel){ [...difSel.options].forEach(o=>{ o.selected = (state.settings.difficulty||['easy','medium','hard']).includes(o.value); }); }
+  renderStats();
+
+  // Auto-load the hardcoded bank on startup
+  if (HARDCODED_BANK_URL) {
+    fetch(HARDCODED_BANK_URL, { cache: 'no-store' })
+      .then(res => { if(!res.ok) throw new Error(res.status+' '+res.statusText); return res.json(); })
+      .then(arr => {
+        if(!Array.isArray(arr)) throw new Error('Bank JSON must be an array');
+        for (const q of arr) { if(!q.id||!q.chapter||!q.question||!q.options||q.answerIndex==null) throw new Error('Invalid question object'); }
+        state.bank = arr; saveState(); populateChapterSelect(); renderStats();
+        console.log('[quiz] Hardcoded bank loaded:', arr.length, 'items');
+      })
+      .catch(err => console.warn('[quiz] Failed to load hardcoded bank:', err));
+  }
+})();
+
+// Optional: console helper
+window.__quizTestPing = function(){ postEvent('test', { ping:true }); console.log('[quiz] Sent test ping'); };
+</script>
+</body>
+</html>
