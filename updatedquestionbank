@@ -307,10 +307,6 @@
       "answer": "Lack of localized market strategy"
     },
 
-    /* =========================
-       MANUAL 2 — ELED I
-    ========================== */
-
     {
       "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
       "chapter": 1,
@@ -921,10 +917,6 @@
       "answer": "Weak local ecosystem resilience"
     },
 
-    /* =========================
-       MANUAL 3 — ELED II (as previously structured)
-    ========================== */
-
     {
       "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
       "chapter": 1,
@@ -1490,8 +1482,6 @@
     "options": ["Policy advocacy leadership", "Tax compliance", "Industrial zoning", "Corporate acquisition"],
     "answer": "Policy advocacy leadership"
   },
-
-  /* ===== CHAPTER 10: STORYTELLING ===== */
 
   {
     "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
