@@ -986,10 +986,571 @@
       "answer": "Imbalanced ecosystem support"
     }
 
-    /* NOTE:
-       Your Manual 3 bank continues through chapters 2–10 exactly as provided earlier.
-       If you want, paste the remainder of Manual 3 questions you want included here,
-       and I’ll merge them into this master in the same schema.
-    */
-  ]
-}
+   [
+  /* ===== MANUAL 3 — CHAPTER 2: MICROENTERPRISES & MAIN STREET ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 2,
+    "chapter_tag": "micro_mainstreet",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Microenterprises generally require how much startup capital?",
+    "options": ["Less than $35,000", "More than $1 million", "Over $500,000", "Only venture funding"],
+    "answer": "Less than $35,000"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 2,
+    "chapter_tag": "micro_mainstreet",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A retiree launches a freelance design business using personal savings. Which category best fits?",
+    "options": ["Microenterprise", "Innovation-led", "Second-stage", "Corporate spinout"],
+    "answer": "Microenterprise"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 2,
+    "chapter_tag": "micro_mainstreet",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Main street businesses are typically:",
+    "options": ["Local, community-based firms", "Large export manufacturers", "Government agencies", "Equity funds"],
+    "answer": "Local, community-based firms"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 2,
+    "chapter_tag": "micro_mainstreet",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A downtown restaurant sponsors local events and supports community identity. What entrepreneur type is this?",
+    "options": ["Main street", "Gazelle", "Innovation-led", "Corporate venture"],
+    "answer": "Main street"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 2,
+    "chapter_tag": "micro_mainstreet",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Why are microenterprises important for equity?",
+    "options": ["They create pathways to wealth building", "They eliminate risk", "They reduce diversity", "They replace corporations"],
+    "answer": "They create pathways to wealth building"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 2,
+    "chapter_tag": "micro_mainstreet",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A city launches a ‘Shop Local’ campaign to strengthen downtown retail. What outcome is expected?",
+    "options": ["Higher local economic recirculation", "Reduced entrepreneurship", "Less community culture", "Export decline"],
+    "answer": "Higher local economic recirculation"
+  },
+
+  /* ===== CHAPTER 3: INNOVATION-LED ENTREPRENEURS ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 3,
+    "chapter_tag": "innovation_led",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "What does MVP stand for in innovation-led entrepreneurship?",
+    "options": ["Minimum viable product", "Market value plan", "Managed venture program", "Monetized value pipeline"],
+    "answer": "Minimum viable product"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 3,
+    "chapter_tag": "innovation_led",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A startup launches a simple early version of its app to gather user feedback. What strategy is this?",
+    "options": ["Minimum viable product testing", "Corporate scaling", "Tax planning", "Brand licensing"],
+    "answer": "Minimum viable product testing"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 3,
+    "chapter_tag": "innovation_led",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Innovation-led startups often need early-stage capital because:",
+    "options": ["They cannot bootstrap quickly", "They avoid growth", "They focus only on retail", "They reduce risk"],
+    "answer": "They cannot bootstrap quickly"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 3,
+    "chapter_tag": "innovation_led",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An EDO introduces a tech startup to a corporate partner for beta testing. What ecosystem role is being played?",
+    "options": ["Connector and matchmaker", "Regulator", "Auditor", "Policy enforcer"],
+    "answer": "Connector and matchmaker"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 3,
+    "chapter_tag": "innovation_led",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Higher education institutions contribute to innovation ecosystems primarily by:",
+    "options": ["Providing research commercialization pathways", "Reducing competition", "Limiting partnerships", "Controlling startups"],
+    "answer": "Providing research commercialization pathways"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 3,
+    "chapter_tag": "innovation_led",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A university collaborates with entrepreneurs to move lab research into a startup venture. What ecosystem function is demonstrated?",
+    "options": ["Technology transfer and commercialization", "Industrial zoning", "Tax compliance", "Retail promotion"],
+    "answer": "Technology transfer and commercialization"
+  },
+
+  /* ===== CHAPTER 4: SECOND-STAGE COMPANIES ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 4,
+    "chapter_tag": "second_stage",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Second-stage firms focus primarily on:",
+    "options": ["Growth and expansion", "Idea validation only", "Exit planning only", "Government regulation"],
+    "answer": "Growth and expansion"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 4,
+    "chapter_tag": "second_stage",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A company shifts from writing business plans to creating strategic marketing plans. Which phase is this?",
+    "options": ["Second-stage growth", "Idea phase", "Maturity only", "Policy reform"],
+    "answer": "Second-stage growth"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 4,
+    "chapter_tag": "second_stage",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Leadership development becomes critical during which phase?",
+    "options": ["Expansion and growth", "Idea stage only", "Exit phase only", "Policy stage"],
+    "answer": "Expansion and growth"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 4,
+    "chapter_tag": "second_stage",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A founder stops doing every job personally and builds a leadership team. What transition is occurring?",
+    "options": ["CEO leadership shift", "Market collapse", "Regulatory change", "Tax restructuring"],
+    "answer": "CEO leadership shift"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 4,
+    "chapter_tag": "second_stage",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Economic gardening programs are often used to support:",
+    "options": ["Second-stage companies", "Pre-idea entrepreneurs", "Government agencies", "Utility providers"],
+    "answer": "Second-stage companies"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 4,
+    "chapter_tag": "second_stage",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A region invests in market intelligence tools to help scaling firms enter new markets. What strategy is being applied?",
+    "options": ["Economic gardening support", "Corporate recruitment", "Policy enforcement", "Industrial planning"],
+    "answer": "Economic gardening support"
+  },
+
+  /* ===== CHAPTER 5: DIVERSIFIED COMMUNITY ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 5,
+    "chapter_tag": "diversity",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Intersectionality refers to:",
+    "options": ["Overlapping identities and experiences", "Tax policy layers", "Industry clusters", "Workforce compliance"],
+    "answer": "Overlapping identities and experiences"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 5,
+    "chapter_tag": "diversity",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A program targets support for women of color entrepreneurs. Which concept is reflected?",
+    "options": ["Intersectionality", "Industrial zoning", "Corporate recruitment", "Export expansion"],
+    "answer": "Intersectionality"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 5,
+    "chapter_tag": "diversity",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Inclusive ecosystems require:",
+    "options": ["Intentional engagement strategies", "Reduced access", "Limited outreach", "Policy restrictions"],
+    "answer": "Intentional engagement strategies"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 5,
+    "chapter_tag": "diversity",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An EDO conducts outreach to older entrepreneurs and LGBTQ founders. What principle is being applied?",
+    "options": ["Inclusive ecosystem building", "Compliance auditing", "Tax reform", "Corporate consolidation"],
+    "answer": "Inclusive ecosystem building"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 5,
+    "chapter_tag": "diversity",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Why is diversity critical to ecosystem resilience?",
+    "options": ["Broader participation strengthens economic opportunity", "It reduces innovation", "It eliminates growth", "It replaces policy"],
+    "answer": "Broader participation strengthens economic opportunity"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 5,
+    "chapter_tag": "diversity",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A community ignores minority entrepreneurs when designing programs. What long-term risk exists?",
+    "options": ["Unequal economic outcomes", "Rapid innovation growth", "Capital surplus", "Policy stability"],
+    "answer": "Unequal economic outcomes"
+  },
+
+  /* ===== CHAPTER 6: RURAL ECOSYSTEMS ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 6,
+    "chapter_tag": "rural_ecosystems",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Rural ecosystem definitions include:",
+    "options": ["Federal, perceptual and ecosystem-based definitions", "Tax-only definitions", "Urban-only frameworks", "Export-only metrics"],
+    "answer": "Federal, perceptual and ecosystem-based definitions"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 6,
+    "chapter_tag": "rural_ecosystems",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A rural town builds partnerships to overcome low population density challenges. What strategy is this?",
+    "options": ["Rural ecosystem collaboration", "Industrial clustering", "Policy enforcement", "Corporate acquisition"],
+    "answer": "Rural ecosystem collaboration"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 6,
+    "chapter_tag": "rural_ecosystems",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Rural communities often face which ecosystem challenge?",
+    "options": ["Limited access to resources", "Excess infrastructure", "Overcrowding", "Capital oversupply"],
+    "answer": "Limited access to resources"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 6,
+    "chapter_tag": "rural_ecosystems",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A small town launches coworking and makerspaces to support entrepreneurs. What goal is being pursued?",
+    "options": ["Infrastructure access", "Policy restriction", "Tax expansion", "Export control"],
+    "answer": "Infrastructure access"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 6,
+    "chapter_tag": "rural_ecosystems",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Successful rural ecosystems rely heavily on:",
+    "options": ["Collaboration and adaptability", "Isolation", "Single funding sources", "Strict regulation"],
+    "answer": "Collaboration and adaptability"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 6,
+    "chapter_tag": "rural_ecosystems",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A rural region creates regional partnerships to share resources across counties. What ecosystem principle is demonstrated?",
+    "options": ["Networked regional collaboration", "Corporate consolidation", "Policy restriction", "Urbanization"],
+    "answer": "Networked regional collaboration"
+  },
+
+  /* ===== CHAPTER 7: CAPITAL FOR ENTREPRENEURS ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 7,
+    "chapter_tag": "capital",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "The debt continuum includes:",
+    "options": ["Loans and financing options", "Only equity investment", "Tax credits", "Regulatory approvals"],
+    "answer": "Loans and financing options"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 7,
+    "chapter_tag": "capital",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "An entrepreneur receives a microloan instead of equity investment. Which capital path is this?",
+    "options": ["Debt financing", "Equity-only funding", "Policy grant", "Corporate acquisition"],
+    "answer": "Debt financing"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 7,
+    "chapter_tag": "capital",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Equity financing typically involves:",
+    "options": ["Ownership exchange for capital", "Tax deductions", "Zoning permits", "Import licensing"],
+    "answer": "Ownership exchange for capital"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 7,
+    "chapter_tag": "capital",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A founder gives investors shares in exchange for funding. What capital type is this?",
+    "options": ["Equity investment", "Grant funding", "Loan forgiveness", "Policy subsidy"],
+    "answer": "Equity investment"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 7,
+    "chapter_tag": "capital",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Bootstrapping refers to:",
+    "options": ["Growing through sales and revenue rather than outside funding", "Government subsidies", "Industrial zoning", "Equity dilution"],
+    "answer": "Growing through sales and revenue rather than outside funding"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 7,
+    "chapter_tag": "capital",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A business scales using customer revenue instead of investors. Which strategy is being used?",
+    "options": ["Bootstrapping", "Equity dilution", "Grant dependency", "Corporate acquisition"],
+    "answer": "Bootstrapping"
+  },
+
+  /* ===== CHAPTER 8: CORPORATE ENGAGEMENT ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 8,
+    "chapter_tag": "corporate_engagement",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Corporate engagement involves:",
+    "options": ["Partnerships between corporations and ecosystems", "Tax audits", "Industrial zoning", "Workforce layoffs"],
+    "answer": "Partnerships between corporations and ecosystems"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 8,
+    "chapter_tag": "corporate_engagement",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A corporation mentors startups and sponsors events. What exchange is occurring?",
+    "options": ["Corporate ecosystem exchange", "Policy enforcement", "Tax reform", "Export regulation"],
+    "answer": "Corporate ecosystem exchange"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 8,
+    "chapter_tag": "corporate_engagement",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Customer and vendor sourcing exchanges allow corporations to:",
+    "options": ["Connect with startups in supply chains", "Avoid innovation", "Reduce partnerships", "Limit collaboration"],
+    "answer": "Connect with startups in supply chains"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 8,
+    "chapter_tag": "corporate_engagement",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A major company pilots a new startup product within its operations. What engagement model is this?",
+    "options": ["R&D exchange", "Policy audit", "Zoning enforcement", "Tax credit exchange"],
+    "answer": "R&D exchange"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 8,
+    "chapter_tag": "corporate_engagement",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Successful corporate engagement requires:",
+    "options": ["Mutual value exchanges", "Strict control by one partner", "Limited communication", "Reduced collaboration"],
+    "answer": "Mutual value exchanges"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 8,
+    "chapter_tag": "corporate_engagement",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A regional program connects corporations with startups for investment and talent development. What ecosystem strategy is this?",
+    "options": ["Corporate engagement ecosystem building", "Industrial zoning", "Export restriction", "Policy enforcement"],
+    "answer": "Corporate engagement ecosystem building"
+  },
+
+  /* ===== CHAPTER 9: POLICY ENVIRONMENT ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 9,
+    "chapter_tag": "policy",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Supportive policy environments aim to:",
+    "options": ["Remove barriers for entrepreneurs", "Increase regulation only", "Limit collaboration", "Reduce innovation"],
+    "answer": "Remove barriers for entrepreneurs"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 9,
+    "chapter_tag": "policy",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A city simplifies business licensing requirements to help startups launch faster. What policy action is this?",
+    "options": ["Pro-entrepreneur policy reform", "Tax enforcement", "Corporate consolidation", "Industrial planning"],
+    "answer": "Pro-entrepreneur policy reform"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 9,
+    "chapter_tag": "policy",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Local elected officials can support ecosystems by:",
+    "options": ["Championing entrepreneurship-friendly policies", "Limiting collaboration", "Avoiding engagement", "Reducing access"],
+    "answer": "Championing entrepreneurship-friendly policies"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 9,
+    "chapter_tag": "policy",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A mayor advocates for funding entrepreneur programs and regulatory reform. What role is being played?",
+    "options": ["Policy champion", "Compliance auditor", "Corporate recruiter", "Industrial planner"],
+    "answer": "Policy champion"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 9,
+    "chapter_tag": "policy",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Influencing policy effectively requires:",
+    "options": ["Strategic advocacy and collaboration", "Isolation", "Minimal engagement", "Only federal action"],
+    "answer": "Strategic advocacy and collaboration"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 9,
+    "chapter_tag": "policy",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An EDO builds coalitions to push for statewide entrepreneurship legislation. What ecosystem function is this?",
+    "options": ["Policy advocacy leadership", "Tax compliance", "Industrial zoning", "Corporate acquisition"],
+    "answer": "Policy advocacy leadership"
+  },
+
+  /* ===== CHAPTER 10: STORYTELLING ===== */
+
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 10,
+    "chapter_tag": "storytelling",
+    "difficulty": "easy",
+    "type": "standard",
+    "question": "Storytelling in ecosystems helps communicate:",
+    "options": ["Entrepreneurial success and impact", "Tax policy changes", "Zoning enforcement", "Industrial regulations"],
+    "answer": "Entrepreneurial success and impact"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 10,
+    "chapter_tag": "storytelling",
+    "difficulty": "easy",
+    "type": "scenario",
+    "question": "A community highlights founder success stories at events to build momentum. What practice is this?",
+    "options": ["Ecosystem storytelling", "Policy auditing", "Compliance enforcement", "Corporate restructuring"],
+    "answer": "Ecosystem storytelling"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 10,
+    "chapter_tag": "storytelling",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Community celebrations help ecosystems by:",
+    "options": ["Reinforcing culture and visibility", "Limiting growth", "Reducing innovation", "Eliminating partnerships"],
+    "answer": "Reinforcing culture and visibility"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 10,
+    "chapter_tag": "storytelling",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An EDO launches a campaign showcasing local entrepreneur wins. What outcome is expected?",
+    "options": ["Stronger entrepreneurial culture", "Reduced participation", "Policy confusion", "Lower visibility"],
+    "answer": "Stronger entrepreneurial culture"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 10,
+    "chapter_tag": "storytelling",
+    "difficulty": "hard",
+    "type": "standard",
+    "question": "Why is storytelling considered strategic rather than cosmetic?",
+    "options": ["It shapes perception and ecosystem engagement", "It replaces funding", "It eliminates programs", "It reduces partnerships"],
+    "answer": "It shapes perception and ecosystem engagement"
+  },
+  {
+    "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+    "chapter": 10,
+    "chapter_tag": "storytelling",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Entrepreneurs stop participating because they don’t see their stories reflected in messaging. What ecosystem gap exists?",
+    "options": ["Lack of inclusive storytelling", "Capital shortage", "Policy enforcement", "Industrial planning"],
+    "answer": "Lack of inclusive storytelling"
+  }
+]
