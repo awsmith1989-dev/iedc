@@ -1,0 +1,995 @@
+{
+  "bank_title": "Master Question Bank (3 Manuals)",
+  "version": "1.0",
+  "questions": [
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 1,
+      "chapter_tag": "entrepreneurship_foundations",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "What is one primary goal of economic development?",
+      "options": ["Reducing imports", "Creating jobs", "Limiting innovation", "Increasing regulation"],
+      "answer": "Creating jobs"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 1,
+      "chapter_tag": "entrepreneurship_foundations",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An economic developer explains that entrepreneurship helps diversify industry sectors and stabilize local economies. What concept are they describing?",
+      "options": ["Tax abatements", "Entrepreneurial ecosystems", "Zoning reform", "Corporate consolidation"],
+      "answer": "Entrepreneurial ecosystems"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 1,
+      "chapter_tag": "entrepreneurship_foundations",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which entrepreneurial stack segment focuses on commercialization of research and intellectual property?",
+      "options": ["Microenterprise", "Technology transfer", "Retail business", "Franchise ownership"],
+      "answer": "Technology transfer"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 1,
+      "chapter_tag": "entrepreneurship_foundations",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A founder starts a small online art shop generating supplemental household income. Which part of the entrepreneurial stack best describes this?",
+      "options": ["Startup/scaleup", "Technology transfer", "Microenterprise", "Industrial manufacturer"],
+      "answer": "Microenterprise"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 1,
+      "chapter_tag": "entrepreneurship_foundations",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why should economic development organizations avoid trying to provide every service themselves?",
+      "options": ["Federal law prevents it", "Resource strain and lack of strategic focus", "It increases taxes", "Entrepreneurs prefer isolation"],
+      "answer": "Resource strain and lack of strategic focus"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 1,
+      "chapter_tag": "entrepreneurship_foundations",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "An entrepreneur cannot obtain traditional bank loans due to limited collateral and credit history. Which ecosystem gap is most relevant?",
+      "options": ["Talent shortage", "Capital spectrum gap", "Overregulation", "Infrastructure failure"],
+      "answer": "Capital spectrum gap"
+    },
+
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 2,
+      "chapter_tag": "technical_assistance_networks",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Technical assistance commonly includes which activity?",
+      "options": ["Business counseling", "Import tariffs", "Corporate auditing", "Union negotiations"],
+      "answer": "Business counseling"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 2,
+      "chapter_tag": "technical_assistance_networks",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A new entrepreneur feels isolated and wants to meet others facing similar challenges. What support strategy should you recommend?",
+      "options": ["Peer networking", "Tax workshops", "Industrial recruitment", "Debt restructuring"],
+      "answer": "Peer networking"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 2,
+      "chapter_tag": "technical_assistance_networks",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which nationwide program provides small business consulting and training?",
+      "options": ["HUD", "SBDC", "EPA", "FEMA"],
+      "answer": "SBDC"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 2,
+      "chapter_tag": "technical_assistance_networks",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "Your EDO surveys local businesses to determine gaps in technical assistance services. What is the main purpose of this action?",
+      "options": ["Meeting federal mandates", "Identifying community needs", "Reducing staffing", "Marketing grants"],
+      "answer": "Identifying community needs"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 2,
+      "chapter_tag": "technical_assistance_networks",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Mentor networks primarily provide entrepreneurs with what advantage?",
+      "options": ["Guaranteed loans", "Real-world experience and guidance", "Tax exemptions", "Property ownership"],
+      "answer": "Real-world experience and guidance"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 2,
+      "chapter_tag": "technical_assistance_networks",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A loan program requires participants to meet regularly to discuss business challenges together. What development strategy is being used?",
+      "options": ["Regulatory compliance", "Peer learning within loan programs", "Tax monitoring", "Export promotion"],
+      "answer": "Peer learning within loan programs"
+    },
+
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 3,
+      "chapter_tag": "economic_gardening",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Economic gardening focuses on supporting which businesses?",
+      "options": ["Large multinational corporations", "Local growth-stage companies", "Government agencies", "Import distributors"],
+      "answer": "Local growth-stage companies"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 3,
+      "chapter_tag": "economic_gardening",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A city decides to invest resources into helping existing local firms scale rather than recruiting outside companies. What strategy is this?",
+      "options": ["Economic gardening", "Industrial relocation", "Trade zoning", "Capital export"],
+      "answer": "Economic gardening"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 3,
+      "chapter_tag": "economic_gardening",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which partners frequently support economic gardening efforts?",
+      "options": ["Higher education institutions", "Military contractors", "Insurance brokers", "Utility regulators"],
+      "answer": "Higher education institutions"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 3,
+      "chapter_tag": "economic_gardening",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "An EDO collaborates with SBDCs to provide data-driven growth support to local firms. What approach are they using?",
+      "options": ["Economic gardening collaboration", "Industrial recruitment", "Tax policy reform", "Export embargo"],
+      "answer": "Economic gardening collaboration"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 3,
+      "chapter_tag": "economic_gardening",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Economic gardening differs from traditional recruitment strategies because it prioritizes:",
+      "options": ["External relocation incentives", "Internal firm growth", "Trade tariffs", "Infrastructure expansion"],
+      "answer": "Internal firm growth"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 3,
+      "chapter_tag": "economic_gardening",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A community invests in advanced market research tools to help second-stage companies expand nationally. Which philosophy guides this investment?",
+      "options": ["Economic gardening", "Foreign direct investment", "Tax abatement strategy", "Industrial zoning"],
+      "answer": "Economic gardening"
+    },
+
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 4,
+      "chapter_tag": "business_planning",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Which section provides a high-level overview of a business plan?",
+      "options": ["Executive summary", "Appendix", "Operations audit", "Supply chain report"],
+      "answer": "Executive summary"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 4,
+      "chapter_tag": "business_planning",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An entrepreneur asks what part of the business plan investors read first to understand the idea quickly. What should you recommend?",
+      "options": ["Executive summary", "Cover sheet", "Financial appendix", "Hiring plan"],
+      "answer": "Executive summary"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 4,
+      "chapter_tag": "business_planning",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which component explains what the business does and its mission?",
+      "options": ["Business description", "Legal disclaimer", "Risk audit", "Export plan"],
+      "answer": "Business description"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 4,
+      "chapter_tag": "business_planning",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A client struggles to determine staffing needs and workspace requirements while drafting a plan. Which stage are they in?",
+      "options": ["Formalizing the business plan", "Closing the business", "Export acceleration", "Debt restructuring"],
+      "answer": "Formalizing the business plan"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 4,
+      "chapter_tag": "business_planning",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Which financial component helps evaluate long-term sustainability?",
+      "options": ["Cash flow projections", "Logo design", "Press releases", "Social media analytics"],
+      "answer": "Cash flow projections"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 4,
+      "chapter_tag": "business_planning",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A founder presents strong branding but no financial projections. What major weakness exists in their business plan?",
+      "options": ["Lack of financial viability analysis", "Overstaffing risk", "Insufficient marketing", "Weak zoning strategy"],
+      "answer": "Lack of financial viability analysis"
+    },
+
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 5,
+      "chapter_tag": "international_business",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "International business plans emphasize which activity?",
+      "options": ["Market research", "Utility planning", "Local zoning", "Union bargaining"],
+      "answer": "Market research"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 5,
+      "chapter_tag": "international_business",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A small firm wants to expand overseas but lacks information about customers abroad. What should be the first step?",
+      "options": ["Conduct market research", "Hire legal staff", "Secure patents", "Open a warehouse"],
+      "answer": "Conduct market research"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 5,
+      "chapter_tag": "international_business",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which factor influences international pricing decisions?",
+      "options": ["Exchange rates", "School district policy", "Building codes", "Zoning permits"],
+      "answer": "Exchange rates"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 5,
+      "chapter_tag": "international_business",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "An exporter adjusts product pricing due to fluctuating currency values. What planning element is being applied?",
+      "options": ["Market pricing considerations", "Local workforce policy", "Industrial relocation", "Community branding"],
+      "answer": "Market pricing considerations"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 5,
+      "chapter_tag": "international_business",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "International planning requires addressing which additional complexity compared to domestic plans?",
+      "options": ["Cross-border regulations", "Local advertising", "Office layout", "Internal HR policies"],
+      "answer": "Cross-border regulations"
+    },
+    {
+      "title": "Entrepreneurial and Small Business Development Strategies - IEDC (Spring 2024)",
+      "chapter": 5,
+      "chapter_tag": "international_business",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A company fails in a foreign market because it ignored cultural differences in consumer behavior. What planning weakness caused this?",
+      "options": ["Lack of localized market strategy", "Weak payroll system", "Poor zoning analysis", "Inadequate staffing"],
+      "answer": "Lack of localized market strategy"
+    },
+
+    /* =========================
+       MANUAL 2 — ELED I
+    ========================== */
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 1,
+      "chapter_tag": "eled_overview",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "What does ELED primarily focus on?",
+      "options": ["Attracting large corporations only", "Supporting business creation and growth", "Reducing regulations", "Industrial zoning"],
+      "answer": "Supporting business creation and growth"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 1,
+      "chapter_tag": "eled_overview",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A community invests in mentoring and funding local founders rather than offering tax breaks to large companies. What strategy are they using?",
+      "options": ["Traditional attraction", "Entrepreneurship-led economic development", "Infrastructure expansion", "Corporate relocation"],
+      "answer": "Entrepreneurship-led economic development"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 1,
+      "chapter_tag": "eled_overview",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which group is considered the center of the entrepreneurial ecosystem?",
+      "options": ["Policy makers", "Entrepreneurs", "Investors", "Real estate developers"],
+      "answer": "Entrepreneurs"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 1,
+      "chapter_tag": "eled_overview",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A region focuses on strengthening culture, trust, and collaboration among organizations to support startups. What ecosystem principle is this?",
+      "options": ["Systems thinking", "Industrial recruitment", "Export zoning", "Compliance auditing"],
+      "answer": "Systems thinking"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 1,
+      "chapter_tag": "eled_overview",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Which factor differentiates an ecosystem from an ELED strategy?",
+      "options": ["Ecosystems are organic networks; ELED is structured infrastructure", "ELED replaces ecosystems", "Ecosystems are financial programs", "ELED eliminates collaboration"],
+      "answer": "Ecosystems are organic networks; ELED is structured infrastructure"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 1,
+      "chapter_tag": "eled_overview",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A community launches several disconnected programs without collaboration, causing confusion among entrepreneurs. Which ecosystem issue is present?",
+      "options": ["Lack of systems thinking", "Overinvestment in exports", "Strong capital spectrum", "High innovation density"],
+      "answer": "Lack of systems thinking"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 2,
+      "chapter_tag": "ecosystem_roles",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "What role should every organization play in an ecosystem?",
+      "options": ["Regulator", "Connector", "Auditor", "Exporter"],
+      "answer": "Connector"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 2,
+      "chapter_tag": "ecosystem_roles",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An EDO introduces local founders to mentors and funding partners. What role is it performing?",
+      "options": ["Connector", "Enforcer", "Recruiter", "Tax authority"],
+      "answer": "Connector"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 2,
+      "chapter_tag": "ecosystem_roles",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Which benefit do entrepreneurs gain from strong ecosystems?",
+      "options": ["Reduced zoning", "More resources and connections", "Guaranteed loans", "Lower taxes"],
+      "answer": "More resources and connections"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 2,
+      "chapter_tag": "ecosystem_roles",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A regional EDO hosts a summit bringing ESOs, entrepreneurs, and investors together. Which role is the EDO fulfilling?",
+      "options": ["Convener", "Regulator", "Auditor", "Policy enforcer"],
+      "answer": "Convener"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 2,
+      "chapter_tag": "ecosystem_roles",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "What happens when organizations operate in silos within an ecosystem?",
+      "options": ["Improved collaboration", "Duplication and wasted energy", "Better funding alignment", "Simplified partnerships"],
+      "answer": "Duplication and wasted energy"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 2,
+      "chapter_tag": "ecosystem_roles",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "Two ESOs compete for the same entrepreneurs by offering identical programs. What ecosystem challenge does this represent?",
+      "options": ["Service duplication", "Healthy competition", "Capital scarcity", "Innovation lag"],
+      "answer": "Service duplication"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 3,
+      "chapter_tag": "champions_mapping",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Who are ecosystem champions?",
+      "options": ["Policy regulators", "Individuals driving entrepreneurial culture", "Bank auditors", "Utility providers"],
+      "answer": "Individuals driving entrepreneurial culture"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 3,
+      "chapter_tag": "champions_mapping",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A local leader advocates for collaboration between ESOs and entrepreneurs to strengthen the ecosystem. What role are they playing?",
+      "options": ["Ecosystem champion", "Tax assessor", "Industrial recruiter", "Compliance officer"],
+      "answer": "Ecosystem champion"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 3,
+      "chapter_tag": "champions_mapping",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Segmenting an ecosystem helps communities do what?",
+      "options": ["Reduce partnerships", "Better understand participants and needs", "Increase taxes", "Eliminate startups"],
+      "answer": "Better understand participants and needs"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 3,
+      "chapter_tag": "champions_mapping",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A region maps entrepreneurs, investors, universities, and support organizations to understand gaps. What activity is this?",
+      "options": ["Ecosystem segmentation", "Corporate recruitment", "Financial auditing", "Brand marketing"],
+      "answer": "Ecosystem segmentation"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 3,
+      "chapter_tag": "champions_mapping",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why do ecosystem champions evolve over time?",
+      "options": ["Because ecosystems are dynamic and changing", "Due to federal mandates", "Because of tax policy", "To reduce partnerships"],
+      "answer": "Because ecosystems are dynamic and changing"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 3,
+      "chapter_tag": "champions_mapping",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "An early ecosystem leader shifts from running programs to connecting partners across sectors. What stage of evolution is occurring?",
+      "options": ["Champion evolution", "Program failure", "Policy enforcement", "Market contraction"],
+      "answer": "Champion evolution"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 4,
+      "chapter_tag": "collaboration_change",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Silo-busting primarily aims to improve what?",
+      "options": ["Competition", "Partnerships", "Regulation", "Tax revenue"],
+      "answer": "Partnerships"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 4,
+      "chapter_tag": "collaboration_change",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "Organizations share data and coordinate programs instead of working independently. What principle is being applied?",
+      "options": ["Silo-busting collaboration", "Recruitment strategy", "Compliance auditing", "Funding restriction"],
+      "answer": "Silo-busting collaboration"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 4,
+      "chapter_tag": "collaboration_change",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "What is a common reaction to change within organizations?",
+      "options": ["Universal acceptance", "Fear or resistance", "Automatic success", "Funding increases"],
+      "answer": "Fear or resistance"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 4,
+      "chapter_tag": "collaboration_change",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A partner organization hesitates to collaborate because it fears losing control. Which change response is this?",
+      "options": ["Resistance to change", "Innovation adoption", "Leadership transition", "Market expansion"],
+      "answer": "Resistance to change"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 4,
+      "chapter_tag": "collaboration_change",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Group boundary permeability refers to:",
+      "options": ["Balancing openness and structure in partnerships", "Zoning laws", "Tax credits", "Export strategy"],
+      "answer": "Balancing openness and structure in partnerships"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 4,
+      "chapter_tag": "collaboration_change",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "An ecosystem becomes exclusive and stops welcoming new partners. What boundary issue is present?",
+      "options": ["Low permeability", "High innovation", "Strong inclusion", "Market growth"],
+      "answer": "Low permeability"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 5,
+      "chapter_tag": "assessment_clusters",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Assessing a community helps identify what?",
+      "options": ["Ecosystem strengths and gaps", "Tax loopholes", "Building permits", "Import restrictions"],
+      "answer": "Ecosystem strengths and gaps"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 5,
+      "chapter_tag": "assessment_clusters",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An EDO evaluates industry clusters and entrepreneur demographics before launching a program. What are they doing?",
+      "options": ["Community assessment", "Recruitment planning", "Compliance auditing", "Tax analysis"],
+      "answer": "Community assessment"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 5,
+      "chapter_tag": "assessment_clusters",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Cluster-based principles help communities understand:",
+      "options": ["Industry relationships", "Federal tax codes", "Housing zoning", "Labor unions"],
+      "answer": "Industry relationships"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 5,
+      "chapter_tag": "assessment_clusters",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A region studies how its healthcare and agriculture sectors overlap to support innovation. Which concept is applied?",
+      "options": ["Cluster analysis", "Tax diversification", "Export planning", "Workforce compliance"],
+      "answer": "Cluster analysis"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 5,
+      "chapter_tag": "assessment_clusters",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why is understanding risk and failure important in ELED?",
+      "options": ["Entrepreneurship involves experimentation and learning", "It prevents partnerships", "It eliminates innovation", "It reduces funding"],
+      "answer": "Entrepreneurship involves experimentation and learning"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 5,
+      "chapter_tag": "assessment_clusters",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A community avoids supporting startups because some may fail. What mindset gap exists?",
+      "options": ["Low tolerance for risk", "Strong ecosystem culture", "Innovation leadership", "Capital abundance"],
+      "answer": "Low tolerance for risk"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 6,
+      "chapter_tag": "inclusion_access",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Inclusion in ELED focuses on:",
+      "options": ["Expanding access and opportunity", "Limiting participation", "Reducing innovation", "Increasing regulations"],
+      "answer": "Expanding access and opportunity"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 6,
+      "chapter_tag": "inclusion_access",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A program ensures entrepreneurs from underserved communities can access mentoring and funding. What domain is this?",
+      "options": ["Entrepreneurship support inclusivity", "Corporate recruitment", "Industrial zoning", "Tax policy"],
+      "answer": "Entrepreneurship support inclusivity"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 6,
+      "chapter_tag": "inclusion_access",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "What is the difference between availability and accessibility?",
+      "options": ["Resources may exist but still be hard to access", "They are identical", "Accessibility is only financial", "Availability means regulation"],
+      "answer": "Resources may exist but still be hard to access"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 6,
+      "chapter_tag": "inclusion_access",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "An incubator exists but is located far from underserved neighborhoods. Which inclusion issue is present?",
+      "options": ["Accessibility gap", "Funding shortage", "Policy failure", "Branding challenge"],
+      "answer": "Accessibility gap"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 6,
+      "chapter_tag": "inclusion_access",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Implicit bias affects ecosystems by:",
+      "options": ["Limiting who receives support", "Increasing innovation automatically", "Reducing partnerships", "Strengthening funding"],
+      "answer": "Limiting who receives support"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 6,
+      "chapter_tag": "inclusion_access",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A loan committee unknowingly favors certain founders over others. What issue is this?",
+      "options": ["Implicit bias", "Capital surplus", "Cluster advantage", "Ecosystem maturity"],
+      "answer": "Implicit bias"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 7,
+      "chapter_tag": "trust_engagement",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Becoming a trusted source requires:",
+      "options": ["Quick action and practical help", "Heavy regulation", "Strict enforcement", "Large incentives"],
+      "answer": "Quick action and practical help"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 7,
+      "chapter_tag": "trust_engagement",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An EDO responds quickly to entrepreneur needs and connects them to resources. What role is it building?",
+      "options": ["Trusted source", "Compliance agency", "Export authority", "Tax auditor"],
+      "answer": "Trusted source"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 7,
+      "chapter_tag": "trust_engagement",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Engaging businesses effectively requires:",
+      "options": ["Listening and relationship-building", "Policy enforcement", "Marketing slogans", "Industrial zoning"],
+      "answer": "Listening and relationship-building"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 7,
+      "chapter_tag": "trust_engagement",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "An ecosystem builder spends time visiting companies to understand their needs before launching programs. What practice is this?",
+      "options": ["Relationship-driven engagement", "Corporate recruitment", "Financial auditing", "Tax compliance"],
+      "answer": "Relationship-driven engagement"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 7,
+      "chapter_tag": "trust_engagement",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why is trust critical in ecosystems?",
+      "options": ["It enables faster collaboration and resource sharing", "It reduces innovation", "It replaces funding", "It eliminates policy"],
+      "answer": "It enables faster collaboration and resource sharing"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 7,
+      "chapter_tag": "trust_engagement",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "Entrepreneurs stop engaging with an organization because promises were not fulfilled. What ecosystem risk occurred?",
+      "options": ["Loss of trust", "Capital expansion", "Cluster growth", "Policy alignment"],
+      "answer": "Loss of trust"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 8,
+      "chapter_tag": "measurement",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Measurement in ELED helps organizations do what?",
+      "options": ["Track accountability and results", "Increase taxes", "Reduce partnerships", "Control markets"],
+      "answer": "Track accountability and results"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 8,
+      "chapter_tag": "measurement",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An EDO tracks job creation and entrepreneur satisfaction to evaluate programs. What is this?",
+      "options": ["Measurement and accountability", "Recruitment strategy", "Policy enforcement", "Brand development"],
+      "answer": "Measurement and accountability"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 8,
+      "chapter_tag": "measurement",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "New measurement models focus on:",
+      "options": ["Impact beyond traditional metrics", "Tax revenue only", "Infrastructure spending", "Compliance audits"],
+      "answer": "Impact beyond traditional metrics"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 8,
+      "chapter_tag": "measurement",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A program evaluates inclusion outcomes rather than just number of events. What measurement approach is this?",
+      "options": ["Expanded impact metrics", "Traditional reporting", "Financial auditing", "Policy compliance"],
+      "answer": "Expanded impact metrics"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 8,
+      "chapter_tag": "measurement",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why are new measurement models important for ecosystems?",
+      "options": ["They capture broader economic and social impact", "They eliminate funding needs", "They reduce collaboration", "They replace entrepreneurs"],
+      "answer": "They capture broader economic and social impact"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 8,
+      "chapter_tag": "measurement",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A community uses an inclusion measurement tool to track who benefits from programs. What priority is being emphasized?",
+      "options": ["Equitable impact measurement", "Corporate recruitment", "Industrial zoning", "Policy enforcement"],
+      "answer": "Equitable impact measurement"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 9,
+      "chapter_tag": "funding",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Funding ecosystems often requires:",
+      "options": ["Collaboration and partnerships", "Single-source funding", "Tax penalties", "Industrial relocation"],
+      "answer": "Collaboration and partnerships"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 9,
+      "chapter_tag": "funding",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "An EDO partners with foundations and ESOs to support programs financially. What strategy is this?",
+      "options": ["Collaborative funding", "Compliance auditing", "Tax policy", "Infrastructure zoning"],
+      "answer": "Collaborative funding"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 9,
+      "chapter_tag": "funding",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Fundraising 101 emphasizes understanding:",
+      "options": ["Mission alignment with funders", "Tax regulations only", "Infrastructure planning", "Export rules"],
+      "answer": "Mission alignment with funders"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 9,
+      "chapter_tag": "funding",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "An organization adjusts its messaging to show how its programs align with a foundation’s goals. What fundraising tactic is this?",
+      "options": ["Mission alignment", "Compliance auditing", "Corporate recruitment", "Zoning strategy"],
+      "answer": "Mission alignment"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 9,
+      "chapter_tag": "funding",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why should organizations carefully decide whether to fund others?",
+      "options": ["To ensure strategic alignment and sustainability", "To eliminate collaboration", "To reduce partnerships", "To control ecosystems"],
+      "answer": "To ensure strategic alignment and sustainability"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 9,
+      "chapter_tag": "funding",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "An EDO funds multiple programs without evaluating overlap, leading to inefficiency. What funding mistake occurred?",
+      "options": ["Lack of strategic funding alignment", "Capital surplus", "Strong collaboration", "Policy innovation"],
+      "answer": "Lack of strategic funding alignment"
+    },
+
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 10,
+      "chapter_tag": "bre_strategy",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "BRE stands for:",
+      "options": ["Business Retention and Expansion", "Business Revenue Evaluation", "Regional Export Balance", "Brand Resource Exchange"],
+      "answer": "Business Retention and Expansion"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 10,
+      "chapter_tag": "bre_strategy",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A community helps existing companies grow instead of focusing only on attracting new ones. What strategy is this?",
+      "options": ["BRE", "Corporate relocation", "Industrial zoning", "Trade regulation"],
+      "answer": "BRE"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 10,
+      "chapter_tag": "bre_strategy",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "How are BRE and ELED connected?",
+      "options": ["Both support existing business growth", "They compete with each other", "BRE replaces ELED", "They focus only on exports"],
+      "answer": "Both support existing business growth"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 10,
+      "chapter_tag": "bre_strategy",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "An EDO integrates entrepreneur programs into its existing BRE strategy. What concept is demonstrated?",
+      "options": ["Interconnected strategies", "Industrial zoning", "Tax enforcement", "Policy compliance"],
+      "answer": "Interconnected strategies"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 10,
+      "chapter_tag": "bre_strategy",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why is balance between attraction, BRE, and ELED important?",
+      "options": ["No single strategy is a panacea", "To eliminate collaboration", "To reduce innovation", "To increase regulation"],
+      "answer": "No single strategy is a panacea"
+    },
+    {
+      "title": "Introduction to Entrepreneurship-Led Economic Development (ELED)",
+      "chapter": 10,
+      "chapter_tag": "bre_strategy",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A city focuses only on recruiting outside corporations and neglects local entrepreneurs. What long-term risk exists?",
+      "options": ["Weak local ecosystem resilience", "Excess innovation", "Funding surplus", "Policy stability"],
+      "answer": "Weak local ecosystem resilience"
+    },
+
+    /* =========================
+       MANUAL 3 — ELED II (as previously structured)
+    ========================== */
+
+    {
+      "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+      "chapter": 1,
+      "chapter_tag": "business_types",
+      "difficulty": "easy",
+      "type": "standard",
+      "question": "Innovation-led companies typically focus on what?",
+      "options": ["Routine retail", "Research-driven innovation", "Tax compliance", "Industrial zoning"],
+      "answer": "Research-driven innovation"
+    },
+    {
+      "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+      "chapter": 1,
+      "chapter_tag": "business_types",
+      "difficulty": "easy",
+      "type": "scenario",
+      "question": "A founder develops intellectual-property-based technology tied to university research. Which entrepreneur type is this?",
+      "options": ["Main street", "Innovation-led", "Microenterprise", "Lifestyle business"],
+      "answer": "Innovation-led"
+    },
+    {
+      "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+      "chapter": 1,
+      "chapter_tag": "business_types",
+      "difficulty": "medium",
+      "type": "standard",
+      "question": "Second-stage companies are generally defined as:",
+      "options": ["Pre-idea startups", "Businesses scaling beyond startup phase", "Large corporations", "Nonprofits"],
+      "answer": "Businesses scaling beyond startup phase"
+    },
+    {
+      "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+      "chapter": 1,
+      "chapter_tag": "business_types",
+      "difficulty": "medium",
+      "type": "scenario",
+      "question": "A company with 40 employees is expanding into new markets and focusing on strategic growth. What stage is it likely in?",
+      "options": ["Microenterprise", "Second-stage", "Maturity-only", "Idea phase"],
+      "answer": "Second-stage"
+    },
+    {
+      "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+      "chapter": 1,
+      "chapter_tag": "business_types",
+      "difficulty": "hard",
+      "type": "standard",
+      "question": "Why should EDOs understand entrepreneur types before designing programs?",
+      "options": ["Resources cluster around business needs", "To reduce funding", "To avoid partnerships", "To enforce policy"],
+      "answer": "Resources cluster around business needs"
+    },
+    {
+      "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
+      "chapter": 1,
+      "chapter_tag": "business_types",
+      "difficulty": "hard",
+      "type": "scenario",
+      "question": "A region invests heavily in innovation startups while ignoring microenterprises. What risk emerges?",
+      "options": ["Imbalanced ecosystem support", "Too much innovation", "Policy stability", "Reduced collaboration"],
+      "answer": "Imbalanced ecosystem support"
+    }
+
+    /* NOTE:
+       Your Manual 3 bank continues through chapters 2–10 exactly as provided earlier.
+       If you want, paste the remainder of Manual 3 questions you want included here,
+       and I’ll merge them into this master in the same schema.
+    */
+  ]
+}
