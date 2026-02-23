@@ -6,13 +6,14 @@
     "chapter_tag": "entrepreneurship_foundations",
     "difficulty": "easy",
     "type": "standard",
-    "question": "What is one primary goal of economic development?",
+    "question": "Once established, entrepreneurs are ________; they tend to stay, grow, and create jobs
+where they were founded.",
     "options": [
-      "Reducing imports",
-      "Creating jobs",
-      "Limiting innovation",
-      "Increasing regulation"     ],
-    "answerIndex": 1,
+      "Messy",
+      "Fragile",
+      "Slimy",
+      "Sticky"     ],
+    "answerIndex": 4,
     "explanation": "",
     "refs": []
   },
