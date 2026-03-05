@@ -2473,8 +2473,8 @@
     "type": "scenario",
     "question": "A community highlights founder success stories at events to build momentum. What practice is this?",
     "options": [
-      "Ecosystem storytelling",
       "Policy auditing",
+      "Ecosystem storytelling",
       "Compliance enforcement",
       "Corporate restructuring"     ],
     "answerIndex": 0,
@@ -2490,9 +2490,9 @@
     "type": "standard",
     "question": "Community celebrations help ecosystems by:",
     "options": [
-      "Reinforcing culture and visibility",
-      "Limiting growth",
       "Reducing innovation",
+      "Limiting growth",
+      "Reinforcing culture and visibility",
       "Eliminating partnerships"     ],
     "answerIndex": 0,
     "explanation": "",
@@ -2507,11 +2507,11 @@
     "type": "scenario",
     "question": "An EDO launches a campaign showcasing local entrepreneur wins. What outcome is expected?",
     "options": [
-      "Stronger entrepreneurial culture",
+      "Improved policy making",
       "Reduced participation",
       "Policy confusion",
-      "Lower visibility"     ],
-    "answerIndex": 0,
+      "Stronger entrepreneurial culture"     ],
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -2524,11 +2524,11 @@
     "type": "standard",
     "question": "Why is storytelling considered strategic rather than cosmetic?",
     "options": [
-      "It shapes perception and ecosystem engagement",
+      "It shifts partnerships",
       "It replaces funding",
       "It eliminates programs",
-      "It reduces partnerships"     ],
-    "answerIndex": 0,
+      "It shapes perception and ecosystem engagement"     ],
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -2541,11 +2541,11 @@
     "type": "scenario",
     "question": "Entrepreneurs stop participating because they don’t see their stories reflected in messaging. What ecosystem gap exists?",
     "options": [
-      "Lack of inclusive storytelling",
       "Capital shortage",
-      "Policy enforcement",
-      "Industrial planning"     ],
-    "answerIndex": 0,
+      "Lack of inclusive storytelling",
+      "Burdonsome policy",
+      "Lack of planning and procedure"     ],
+    "answerIndex": 1,
     "explanation": "",
     "refs": []
   }
