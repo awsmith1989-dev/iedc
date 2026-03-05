@@ -989,6 +989,294 @@
     "explanation": "",
     "refs": []
   },
+   {
+    "id": "incubators-accelerators-3a1f9c2d",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 6,
+    "chapter_tag": "Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 6, what is the primary distinction between a business incubator and a business accelerator?",
+    "options": [
+      "Incubators are privately funded while accelerators are publicly funded",
+      "Incubators exclusively serve technology firms, while accelerators serve businesses in any industry",
+      "Incubators aim to help start-up businesses become sustainable, while accelerators focus on specialized strategy development and advanced technical training for businesses that already have a viable product or technology",
+      "Incubators provide physical office space only, while accelerators provide only financial capital"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "incubators-accelerators-7b4e1d8a",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 6,
+    "chapter_tag": "Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "According to InBIA's 2016 Impact Index cited in Chapter 6, which entity sponsors the largest percentage of business incubators in North America?",
+    "options": [
+      "Private for-profit corporations",
+      "Local and state government agencies",
+      "Community development financial institutions",
+      "Academic institutions"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "incubators-accelerators-9c6d0e5b",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 6,
+    "chapter_tag": "Business Incubators, Accelerators, Makerspaces, and Coworking Spaces",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A community in a declining industrial district wants to launch a business incubator to stimulate economic activity among small, independently-owned firms. Based on Chapter 6, which type of incubator model best fits this context, and what services should it prioritize?",
+    "options": [
+      "A technology accelerator with a venture capital network, prioritizing equity investment and IP protection",
+      "A virtual incubator with online-only programming, prioritizing digital service delivery over physical space",
+      "A community revitalization incubator, prioritizing business basics such as marketing, cash flow management, and accounting control for tenants in the declining area",
+      "A mixed-use incubator targeting high-growth software and mobile app start-ups to modernize the district's economic base"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "entrepreneurial-financing-2f5a8b1c",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 7,
+    "chapter_tag": "Entrepreneurial Financing",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 7, what is a key characteristic that distinguishes angel investors from venture capital firms in terms of investment size?",
+    "options": [
+      "Angel investors typically invest less than a venture capital firm but more than commercial banks, often filling the gap between $500,000 and $2,000,000 that is too small for VCs and too large for individual angels",
+      "Angel investors make larger investments than venture capital firms in all cases",
+      "Angel investors and venture capital firms invest identical amounts but differ only in whether they take board seats",
+      "Angel investors exclusively fund businesses in the seed stage, while VCs only fund companies post-revenue"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "entrepreneurial-financing-6e3c7d4f",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 7,
+    "chapter_tag": "Entrepreneurial Financing",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 7 notes that venture capital is geographically concentrated. According to the data cited, which three states accounted for 84% of total U.S. venture capital assets under management in 2019?",
+    "options": [
+      "Texas, Florida, and Illinois",
+      "California, Massachusetts, and New York",
+      "Washington, Colorado, and Georgia",
+      "Pennsylvania, Ohio, and Michigan"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "entrepreneurial-financing-0d9f2e7a",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 7,
+    "chapter_tag": "Entrepreneurial Financing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An EDO is considering whether to directly provide financial support to local entrepreneurs. Chapter 7 identifies a key principle about entrepreneur contributions before any outside financing is extended. What is that principle, and what does it mean for the EDO's approach?",
+    "options": [
+      "Entrepreneurs must demonstrate a college degree in business before receiving EDO financial assistance",
+      "Aspiring entrepreneurs must have 'skin in the game' by investing personal financial resources into the start-up before financial support organizations will invest, reflecting the level of risk associated with start-ups",
+      "The EDO must match every dollar of outside financing with a corresponding public subsidy to reduce risk",
+      "All entrepreneurial financing must be structured as equity rather than debt to align the EDO's interests with the business owner's"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "small-business-financing-4a7c1b9e",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 8,
+    "chapter_tag": "Small Business Financing",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 8, what is the primary role of the Small Business Administration (SBA) in the lending process?",
+    "options": [
+      "The SBA directly lends funds to small businesses through its own branch offices nationwide",
+      "The SBA guarantees a portion of loans made by third-party lenders to qualified small businesses that cannot obtain financing through normal lending channels",
+      "The SBA provides grants to small businesses that meet equity and diversity requirements",
+      "The SBA purchases equity stakes in small businesses in exchange for technical assistance services"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "small-business-financing-8b2e5f3d",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 8,
+    "chapter_tag": "Small Business Financing",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 8 describes the role of the economic development practitioner in small business capital access. Which of the following best captures that role?",
+    "options": [
+      "Approving or denying loan applications on behalf of commercial lenders",
+      "Providing direct equity investment in exchange for a percentage of business profits",
+      "Administering federal SBA loan programs directly to businesses on behalf of the federal government",
+      "Increasing access to capital by connecting small business owners to an innovative financing ecosystem, identifying credit sources, recognizing financing gaps, and developing strategies to address those gaps"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "small-business-financing-5c0d6a2f",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 8,
+    "chapter_tag": "Small Business Financing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A small business owner meets with an EDO practitioner to explore financing options. She has already drawn on personal savings, credit cards, and a second mortgage, and has cut operating expenses. Based on Chapter 8, how should the practitioner interpret these actions?",
+    "options": [
+      "As positive indicators that she has pulled in personal resources as expected \u2014 a prerequisite for accessing formal financing sources \u2014 and is now likely ready to explore external capital options",
+      "As warning signs of financial mismanagement that disqualify her from SBA financing",
+      "As evidence that she has exhausted all options and should be referred to a nonprofit charity rather than a lender",
+      "As irrelevant to the financing evaluation, since lenders focus only on business revenues and credit scores"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "equity-chapter-1e8b4c6d",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 9,
+    "chapter_tag": "Equity Chapter",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 9, what percentage of U.S. businesses are owned by people of color, despite people of color representing 38% of the population?",
+    "options": [
+      "Approximately 19 percent",
+      "Approximately 30 percent",
+      "Approximately 38 percent",
+      "Approximately 10 percent"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "equity-chapter-7f3a9d1b",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 9,
+    "chapter_tag": "Equity Chapter",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 9 discusses capital access disparities for entrepreneurs of color. What does the data cited reveal about Black and Hispanic founders' share of venture capital raised between 2015 and 2020?",
+    "options": [
+      "They raised approximately 25 percent of total venture capital, reflecting their share of the general population",
+      "They raised capital at the same rate as white founders when controlling for firm size and industry",
+      "They raised over $15 billion combined, but this represented only 2.4 percent of total venture capital raised during that period",
+      "They received preferential VC access through federal set-aside programs accounting for 15 percent of VC deals"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "equity-chapter-2d6c0e4a",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 9,
+    "chapter_tag": "Equity Chapter",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An EDO wants to better support entrepreneurs of color in its community who face systemic barriers to capital, networks, and technical assistance. Based on Chapter 9, which combination of strategies is most aligned with the manual's recommendations?",
+    "options": [
+      "Focus exclusively on grant programs and avoid loans, since debt financing has historically harmed communities of color",
+      "Limit EDO involvement to awareness campaigns, since structural inequities can only be addressed through federal legislation",
+      "Partner exclusively with traditional commercial banks since they have the most capital to deploy to minority-owned businesses",
+      "Convene mentorship programs to expand networks, provide technical assistance such as legal aid and business coaching, and connect entrepreneurs with incubators and accelerators specifically designed to support entrepreneurs of color and underserved communities"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "exporting-small-biz-5a1f7b3c",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 10, by how much faster do exporting firms grow in employment annually compared to their non-exporting counterparts?",
+    "options": [
+      "2 to 4 percent faster",
+      "10 to 15 percent faster",
+      "25 to 30 percent faster",
+      "No measurable difference was found"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "exporting-small-biz-9c4e2d8b",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 10 describes the 'reverse trade mission' as a common export promotion technique. What does a reverse trade mission involve?",
+    "options": [
+      "Foreign buyers and distributors being identified and brought to tour a community's production facilities",
+      "Local companies traveling abroad to meet foreign buyers in their home markets",
+      "An EDO reimbursing companies for international trade fair attendance after the fact",
+      "A federal program that matches domestic companies with overseas distributors through an online database"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "exporting-small-biz-6b0f3a5e",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A small manufacturing business in your community wants to begin exporting but lacks the resources to conduct foreign market research on its own. Based on Chapter 10, what is the most comprehensive role an EDO can play to help this firm succeed in exporting?",
+    "options": [
+      "Refer the business to the nearest SBA office and take no further action, since export assistance is a federal responsibility",
+      "Help the business build export capacity by providing research assistance to improve competitiveness, develop export readiness through assessments and counseling, and identify the best markets and entry strategies through thorough foreign market research",
+      "Encourage the business to hire a full-time export manager before engaging with any EDO programs",
+      "Limit assistance to connecting the business with a foreign distributor, since market research is beyond the EDO's typical scope"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "microenterprise-programs-3d8b5c1a",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 11,
+    "chapter_tag": "Microenterprise Programs",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 11, how are microenterprise loans typically described in terms of their underwriting approach?",
+    "options": [
+      "Asset-based, relying primarily on the value of business equipment and inventory as collateral",
+      "Character-based, relying on the loan officer's assessment of the applicant's personal character and business potential rather than collateral or credit history",
+      "Credit-score-based, following the same criteria used by commercial banks",
+      "Revenue-based, using trailing 12-month sales figures as the primary underwriting criterion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "microenterprise-programs-7e2a9f4c",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 11,
+    "chapter_tag": "Microenterprise Programs",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 11 describes two main approaches to lending to microentrepreneurs. What is the key distinction between direct lending and peer lending?",
+    "options": [
+      "Direct lending is administered by the federal government, while peer lending is managed by state agencies",
+      "Direct lending is for businesses with existing revenues, while peer lending is exclusively for start-up businesses with no track record",
+      "Direct lending offers higher loan amounts while peer lending is capped at $5,000 per participant",
+      "Direct lending is similar to bank lending where borrowers guarantee repayment through collateral or co-signers, while peer lending provides financing to groups where members are collectively responsible for repayment and rely on peer pressure rather than collateral"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "microenterprise-programs-0f4c6d2e",
+    "title": "Entrepreneurial & Small Business Development Strategies",
+    "chapter": 11,
+    "chapter_tag": "Microenterprise Programs",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An EDO is designing a microenterprise lending program for a community with many low-income entrepreneurs who have no credit history, insufficient collateral, and limited business management experience. Based on Chapter 11, what type of lending approach is most appropriate, and what additional support must accompany the financing?",
+    "options": [
+      "A standard commercial lending model with relaxed collateral requirements and no wraparound services, since over-programming can create dependency",
+      "A grant-only model, since offering any loans to individuals with poor credit histories is irresponsible and predatory",
+      "A peer lending or direct character-based microlending model, paired with robust technical assistance throughout the process \u2014 including pre-loan help such as business plan development and post-loan support such as cash flow management \u2014 since microentrepreneurs typically require a great deal of assistance throughout the lending process",
+      "Refer all applicants to the SBA Microloan Program without offering local wraparound services, since federal programs are better capitalized"
+    ],
+    "answerIndex": 2
+  },
   {
     "id": "introduction-to-entrepre-667d845d18",
     "title": "Introduction to Entrepreneurship-Led Economic Development",
