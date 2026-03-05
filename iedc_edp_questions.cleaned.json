@@ -1,5 +1,485 @@
 [
   {
+    "id": "bre-overview-3a1f9c2d",
+    "title": "Business Retention & Expansion",
+    "chapter": 1,
+    "chapter_tag": "Business Retention & Expansion Overview",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to the BRE manual, which of the following is described as the 'three-legged stool' of primary economic development customers?",
+    "options": [
+      "Large corporations, small businesses, and government entities",
+      "Manufacturers, retailers, and service companies",
+      "Existing resident firms, local start-up enterprises, and out-of-market prospects",
+      "Local investors, regional developers, and foreign direct investors"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "bre-overview-7b4e1d8a",
+    "title": "Business Retention & Expansion",
+    "chapter": 1,
+    "chapter_tag": "Business Retention & Expansion Overview",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "What is the concept of 'customer equity' as described in Chapter 1 of the BRE manual?",
+    "options": [
+      "The financial value of a company's customer base calculated for tax purposes",
+      "The idea that the more an EDO invests in a business relationship, the harder it becomes for that business to leave the community",
+      "A program that provides equity financing to small businesses in exchange for customer loyalty",
+      "A metric used to evaluate the return on investment of business outreach activities"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "bre-overview-9c6d0e5b",
+    "title": "Business Retention & Expansion",
+    "chapter": 1,
+    "chapter_tag": "Business Retention & Expansion Overview",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A mid-sized manufacturing firm in your community is unaware of available workforce training grants and financing programs. Based on Chapter 1, why are small and mid-sized businesses particularly important to target compared to large corporations in a BRE program?",
+    "options": [
+      "Small firms generate more tax revenue per employee than large corporations",
+      "Large firms already have embedded relationships with EDOs and financial resources to hire consultants, while smaller firms often lack awareness of available programs",
+      "State and federal regulations require EDOs to prioritize small business outreach over large employers",
+      "Small businesses are less likely to relocate, making them lower-risk investments for EDO resources"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "program-management-2f5a8b1c",
+    "title": "Business Retention & Expansion",
+    "chapter": 2,
+    "chapter_tag": "Creating and Managing a Business Retention and Expansion Program",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 2, what is the first analytical step a community should take after committing to develop a BRE program and identifying team members?",
+    "options": [
+      "Develop an annual workplan and budget",
+      "Launch a business survey to identify at-risk firms",
+      "Hire a program manager and establish a CRM system",
+      "Conduct a SWOT analysis of the community"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "program-management-6e3c7d4f",
+    "title": "Business Retention & Expansion",
+    "chapter": 2,
+    "chapter_tag": "Creating and Managing a Business Retention and Expansion Program",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 2 states that 'no two BRE programs\u2014even in contiguous markets\u2014can or should be exactly the same.' What principle does this reflect?",
+    "options": [
+      "Each EDO must use a different technology platform to avoid conflicts",
+      "Competing communities should differentiate their branding to attract different types of businesses",
+      "BRE programs must be tailored to each community's unique industry composition, economic resources, and organizational capacity",
+      "Federal funding requirements prohibit identical program designs across jurisdictions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "program-management-0d9f2e7a",
+    "title": "Business Retention & Expansion",
+    "chapter": 2,
+    "chapter_tag": "Creating and Managing a Business Retention and Expansion Program",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Your EDO is conducting a SWOT analysis and notes that Atlanta has a major strength in its transportation network. Chapter 2 cautions that this finding is insufficient. What level of specificity is required for a useful SWOT analysis?",
+    "options": [
+      "The analysis must be macro and micro, specifying exact attributes such as the number of interstate highways, airport capacity, and rail connections that constitute the strength",
+      "Identifying the general sector (transportation) is adequate as long as it is benchmarked against national averages",
+      "The SWOT should focus only on weaknesses and threats, since strengths are self-evident to businesses",
+      "Broad categories are preferred to allow flexibility when presenting results to stakeholders"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "customer-outreach-4a7c1b9e",
+    "title": "Business Retention & Expansion",
+    "chapter": 3,
+    "chapter_tag": "Customer Outreach",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 3, how often should economic development outreach personnel conduct in-person facility visits with high-value targeted firms?",
+    "options": [
+      "One to two times per year",
+      "Monthly",
+      "Once every two to three years",
+      "Quarterly"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "customer-outreach-8b2e5f3d",
+    "title": "Business Retention & Expansion",
+    "chapter": 3,
+    "chapter_tag": "Customer Outreach",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "What does a Location Quotient (LQ) greater than 1 indicate when applied to a regional industry in a BRE context?",
+    "options": [
+      "The region's industry employment is declining relative to national trends",
+      "The region has a higher concentration of that industry compared to the national average, suggesting a potential competitive advantage or cluster",
+      "The region is over-reliant on a single industry and is at risk of economic volatility",
+      "The industry qualifies for federal set-aside procurement contracts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "customer-outreach-5c0d6a2f",
+    "title": "Business Retention & Expansion",
+    "chapter": 3,
+    "chapter_tag": "Customer Outreach",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "An economic developer is preparing for in-person facility visits and is tempted to use a standard questionnaire for all companies. Chapter 3 explicitly warns against this. What approach does the manual recommend instead?",
+    "options": [
+      "Use a standardized script to ensure consistent data collection across all firms visited",
+      "Keep conversations agile and organic, based on the unique characteristics and market realities of each specific business",
+      "Conduct all visits in groups to make firms more comfortable sharing information",
+      "Limit visits to large employers to maximize return on time investment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "technical-assistance-1e8b4c6d",
+    "title": "Business Retention & Expansion",
+    "chapter": 4,
+    "chapter_tag": "Technical Assistance and BRE",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "Chapter 4 characterizes BRE as a 'team sport.' What does this mean in the context of technical assistance?",
+    "options": [
+      "EDOs must form internal teams of at least five staff members to manage BRE programs",
+      "No single organization can meet all business needs, so BRE requires active involvement of many distinct and diverse organizations providing technical assistance",
+      "BRE programs must be co-funded by both public and private sector organizations",
+      "Economic developers must compete with other EDOs to attract the best technical assistance providers"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "technical-assistance-7f3a9d1b",
+    "title": "Business Retention & Expansion",
+    "chapter": 4,
+    "chapter_tag": "Technical Assistance and BRE",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "According to Chapter 4, what is the primary advantage of a cluster-based approach in BRE technical assistance?",
+    "options": [
+      "It allows EDOs to reduce the number of businesses they serve by focusing on only the largest companies",
+      "It improves the competitive advantage of a region by addressing the concerns of businesses in a single cluster that share similar needs, maximizing available resources",
+      "It eliminates competition between firms in the same industry by encouraging collaboration mandated by the EDO",
+      "It qualifies participating firms for exclusive federal grants unavailable to non-cluster businesses"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "technical-assistance-2d6c0e4a",
+    "title": "Business Retention & Expansion",
+    "chapter": 4,
+    "chapter_tag": "Technical Assistance and BRE",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A regional EDO discovers that several manufacturing firms share concerns about supply chain disruptions, technology adoption, and talent acquisition. The EDO has limited staff and resources. Based on Chapter 4, which strategy would most efficiently address these shared needs?",
+    "options": [
+      "Refer each firm individually to a separate set of state and federal agencies",
+      "Host a one-time trade show and consider the issue addressed",
+      "Focus resources only on the largest firm in the cluster, since its needs will represent those of all other firms",
+      "Implement a cluster-focused BRE approach: survey the cluster, convene a focus group to identify shared needs, and coordinate among all relevant EDOs and resource partners at a regional level"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "workforce-5a1f7b3c",
+    "title": "Business Retention & Expansion",
+    "chapter": 5,
+    "chapter_tag": "Workforce and BRE",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 5, what single factor is identified as the most important in business investment decision-making?",
+    "options": [
+      "Access to capital and financing",
+      "Tax incentive packages",
+      "Proximity to transportation infrastructure",
+      "Labor"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "workforce-9c4e2d8b",
+    "title": "Business Retention & Expansion",
+    "chapter": 5,
+    "chapter_tag": "Workforce and BRE",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "How did the Workforce Innovation and Opportunity Act (WIOA) of 2014 reform its predecessor, the Workforce Investment Act (WIA)?",
+    "options": [
+      "WIOA eliminated One-Stop Career Centers and replaced them with online-only service delivery",
+      "WIOA transferred full control of workforce funding from states to private industry councils",
+      "WIOA reduced the size of workforce investment boards, required unified state plans, and established data-driven accountability and performance measures",
+      "WIOA focused exclusively on disadvantaged populations and eliminated services for employed workers seeking career advancement"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "workforce-6b0f3a5e",
+    "title": "Business Retention & Expansion",
+    "chapter": 5,
+    "chapter_tag": "Workforce and BRE",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A community is experiencing rapid AI and automation adoption among its manufacturers. Traditional job-counting metrics used for incentive administration are producing misleading data. Based on Chapter 5, what adjustment does the manual suggest communities must make?",
+    "options": [
+      "Eliminate all performance-based incentive programs to avoid inaccurate job counts",
+      "Require all businesses receiving incentives to use only traditional employment models",
+      "Reevaluate traditional methods of counting jobs and administering incentives to account for gig work, remote employment, and AI integration, remaining agile to the evolving nature of work",
+      "Lobby Congress to update federal job definitions before adjusting local programs"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "resiliency-3d8b5c1a",
+    "title": "Business Retention & Expansion",
+    "chapter": 6,
+    "chapter_tag": "Resiliency & BRE",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to the IFRC definition cited in Chapter 6, what are disasters?",
+    "options": [
+      "Only natural events such as hurricanes, floods, and earthquakes that cause physical property damage",
+      "Any event that results in more than $1 million in economic losses to a local business community",
+      "Government-declared emergencies that trigger federal disaster relief funding",
+      "Serious disruptions to the functioning of a community that exceed its capacity to cope using its own resources, caused by natural, man-made, or technological hazards"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "resiliency-7e2a9f4c",
+    "title": "Business Retention & Expansion",
+    "chapter": 6,
+    "chapter_tag": "Resiliency & BRE",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 6 highlights a disparity in disaster recovery outcomes across different populations. What does the research cited indicate about minority populations in disaster-affected communities?",
+    "options": [
+      "FEMA studies show minority populations often have less access to remediation funds and services, face higher rates of mass displacement, and are more subject to managed retreat",
+      "Minority populations benefit from targeted federal programs that give them preferential access to recovery funds",
+      "Minority populations typically recover faster than affluent communities due to stronger informal social networks",
+      "There is no documented difference in recovery outcomes across demographic groups according to current FEMA data"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "resiliency-0f4c6d2e",
+    "title": "Business Retention & Expansion",
+    "chapter": 6,
+    "chapter_tag": "Resiliency & BRE",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "Following a natural disaster, a coastal community's business owners are prevented from re-entering their properties for nearly two weeks. Inventory is destroyed and customers have left. Chapter 6 describes a strategy to prevent this. What does establishing a 'tiered system of business re-entry' involve?",
+    "options": [
+      "Requiring all businesses to relocate temporarily to a designated recovery zone",
+      "Working with emergency management personnel to give critical businesses prioritized early access back into the community following a disaster",
+      "Establishing a lottery system so businesses can return on a fair, randomized schedule",
+      "Allowing only businesses with active disaster insurance policies to re-enter the affected area first"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "finance-4b1e7a9c",
+    "title": "Business Retention & Expansion",
+    "chapter": 7,
+    "chapter_tag": "BRE Finance",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 7, how is venture capital defined?",
+    "options": [
+      "A government-backed loan program for businesses that cannot obtain conventional financing",
+      "A revolving loan fund managed by community development corporations for established businesses",
+      "An equity investment in small, growth-oriented businesses, typically at the seed, start-up, or early expansion stages",
+      "A federal grant program administered through the SBA for minority-owned small businesses"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "finance-8c5f3b0d",
+    "title": "Business Retention & Expansion",
+    "chapter": 7,
+    "chapter_tag": "BRE Finance",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "What is the purpose of a 'claw back' provision in a business incentive agreement?",
+    "options": [
+      "To protect the community by enabling recovery of incentives\u2014through penalties, cancellation, or repayment\u2014if a business fails to meet agreed-upon performance goals",
+      "To allow a business to reclaim overpaid taxes if it exceeds its job creation targets",
+      "To give EDOs the authority to seize business assets if a firm relocates before a defined period",
+      "To prevent competing jurisdictions from offering higher incentive packages to the same firm"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "finance-2a6d4e1f",
+    "title": "Business Retention & Expansion",
+    "chapter": 7,
+    "chapter_tag": "BRE Finance",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A large employer has approached your EDO requesting a significant incentive package, claiming it will relocate unless incentives are provided. Chapter 7 describes a specific analytical test your community should apply before granting incentives. What is this test called, and what does it determine?",
+    "options": [
+      "Cost-benefit analysis: whether the total economic impact of the firm exceeds the total incentive cost over a 10-year period",
+      "Return on investment analysis: whether the incentive generates at least a 3:1 ratio of new tax revenue to incentive value",
+      "The 'but-for' determination: whether the company would actually relocate or expand outside the jurisdiction but for the incentive in question",
+      "The market rate test: whether the incentive package is competitive with what neighboring jurisdictions are offering"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "new-markets-6e9b2c5a",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 8, what is the National Science Foundation's definition of technology transfer?",
+    "options": [
+      "The commercialization of federally funded research through private sector licensing agreements",
+      "The process by which universities patent and sell research innovations to manufacturing companies",
+      "A federal program that deploys DOD technology assets to support civilian economic development",
+      "The exchange or sharing of knowledge, skills, processes, or technologies across different organizations"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "new-markets-1d4f8a3b",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 8 describes buyer-supplier programs as a tool for 'import substitution.' What does this mean in a BRE context?",
+    "options": [
+      "Encouraging companies to purchase from local vendors, recapturing sales that were occurring outside the community and keeping dollars in the local market",
+      "Replacing foreign-made goods in local retail stores with domestically produced alternatives",
+      "Providing financing to help firms substitute imported raw materials with domestically sourced inputs",
+      "A tax strategy that allows businesses to deduct costs of switching from foreign to domestic suppliers"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "new-markets-7c0e5d9f",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A biotech startup in your region wants to license technology developed at a local federal laboratory but doesn't know how to structure the relationship. Based on Chapter 8, which federal mechanism is specifically designed to allow private companies to partner with federal agencies to share expertise, protect intellectual property, and accelerate commercialization of federally developed technology?",
+    "options": [
+      "Small Business Innovation Research (SBIR) grant",
+      "SBA 7(a) loan program",
+      "HUBZone procurement set-aside",
+      "Cooperative Research and Development Agreement (CRADA)"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "exporting-5a2b8c4d",
+    "title": "Business Retention & Expansion",
+    "chapter": 9,
+    "chapter_tag": "Exporting as a Retention and Expansion Strategy",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 9, what percentage of U.S. exports do small businesses account for?",
+    "options": [
+      "30 to 35 percent",
+      "10 to 15 percent",
+      "50 to 55 percent",
+      "65 to 70 percent"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "exporting-9f3d1e6b",
+    "title": "Business Retention & Expansion",
+    "chapter": 9,
+    "chapter_tag": "Exporting as a Retention and Expansion Strategy",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 9 describes indirect exporting as a 'low-cost approach' to entering international markets. Which of the following is a key advantage of indirect exporting over direct exporting?",
+    "options": [
+      "The exporting company retains full control over marketing, pricing, and customer relationships abroad",
+      "Intermediaries such as distributors and agents bring market insider knowledge, handle administrative tasks, and absorb local language and customs barriers on behalf of the exporter",
+      "Indirect exporting eliminates the need for any export documentation or customs compliance",
+      "It generates higher profit margins because the exporter avoids paying import duties in the destination country"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "exporting-3c7a0f2e",
+    "title": "Business Retention & Expansion",
+    "chapter": 9,
+    "chapter_tag": "Exporting as a Retention and Expansion Strategy",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A local manufacturer is interested in exporting but has not yet assessed whether it is ready. Chapter 9 states that exporting is not appropriate for every enterprise. What does the manual recommend a company do before committing to an export strategy?",
+    "options": [
+      "Immediately contact the U.S. Commercial Service and apply for an Ex-Im Bank loan to fund entry costs",
+      "Hire an international trade attorney to register trademarks in all target markets before beginning any planning",
+      "Partner with a competitor who already exports to share costs and reduce risk before independently entering foreign markets",
+      "Base the decision on careful analysis and sound planning, evaluating whether the company meets the organizational and financial criteria required for export readiness"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "mergers-acquisitions-8b1d5c3f",
+    "title": "Business Retention & Expansion",
+    "chapter": 10,
+    "chapter_tag": "Mergers and Acquisitions as a BRE Strategy",
+    "difficulty": "easy",
+    "type": "factual",
+    "question": "According to Chapter 10, what term describes a foreign company establishing entirely new facilities in the United States, as distinguished from acquiring an existing company?",
+    "options": [
+      "Greenfield investment",
+      "Brownfield investment",
+      "Joint venture development",
+      "Strategic alliance formation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mergers-acquisitions-4e9a2b7c",
+    "title": "Business Retention & Expansion",
+    "chapter": 10,
+    "chapter_tag": "Mergers and Acquisitions as a BRE Strategy",
+    "difficulty": "medium",
+    "type": "conceptual",
+    "question": "Chapter 10 states that economic developers have a responsibility when their community is skeptical or resistant to a foreign acquisition. What is that responsibility?",
+    "options": [
+      "To inform the community about how the new owner will benefit the local economy, since much public skepticism can be traced to misinformation",
+      "To block foreign acquisitions that are opposed by a majority of local voters",
+      "To negotiate a community benefit agreement with the acquiring firm before approving the transaction",
+      "To require the foreign owner to hire a fixed percentage of local workers as a condition of receiving EDO assistance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "mergers-acquisitions-6f0c4d8a",
+    "title": "Business Retention & Expansion",
+    "chapter": 10,
+    "chapter_tag": "Mergers and Acquisitions as a BRE Strategy",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A foreign company has just acquired a major employer in your community. Local business owners are concerned, and the EDO is unsure whether to treat this new foreign-owned entity as a local or foreign company. Based on Chapter 10, what is the correct approach?",
+    "options": [
+      "Treat the facility as a foreign entity subject to additional reporting requirements and scrutiny since its parent is foreign-owned",
+      "Defer all engagement with the new owner until the parent company's global strategic intentions become clear",
+      "Recognize that U.S. operations owned by foreign companies do not always behave like their parent corporations and should be treated as distinct local entities with their own needs",
+      "Assign the firm to the business attraction team rather than the BRE team since it is now foreign-controlled"
+    ],
+    "answerIndex": 2
+  }
+  {
     "id": "entrepreneurial-and-smal-7bd2b4d391",
     "title": "Entrepreneurial and Small Business Development Strategies",
     "chapter": 1,
