@@ -1916,5 +1916,21 @@
       "Replacing the city's economic development leadership with entrepreneurs who could model risk-taking from within government"
     ],
     "answerIndex": 0
+  },
+  {
+    "id": "bre-ch4-business-climate",
+    "title": "Business Retention & Expansion",
+    "chapter": 4,
+    "chapter_tag": "Business Climate",
+    "difficulty": "medium",
+    "type": "factual",
+    "question": "All of the following are possible actions to improve the business climate except:",
+    "options": [
+      "Case Management",
+      "Add more building codes",
+      "Appoint an Ombudsman",
+      "Train regulatory staff"
+    ],
+    "answerIndex": 1
   }
 ]
