@@ -11,6 +11,7 @@
       "Large corporations, small businesses, and government entities",
       "Manufacturers, retailers, and service companies",
       "Existing resident firms, local start-up enterprises, and out-of-market prospects",
+      "Existing firms, new business ventures, and prospective relocating companies",
       "Local investors, regional developers, and foreign direct investors"
     ],
     "answerIndex": 2
@@ -26,6 +27,7 @@
     "options": [
       "The financial value of a company's customer base calculated for tax purposes",
       "The idea that the more an EDO invests in a business relationship, the harder it becomes for that business to leave the community",
+      "The measure of customer satisfaction and retention rates used by EDOs to demonstrate the quality of their business support services and community amenities",
       "A program that provides equity financing to small businesses in exchange for customer loyalty",
       "A metric used to evaluate the return on investment of business outreach activities"
     ],
@@ -43,7 +45,8 @@
       "Small firms generate more tax revenue per employee than large corporations",
       "Large firms already have embedded relationships with EDOs and financial resources to hire consultants, while smaller firms often lack awareness of available programs",
       "State and federal regulations require EDOs to prioritize small business outreach over large employers",
-      "Small businesses are less likely to relocate, making them lower-risk investments for EDO resources"
+      "Small businesses are less likely to relocate, making them lower-risk investments for EDO resources",
+      "Small firms create more local supply chain opportunities and multiplier effects than large corporations, requiring EDOs to focus resources on maximizing community economic impact."
     ],
     "answerIndex": 1
   },
@@ -74,10 +77,11 @@
     "options": [
       "Each EDO must use a different technology platform to avoid conflicts",
       "Competing communities should differentiate their branding to attract different types of businesses",
+      "Business Retention and Expansion initiatives must comply with state-mandated competitive bidding procedures to ensure fair market access and prevent monopolistic practices among service providers.",
       "BRE programs must be tailored to each community's unique industry composition, economic resources, and organizational capacity",
       "Federal funding requirements prohibit identical program designs across jurisdictions"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "program-management-0d9f2e7a",
@@ -91,7 +95,8 @@
       "The analysis must be macro and micro, specifying exact attributes such as the number of interstate highways, airport capacity, and rail connections that constitute the strength",
       "Identifying the general sector (transportation) is adequate as long as it is benchmarked against national averages",
       "The SWOT should focus only on weaknesses and threats, since strengths are self-evident to businesses",
-      "Broad categories are preferred to allow flexibility when presenting results to stakeholders"
+      "Broad categories are preferred to allow flexibility when presenting results to stakeholders",
+      "The analysis must identify competitive advantages within transportation sectors, comparing Atlanta's modal infrastructure performance against peer metropolitan areas to ensure strategic relevance and applicability."
     ],
     "answerIndex": 0
   },
@@ -120,12 +125,13 @@
     "type": "conceptual",
     "question": "What does a Location Quotient (LQ) greater than 1 indicate when applied to a regional industry in a BRE context?",
     "options": [
+      "The region's industry is experiencing rapid growth and will soon exceed the national average, indicating imminent dominance in that sector nationally.",
       "The region's industry employment is declining relative to national trends",
       "The region has a higher concentration of that industry compared to the national average, suggesting a potential competitive advantage or cluster",
       "The region is over-reliant on a single industry and is at risk of economic volatility",
       "The industry qualifies for federal set-aside procurement contracts"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "customer-outreach-5c0d6a2f",
@@ -138,6 +144,7 @@
     "options": [
       "Use a standardized script to ensure consistent data collection across all firms visited",
       "Keep conversations agile and organic, based on the unique characteristics and market realities of each specific business",
+      "Develop a tiered questionnaire system that adjusts complexity based on company size, industry sector, and previous relationship history with your organization",
       "Conduct all visits in groups to make firms more comfortable sharing information",
       "Limit visits to large employers to maximize return on time investment"
     ],
@@ -155,6 +162,7 @@
       "EDOs must form internal teams of at least five staff members to manage BRE programs",
       "No single organization can meet all business needs, so BRE requires active involvement of many distinct and diverse organizations providing technical assistance",
       "BRE programs must be co-funded by both public and private sector organizations",
+      "BRE success requires establishing formal partnerships where all participating organizations share equal decision-making authority and contribute proportional funding to technical assistance initiatives.",
       "Economic developers must compete with other EDOs to attract the best technical assistance providers"
     ],
     "answerIndex": 1
@@ -168,12 +176,13 @@
     "type": "conceptual",
     "question": "According to Chapter 4, what is the primary advantage of a cluster-based approach in BRE technical assistance?",
     "options": [
+      "It enables EDOs to establish formal sector partnerships that guarantee increased market share for cluster participants through coordinated supply chain management and preferential procurement agreements",
       "It allows EDOs to reduce the number of businesses they serve by focusing on only the largest companies",
       "It improves the competitive advantage of a region by addressing the concerns of businesses in a single cluster that share similar needs, maximizing available resources",
       "It eliminates competition between firms in the same industry by encouraging collaboration mandated by the EDO",
       "It qualifies participating firms for exclusive federal grants unavailable to non-cluster businesses"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "technical-assistance-2d6c0e4a",
@@ -185,11 +194,12 @@
     "question": "A regional EDO discovers that several manufacturing firms share concerns about supply chain disruptions, technology adoption, and talent acquisition. The EDO has limited staff and resources. Based on Chapter 4, which strategy would most efficiently address these shared needs?",
     "options": [
       "Refer each firm individually to a separate set of state and federal agencies",
+      "Establish a sector-specific advisory board comprised of representatives from each firm to meet quarterly and provide recommendations to state agencies, while the EDO maintains a coordinating role in information distribution.",
       "Host a one-time trade show and consider the issue addressed",
       "Focus resources only on the largest firm in the cluster, since its needs will represent those of all other firms",
       "Implement a cluster-focused BRE approach: survey the cluster, convene a focus group to identify shared needs, and coordinate among all relevant EDOs and resource partners at a regional level"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "workforce-5a1f7b3c",
@@ -217,11 +227,12 @@
     "question": "How did the Workforce Innovation and Opportunity Act (WIOA) of 2014 reform its predecessor, the Workforce Investment Act (WIA)?",
     "options": [
       "WIOA eliminated One-Stop Career Centers and replaced them with online-only service delivery",
+      "WIOA expanded federal oversight of local workforce boards, eliminated state discretion in program design, and mandated universal incumbent worker training requirements",
       "WIOA transferred full control of workforce funding from states to private industry councils",
       "WIOA reduced the size of workforce investment boards, required unified state plans, and established data-driven accountability and performance measures",
       "WIOA focused exclusively on disadvantaged populations and eliminated services for employed workers seeking career advancement"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "workforce-6b0f3a5e",
@@ -235,7 +246,8 @@
       "Eliminate all performance-based incentive programs to avoid inaccurate job counts",
       "Require all businesses receiving incentives to use only traditional employment models",
       "Reevaluate traditional methods of counting jobs and administering incentives to account for gig work, remote employment, and AI integration, remaining agile to the evolving nature of work",
-      "Lobby Congress to update federal job definitions before adjusting local programs"
+      "Lobby Congress to update federal job definitions before adjusting local programs",
+      "Implement a hybrid job-counting methodology that weights traditional full-time positions at 100% while discounting gig and remote work at 50% to maintain consistency with historical incentive benchmarks and federal employment standards."
     ],
     "answerIndex": 2
   },
@@ -251,9 +263,10 @@
       "Only natural events such as hurricanes, floods, and earthquakes that cause physical property damage",
       "Any event that results in more than $1 million in economic losses to a local business community",
       "Government-declared emergencies that trigger federal disaster relief funding",
+      "Events causing significant economic impact to a region that require coordination between multiple government agencies and private sector organizations to manage recovery efforts",
       "Serious disruptions to the functioning of a community that exceed its capacity to cope using its own resources, caused by natural, man-made, or technological hazards"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "resiliency-7e2a9f4c",
@@ -267,7 +280,8 @@
       "FEMA studies show minority populations often have less access to remediation funds and services, face higher rates of mass displacement, and are more subject to managed retreat",
       "Minority populations benefit from targeted federal programs that give them preferential access to recovery funds",
       "Minority populations typically recover faster than affluent communities due to stronger informal social networks",
-      "There is no documented difference in recovery outcomes across demographic groups according to current FEMA data"
+      "There is no documented difference in recovery outcomes across demographic groups according to current FEMA data",
+      "Minority populations in disaster zones experience improved recovery outcomes through community development block grants that prioritize equitable resource distribution and facilitate inclusive economic revitalization initiatives."
     ],
     "answerIndex": 0
   },
@@ -281,11 +295,12 @@
     "question": "Following a natural disaster, a coastal community's business owners are prevented from re-entering their properties for nearly two weeks. Inventory is destroyed and customers have left. Chapter 6 describes a strategy to prevent this. What does establishing a 'tiered system of business re-entry' involve?",
     "options": [
       "Requiring all businesses to relocate temporarily to a designated recovery zone",
+      "Implementing a mandatory business continuity plan that requires all enterprises to establish satellite operations in unaffected neighboring municipalities during recovery periods.",
       "Working with emergency management personnel to give critical businesses prioritized early access back into the community following a disaster",
       "Establishing a lottery system so businesses can return on a fair, randomized schedule",
       "Allowing only businesses with active disaster insurance policies to re-enter the affected area first"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "finance-4b1e7a9c",
@@ -296,12 +311,13 @@
     "type": "factual",
     "question": "According to Chapter 7, how is venture capital defined?",
     "options": [
+      "A private investment fund that provides debt financing to established businesses in exchange for convertible securities and board representation rights",
       "A government-backed loan program for businesses that cannot obtain conventional financing",
       "A revolving loan fund managed by community development corporations for established businesses",
       "An equity investment in small, growth-oriented businesses, typically at the seed, start-up, or early expansion stages",
       "A federal grant program administered through the SBA for minority-owned small businesses"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "finance-8c5f3b0d",
@@ -314,6 +330,7 @@
     "options": [
       "To protect the community by enabling recovery of incentives\u2014through penalties, cancellation, or repayment\u2014if a business fails to meet agreed-upon performance goals",
       "To allow a business to reclaim overpaid taxes if it exceeds its job creation targets",
+      "To ensure that businesses reinvest recovered incentive funds into local community development projects, infrastructure improvements, or workforce training programs within the jurisdiction.",
       "To give EDOs the authority to seize business assets if a firm relocates before a defined period",
       "To prevent competing jurisdictions from offering higher incentive packages to the same firm"
     ],
@@ -328,12 +345,13 @@
     "type": "scenario",
     "question": "A large employer has approached your EDO requesting a significant incentive package, claiming it will relocate unless incentives are provided. Chapter 7 describes a specific analytical test your community should apply before granting incentives. What is this test called, and what does it determine?",
     "options": [
+      "The additionality threshold: whether the incentive produces measurable economic gains beyond what would occur absent the incentive package",
       "Cost-benefit analysis: whether the total economic impact of the firm exceeds the total incentive cost over a 10-year period",
       "Return on investment analysis: whether the incentive generates at least a 3:1 ratio of new tax revenue to incentive value",
       "The 'but-for' determination: whether the company would actually relocate or expand outside the jurisdiction but for the incentive in question",
       "The market rate test: whether the incentive package is competitive with what neighboring jurisdictions are offering"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "new-markets-6e9b2c5a",
@@ -361,6 +379,7 @@
     "question": "Chapter 8 describes buyer-supplier programs as a tool for 'import substitution.' What does this mean in a BRE context?",
     "options": [
       "Encouraging companies to purchase from local vendors, recapturing sales that were occurring outside the community and keeping dollars in the local market",
+      "Developing local supply chains to reduce transportation costs and environmental impacts while increasing competitiveness in regional and national markets",
       "Replacing foreign-made goods in local retail stores with domestically produced alternatives",
       "Providing financing to help firms substitute imported raw materials with domestically sourced inputs",
       "A tax strategy that allows businesses to deduct costs of switching from foreign to domestic suppliers"
@@ -410,6 +429,7 @@
     "options": [
       "The exporting company retains full control over marketing, pricing, and customer relationships abroad",
       "Intermediaries such as distributors and agents bring market insider knowledge, handle administrative tasks, and absorb local language and customs barriers on behalf of the exporter",
+      "The exporting company can establish long-term strategic partnerships with foreign intermediaries that provide exclusive market access and significantly reduce competition from other domestic exporters in those territories.",
       "Indirect exporting eliminates the need for any export documentation or customs compliance",
       "It generates higher profit margins because the exporter avoids paying import duties in the destination country"
     ],
@@ -427,9 +447,10 @@
       "Immediately contact the U.S. Commercial Service and apply for an Ex-Im Bank loan to fund entry costs",
       "Hire an international trade attorney to register trademarks in all target markets before beginning any planning",
       "Partner with a competitor who already exports to share costs and reduce risk before independently entering foreign markets",
+      "Conduct a preliminary market assessment and establish relationships with foreign distributors in target markets before evaluating internal organizational and financial readiness capabilities.",
       "Base the decision on careful analysis and sound planning, evaluating whether the company meets the organizational and financial criteria required for export readiness"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "mergers-acquisitions-8b1d5c3f",
@@ -459,6 +480,7 @@
       "To inform the community about how the new owner will benefit the local economy, since much public skepticism can be traced to misinformation",
       "To block foreign acquisitions that are opposed by a majority of local voters",
       "To negotiate a community benefit agreement with the acquiring firm before approving the transaction",
+      "To conduct a comprehensive foreign investment impact assessment and present findings to city council before any community engagement occurs",
       "To require the foreign owner to hire a fixed percentage of local workers as a condition of receiving EDO assistance"
     ],
     "answerIndex": 0
@@ -475,6 +497,7 @@
       "Treat the facility as a foreign entity subject to additional reporting requirements and scrutiny since its parent is foreign-owned",
       "Defer all engagement with the new owner until the parent company's global strategic intentions become clear",
       "Recognize that U.S. operations owned by foreign companies do not always behave like their parent corporations and should be treated as distinct local entities with their own needs",
+      "Implement a formal foreign investment review protocol that requires the facility to demonstrate compliance with state and federal foreign ownership regulations before resuming normal business operations and community engagement activities.",
       "Assign the firm to the business attraction team rather than the BRE team since it is now foreign-controlled"
     ],
     "answerIndex": 2
@@ -491,7 +514,8 @@
       "Messy",
       "Fragile",
       "Slimy",
-      "Sticky"     ],
+      "Sticky"
+    ],
     "answerIndex": 3,
     "explanation": "",
     "refs": []
@@ -508,7 +532,8 @@
       "Tax abatements",
       "Entrepreneurial ecosystems",
       "Zoning reform",
-      "Corporate consolidation"     ],
+      "Corporate consolidation"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -525,7 +550,8 @@
       "Microenterprise",
       "Technology transfer",
       "Retail business",
-      "Franchise ownership"     ],
+      "Franchise ownership"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -542,7 +568,8 @@
       "Startup/scaleup",
       "Technology transfer",
       "Microenterprise",
-      "Industrial manufacturer"     ],
+      "Industrial manufacturer"
+    ],
     "answerIndex": 2,
     "explanation": "",
     "refs": []
@@ -559,7 +586,8 @@
       "Federal law prevents it",
       "Resource strain and lack of strategic focus",
       "It limits collaboration opportunities",
-      "Entrepreneurs prefer isolation"     ],
+      "Entrepreneurs prefer isolation"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -576,7 +604,8 @@
       "Talent shortage",
       "Capital spectrum gap",
       "Overregulation",
-      "Infrastructure failure"     ],
+      "Infrastructure failure"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -593,7 +622,8 @@
       "Union negotiations",
       "Import tariffs",
       "Corporate auditing",
-      "Business counseling"     ],
+      "Business counseling"
+    ],
     "answerIndex": 3,
     "explanation": "",
     "refs": []
@@ -610,7 +640,8 @@
       "Counseling",
       "Tax workshops",
       "Peer networking",
-      "Debt restructuring"     ],
+      "Debt restructuring"
+    ],
     "answerIndex": 2,
     "explanation": "",
     "refs": []
@@ -627,7 +658,8 @@
       "HUD",
       "SBDC",
       "EPA",
-      "FEMA"     ],
+      "FEMA"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -644,7 +676,8 @@
       "Meeting federal mandates",
       "Identifying community needs",
       "Reducing staffing",
-      "Marketing grants"     ],
+      "Marketing grants"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -661,7 +694,9 @@
       "Guaranteed loans",
       "Real-world experience and guidance",
       "Tax exemptions",
-      "Property ownership"     ],
+      "Access to government funding sources",
+      "Property ownership"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -676,10 +711,12 @@
     "question": "A loan program requires participants to meet regularly to discuss business challenges together. What development strategy is being used?",
     "options": [
       "Regulatory compliance",
+      "Business mentorship and coaching",
       "Peer learning within loan programs",
       "Tax monitoring",
-      "Export promotion"     ],
-    "answerIndex": 1,
+      "Export promotion"
+    ],
+    "answerIndex": 2,
     "explanation": "",
     "refs": []
   },
@@ -695,7 +732,8 @@
       "Large multinational corporations",
       "Local growth-stage companies",
       "Government agencies",
-      "Import distributors"     ],
+      "Import distributors"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -712,7 +750,8 @@
       "Second Stage",
       "High-impact",
       "Start-up",
-      "Late Stage"     ],
+      "Late Stage"
+    ],
     "answerIndex": 3,
     "explanation": "",
     "refs": []
@@ -729,7 +768,8 @@
       "Isolationism",
       "Tax Abatement",
       "Market Research",
-      "Advertising"     ],
+      "Advertising"
+    ],
     "answerIndex": 2,
     "explanation": "",
     "refs": []
@@ -746,7 +786,8 @@
       "Economic gardening collaboration",
       "Industrial recruitment",
       "Tax policy reform",
-      "Export embargo"     ],
+      "Export embargo"
+    ],
     "answerIndex": 0,
     "explanation": "",
     "refs": []
@@ -763,7 +804,8 @@
       "External relocation incentives",
       "Internal firm growth",
       "Trade tariffs",
-      "Infrastructure expansion"     ],
+      "Infrastructure expansion"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -780,7 +822,8 @@
       "Economic gardening",
       "Foreign direct investment",
       "Tax abatement strategy",
-      "Industrial zoning"     ],
+      "Industrial zoning"
+    ],
     "answerIndex": 0,
     "explanation": "",
     "refs": []
@@ -797,7 +840,8 @@
       "Appendix",
       "Executive summary",
       "Operations audit",
-      "Supply chain report"     ],
+      "Supply chain report"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -814,7 +858,8 @@
       "Ask the Chamber about potential business locations",
       "Advertise on TV",
       "Build an executive summary",
-      "Conduct market research"     ],
+      "Conduct market research"
+    ],
     "answerIndex": 3,
     "explanation": "",
     "refs": []
@@ -831,7 +876,8 @@
       "Product",
       "Price",
       "Placement",
-      "Planting"     ],
+      "Planting"
+    ],
     "answerIndex": 3,
     "explanation": "",
     "refs": []
@@ -848,7 +894,8 @@
       "Closing the business",
       "Formalizing the business plan",
       "Export acceleration",
-      "Debt restructuring"     ],
+      "Debt restructuring"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -865,7 +912,8 @@
       "-2.0",
       "-1.5",
       "0",
-      "2.0"     ],
+      "2.0"
+    ],
     "answerIndex": 3,
     "explanation": "",
     "refs": []
@@ -882,7 +930,8 @@
       "Fixed costs are depreciating",
       "Lack of investment in variable costs",
       "Variable costs are outpacing gross margin",
-      "External factors beyond their control"     ],
+      "External factors beyond their control"
+    ],
     "answerIndex": 2,
     "explanation": "",
     "refs": []
@@ -899,7 +948,8 @@
       "Market research",
       "Utility planning",
       "Local zoning",
-      "Union bargaining"     ],
+      "Union bargaining"
+    ],
     "answerIndex": 0,
     "explanation": "",
     "refs": []
@@ -916,7 +966,8 @@
       "Secure patents",
       "Hire legal staff",
       "Conduct market research",
-      "Open a warehouse"     ],
+      "Open a warehouse"
+    ],
     "answerIndex": 2,
     "explanation": "",
     "refs": []
@@ -933,7 +984,8 @@
       "closer ties with overseas buyers",
       "better exchange rates",
       "more opportunities to learn how to increase competitiveness",
-      "greater control over the export process"     ],
+      "greater control over the export process"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -950,7 +1002,8 @@
       "Direct exporting",
       "Indirect exporting",
       "Off-shore exporting",
-      "Safe-haven exporting"     ],
+      "Safe-haven exporting"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -967,7 +1020,8 @@
       "Time zone differences",
       "Local advertising",
       "Cross-border regulations",
-      "Internal HR policies"     ],
+      "Internal HR policies"
+    ],
     "answerIndex": 2,
     "explanation": "",
     "refs": []
@@ -984,7 +1038,8 @@
       "Choose an export management company",
       "Conduct market research",
       "Choose an online platform",
-      "Hire additional staff to increase capacity"     ],
+      "Hire additional staff to increase capacity"
+    ],
     "answerIndex": 1,
     "explanation": "",
     "refs": []
@@ -1001,7 +1056,8 @@
       "Incubators are privately funded while accelerators are publicly funded",
       "Incubators exclusively serve technology firms, while accelerators serve businesses in any industry",
       "Incubators aim to help start-up businesses become sustainable, while accelerators focus on specialized strategy development and advanced technical training for businesses that already have a viable product or technology",
-      "Incubators provide physical office space only, while accelerators provide only financial capital"
+      "Incubators provide physical office space only, while accelerators provide only financial capital",
+      "Incubators provide comprehensive mentorship and networking support to early-stage ventures regardless of development stage, while accelerators offer intensive, time-limited programs specifically designed to rapidly scale businesses with established market traction"
     ],
     "answerIndex": 2
   },
@@ -1032,10 +1088,11 @@
     "options": [
       "A technology accelerator with a venture capital network, prioritizing equity investment and IP protection",
       "A virtual incubator with online-only programming, prioritizing digital service delivery over physical space",
+      "A technology accelerator with venture capital networks, prioritizing equity investment and advanced IP protection to attract innovative firms and transform the district's economic base",
       "A community revitalization incubator, prioritizing business basics such as marketing, cash flow management, and accounting control for tenants in the declining area",
       "A mixed-use incubator targeting high-growth software and mobile app start-ups to modernize the district's economic base"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "entrepreneurial-financing-2f5a8b1c",
@@ -1048,6 +1105,7 @@
     "options": [
       "Angel investors typically invest less than a venture capital firm but more than commercial banks, often filling the gap between $500,000 and $2,000,000 that is too small for VCs and too large for individual angels",
       "Angel investors make larger investments than venture capital firms in all cases",
+      "Angel investors typically invest smaller amounts than venture capital firms, usually ranging from $25,000 to $250,000 per deal, focusing on early-stage companies that require minimal capital for initial product development and market testing phases.",
       "Angel investors and venture capital firms invest identical amounts but differ only in whether they take board seats",
       "Angel investors exclusively fund businesses in the seed stage, while VCs only fund companies post-revenue"
     ],
@@ -1080,6 +1138,7 @@
     "options": [
       "Entrepreneurs must demonstrate a college degree in business before receiving EDO financial assistance",
       "Aspiring entrepreneurs must have 'skin in the game' by investing personal financial resources into the start-up before financial support organizations will invest, reflecting the level of risk associated with start-ups",
+      "Entrepreneurs must demonstrate sufficient collateral or existing business assets to secure EDO financing, ensuring that financial institutions can recover investments if the venture fails to achieve projected profitability benchmarks.",
       "The EDO must match every dollar of outside financing with a corresponding public subsidy to reduce risk",
       "All entrepreneurial financing must be structured as equity rather than debt to align the EDO's interests with the business owner's"
     ],
@@ -1097,7 +1156,8 @@
       "The SBA directly lends funds to small businesses through its own branch offices nationwide",
       "The SBA guarantees a portion of loans made by third-party lenders to qualified small businesses that cannot obtain financing through normal lending channels",
       "The SBA provides grants to small businesses that meet equity and diversity requirements",
-      "The SBA purchases equity stakes in small businesses in exchange for technical assistance services"
+      "The SBA purchases equity stakes in small businesses in exchange for technical assistance services",
+      "The SBA provides direct capital infusions to small businesses through microfinance institutions and community development financial institutions to facilitate underserved market lending"
     ],
     "answerIndex": 1
   },
@@ -1111,11 +1171,12 @@
     "question": "Chapter 8 describes the role of the economic development practitioner in small business capital access. Which of the following best captures that role?",
     "options": [
       "Approving or denying loan applications on behalf of commercial lenders",
+      "Facilitating business growth by underwriting loan applications, assessing creditworthiness of borrowers, making funding decisions based on financial analysis, and directly disbursing capital to qualified small business enterprises.",
       "Providing direct equity investment in exchange for a percentage of business profits",
       "Administering federal SBA loan programs directly to businesses on behalf of the federal government",
       "Increasing access to capital by connecting small business owners to an innovative financing ecosystem, identifying credit sources, recognizing financing gaps, and developing strategies to address those gaps"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "small-business-financing-5c0d6a2f",
@@ -1129,6 +1190,7 @@
       "As positive indicators that she has pulled in personal resources as expected \u2014 a prerequisite for accessing formal financing sources \u2014 and is now likely ready to explore external capital options",
       "As warning signs of financial mismanagement that disqualify her from SBA financing",
       "As evidence that she has exhausted all options and should be referred to a nonprofit charity rather than a lender",
+      "As evidence that she has maximized personal liquidity and demonstrates strong commitment, indicating she should pursue venture capital or equity investors rather than traditional debt financing through conventional lenders",
       "As irrelevant to the financing evaluation, since lenders focus only on business revenues and credit scores"
     ],
     "answerIndex": 0
@@ -1158,12 +1220,13 @@
     "type": "conceptual",
     "question": "Chapter 9 discusses capital access disparities for entrepreneurs of color. What does the data cited reveal about Black and Hispanic founders' share of venture capital raised between 2015 and 2020?",
     "options": [
+      "They secured approximately 12 percent of venture capital funding through community development financial institutions and minority business enterprise programs",
       "They raised approximately 25 percent of total venture capital, reflecting their share of the general population",
       "They raised capital at the same rate as white founders when controlling for firm size and industry",
       "They raised over $15 billion combined, but this represented only 2.4 percent of total venture capital raised during that period",
       "They received preferential VC access through federal set-aside programs accounting for 15 percent of VC deals"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "equity-chapter-2d6c0e4a",
@@ -1177,7 +1240,8 @@
       "Focus exclusively on grant programs and avoid loans, since debt financing has historically harmed communities of color",
       "Limit EDO involvement to awareness campaigns, since structural inequities can only be addressed through federal legislation",
       "Partner exclusively with traditional commercial banks since they have the most capital to deploy to minority-owned businesses",
-      "Convene mentorship programs to expand networks, provide technical assistance such as legal aid and business coaching, and connect entrepreneurs with incubators and accelerators specifically designed to support entrepreneurs of color and underserved communities"
+      "Convene mentorship programs to expand networks, provide technical assistance such as legal aid and business coaching, and connect entrepreneurs with incubators and accelerators specifically designed to support entrepreneurs of color and underserved communities",
+      "Develop targeted loan products with below-market interest rates through community development financial institutions, establish vendor certification programs for minority-owned businesses to access government procurement opportunities, and create business improvement districts in underserved neighborhoods to increase commercial activity and property values."
     ],
     "answerIndex": 3
   },
@@ -1223,11 +1287,12 @@
     "question": "A small manufacturing business in your community wants to begin exporting but lacks the resources to conduct foreign market research on its own. Based on Chapter 10, what is the most comprehensive role an EDO can play to help this firm succeed in exporting?",
     "options": [
       "Refer the business to the nearest SBA office and take no further action, since export assistance is a federal responsibility",
+      "Establish a trade mission to potential export markets, coordinate with the local chamber of commerce to host international buyer meetings, and facilitate introductions to freight forwarders and customs brokers to streamline the export logistics process",
       "Help the business build export capacity by providing research assistance to improve competitiveness, develop export readiness through assessments and counseling, and identify the best markets and entry strategies through thorough foreign market research",
       "Encourage the business to hire a full-time export manager before engaging with any EDO programs",
       "Limit assistance to connecting the business with a foreign distributor, since market research is beyond the EDO's typical scope"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "microenterprise-programs-3d8b5c1a",
@@ -1239,11 +1304,12 @@
     "question": "According to Chapter 11, how are microenterprise loans typically described in terms of their underwriting approach?",
     "options": [
       "Asset-based, relying primarily on the value of business equipment and inventory as collateral",
+      "Collateral-based, relying on personal guarantees and business assets as security while maintaining flexible repayment terms suited to seasonal cash flow variations",
       "Character-based, relying on the loan officer's assessment of the applicant's personal character and business potential rather than collateral or credit history",
       "Credit-score-based, following the same criteria used by commercial banks",
       "Revenue-based, using trailing 12-month sales figures as the primary underwriting criterion"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "microenterprise-programs-7e2a9f4c",
@@ -1257,7 +1323,8 @@
       "Direct lending is administered by the federal government, while peer lending is managed by state agencies",
       "Direct lending is for businesses with existing revenues, while peer lending is exclusively for start-up businesses with no track record",
       "Direct lending offers higher loan amounts while peer lending is capped at $5,000 per participant",
-      "Direct lending is similar to bank lending where borrowers guarantee repayment through collateral or co-signers, while peer lending provides financing to groups where members are collectively responsible for repayment and rely on peer pressure rather than collateral"
+      "Direct lending is similar to bank lending where borrowers guarantee repayment through collateral or co-signers, while peer lending provides financing to groups where members are collectively responsible for repayment and rely on peer pressure rather than collateral",
+      "Direct lending requires borrowers to complete financial literacy training before approval, while peer lending groups are exempt from training requirements and rely instead on informal knowledge sharing among members"
     ],
     "answerIndex": 3
   },
@@ -1273,7 +1340,8 @@
       "A standard commercial lending model with relaxed collateral requirements and no wraparound services, since over-programming can create dependency",
       "A grant-only model, since offering any loans to individuals with poor credit histories is irresponsible and predatory",
       "A peer lending or direct character-based microlending model, paired with robust technical assistance throughout the process \u2014 including pre-loan help such as business plan development and post-loan support such as cash flow management \u2014 since microentrepreneurs typically require a great deal of assistance throughout the lending process",
-      "Refer all applicants to the SBA Microloan Program without offering local wraparound services, since federal programs are better capitalized"
+      "Refer all applicants to the SBA Microloan Program without offering local wraparound services, since federal programs are better capitalized",
+      "A graduated collateral model with selective technical assistance focused primarily on loan underwriting and approval, since microentrepreneurs benefit most from financial discipline and independence rather than extensive hand-holding that may undermine their entrepreneurial initiative and self-reliance in business decision-making processes."
     ],
     "answerIndex": 2
   },
@@ -1289,7 +1357,8 @@
       "Recruiting out-of-state corporations to establish headquarters in local communities",
       "Concentrating resources on high-growth technology startups in urban centers",
       "Growing economies by supporting business creation and accelerating the growth of existing businesses across all spectrums of industry, inclusive of business size, location, industry, and founder background",
-      "Replacing traditional economic development strategies such as business attraction with entrepreneur-focused programs"
+      "Replacing traditional economic development strategies such as business attraction with entrepreneur-focused programs",
+      "Fostering economic growth through targeted investment in emerging technology sectors and supporting venture capital funding for high-potential startups to create sustainable jobs and attract skilled workers to underserved regions"
     ],
     "answerIndex": 2
   },
@@ -1304,10 +1373,11 @@
     "options": [
       "Launch a new flagship incubator program to establish the EDO as the lead entrepreneurship organization",
       "Conduct a needs assessment survey targeting only high-growth firms to identify where to concentrate resources",
+      "Conduct a comprehensive competitive analysis of regional entrepreneurship ecosystems to benchmark against peer communities and establish performance metrics that will guide strategic prioritization of new initiative development.",
       "Seek state and federal grants to fund new programming before engaging with existing organizations",
       "Discover what entrepreneurship supports are already in place, find the gaps, and knit together existing resources to form a strong support network rather than searching for a single 'silver bullet' program"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "roles-relationships-2c3d4e5f",
@@ -1321,6 +1391,7 @@
       "Entrepreneurs respond best to data-heavy reports that quantify job creation and economic impact",
       "Government branding should be prominently featured to establish credibility with business owners",
       "Entrepreneurs don't necessarily care about job creation metrics; they are more motivated by peer testimonials showing how others resolved pain points similar to their own",
+      "Economic development initiatives should emphasize workforce development outcomes and skills training programs, as entrepreneurs are primarily concerned with labor availability and human capital investment rather than financial incentives.",
       "Program structure and eligibility criteria should be the primary focus of all outreach communications"
     ],
     "answerIndex": 2
@@ -1336,6 +1407,7 @@
     "options": [
       "Finding co-investing partners, running pilot programs for flexibility, increasing efficiencies over time, and shifting budget dollars strategically to seize new opportunities as they arise",
       "Reducing program quality standards and accepting lower outcomes to stretch available dollars further",
+      "Leveraging federal Small Business Administration matching funds, implementing lean management practices to reduce administrative overhead, and reallocating savings from consolidating redundant staff positions across regional offices",
       "Consolidating all services under one department to eliminate partner coordination costs",
       "Redirecting all funding from technical assistance programs into direct financial grants to entrepreneurs"
     ],
@@ -1369,7 +1441,8 @@
       "Government must fund and lead every initiative to ensure accountability and sustainability",
       "Government can play a supportive, facilitative role \u2014 helping where it can and stepping back to let community members and private investors lead when they step up",
       "Government should focus exclusively on recruiting outside businesses rather than supporting local entrepreneurs",
-      "Government participation is counterproductive in entrepreneurial ecosystems and should be limited to regulatory functions only"
+      "Government participation is counterproductive in entrepreneurial ecosystems and should be limited to regulatory functions only",
+      "Government should establish clear performance metrics and direct oversight of all local entrepreneurial ventures to maximize economic returns and minimize community risk"
     ],
     "answerIndex": 1
   },
@@ -1384,10 +1457,11 @@
     "options": [
       "Siloed organizations tend to over-spend on administrative costs, reducing funds available for entrepreneurs",
       "Federal funders now require inter-organizational collaboration as a condition of most economic development grants",
+      "Organizations operating in silos miss opportunities to leverage complementary assets and create synergies that attract larger corporate relocations and foreign direct investment to their regions",
       "With the increasing speed of the economy, no one individual can process all information and make decisions quickly enough \u2014 agility and diverse perspectives are required for smart decision-making",
       "Siloed thinking is primarily a symptom of under-resourced organizations that need more staff and technology"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "silo-busting-8w9x0y1z",
@@ -1401,7 +1475,8 @@
       "Identify low-hanging fruit such as organizations with strong overlapping programs like mentoring, convene them, find ways to work together, bring in early wins, and tell those stories to build momentum \u2014 then move to the next launching point",
       "Pursue a top-down mandate from elected officials to require organizations to collaborate",
       "Eliminate competing organizations through consolidation before launching a unified ELED strategy",
-      "Focus all energy on a single transformational initiative rather than spreading resources across multiple small efforts"
+      "Focus all energy on a single transformational initiative rather than spreading resources across multiple small efforts",
+      "Establish a formal governance structure with clearly defined roles and decision-making authority, secure adequate funding through grants and public investment, develop comprehensive performance metrics to demonstrate ROI, and require all participating organizations to align their missions with the unified ELED strategy framework"
     ],
     "answerIndex": 0
   },
@@ -1417,7 +1492,8 @@
       "A community with very rigid boundaries that becomes closed off to the environment, losing the capacity to adjust to external changes",
       "A community with too many competing organizations pulling in different directions",
       "A community that allows too much outside influence, losing its local identity and sense of direction",
-      "A community that has achieved optimal balance between internal cohesion and external openness"
+      "A community that has achieved optimal balance between internal cohesion and external openness",
+      "A community that expands its organizational network too rapidly, diluting focus and creating redundancy in economic development initiatives and services"
     ],
     "answerIndex": 0
   },
@@ -1432,6 +1508,7 @@
     "options": [
       "Assess, Plan, Execute \u2014 focusing on business continuity planning, strategic pivoting, and long-term capital access",
       "React, Refocus, Rebuild \u2014 mitigating immediate damage, helping businesses adapt quickly, and connecting entrepreneurs with tools and resources to emerge stronger",
+      "Mobilize, Modernize, Monetize \u2014 deploying emergency capital, upgrading digital infrastructure, and establishing new revenue streams through market diversification",
       "Stabilize, Restructure, Relaunch \u2014 providing emergency loans, negotiating lease deferrals, and connecting to federal disaster programs",
       "Identify, Triage, Recover \u2014 cataloging all affected businesses, prioritizing those at greatest risk, and deploying technical assistance teams"
     ],
@@ -1462,12 +1539,13 @@
     "type": "conceptual",
     "question": "Chapter 6 identifies three domains of inclusion in ELED. Which of the following best describes the distinction between 'availability' and 'accessibility' of entrepreneurship support?",
     "options": [
+      "Availability refers to the breadth of entrepreneurship support organizations across multiple sectors, while accessibility refers to the depth of specialized services offered by each individual ESO",
       "Availability refers to the number of ESOs in a region, while accessibility refers to the quality of services they provide",
       "Availability applies to financing programs, while accessibility applies only to technical assistance and training",
       "The two terms are interchangeable and both refer to whether support services are physically located in a community",
       "Availability means a program or resource exists, while accessibility means that all entrepreneurs \u2014 regardless of background, geography, or circumstance \u2014 can actually reach and use it"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "trusted-source-7q8r9s0t",
@@ -1481,6 +1559,7 @@
       "Have coffee meetings, hold focus groups, read research about women and entrepreneurs of color, attend their events and community meetings, and conduct direct interviews to understand their true challenges and opportunities",
       "Complete formal academic coursework in cultural anthropology and sociology before engaging with underrepresented communities",
       "Rely primarily on published demographic statistics and census data to understand the needs of diverse entrepreneurs",
+      "Develop standardized empathy training modules with certified diversity trainers, implement regular unconscious bias workshops, and utilize validated psychometric assessments to measure empathy competency levels among staff before direct community engagement.",
       "Partner with a diversity consultant to design all outreach programs on behalf of underrepresented communities"
     ],
     "answerIndex": 0
@@ -1495,6 +1574,7 @@
     "question": "A practitioner is building an inclusive ELED strategy but finds that historically marginalized entrepreneurs are skeptical and disengaged from ecosystem activities. Chapter 7 identifies two primary relationship development objectives for this situation. What are they?",
     "options": [
       "Developing strong relationships with groups historically left out of the ecosystem, and connecting those groups into the broader network of other organizations and individuals in the entrepreneurship ecosystem",
+      "Establishing mentorship programs pairing underrepresented entrepreneurs with successful business leaders and creating advisory committees with community representatives to guide ecosystem policy development initiatives.",
       "Launching a marketing campaign targeting underrepresented groups and creating dedicated grant programs exclusively for minority-owned businesses",
       "Hiring staff from underrepresented communities and requiring all ESOs to submit diversity reports annually",
       "Creating separate parallel ecosystems for underrepresented entrepreneurs until sufficient trust is built to integrate them into the main ecosystem"
@@ -1528,10 +1608,11 @@
     "options": [
       "Abandon non-traditional metrics entirely and focus exclusively on what funders request to maintain funding relationships",
       "Refuse to report traditional metrics and replace them with qualitative stories only",
+      "Develop a balanced scorecard approach that weights traditional metrics at 70% and inclusive ecosystem indicators at 30%, ensuring funders see quantifiable venture capital and startup data as the primary success measures while acknowledging secondary social impact considerations.",
       "Commission an independent academic study every three years to validate ecosystem outcomes rather than relying on internal reporting",
       "Recognize that the measurement framework must depend on what you hope to accomplish, look beyond traditional metrics to explore other ways of assessing ELED progress, and use stories and testimonials to bridge the gap between standard measures and the real impact of ecosystem work"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "funding-ecosystem-9g0h1i2j",
@@ -1543,11 +1624,12 @@
     "question": "According to Chapter 9, SourceLink's hierarchy of metrics aligns measurement to the stage of ecosystem development. What does the manual identify as the appropriate focus at the earliest stage of building entrepreneurial infrastructure?",
     "options": [
       "Tracking venture capital deals closed and jobs created by portfolio companies",
+      "Establishing baseline metrics for business formation rates and tracking the number of startups created annually within the region to demonstrate initial economic activity and entrepreneurial momentum in developing markets",
       "Inventorying existing entrepreneurship support resources and measuring how many are willing to participate in a collaborative effort, using metrics like number of network partners and entrepreneurial events",
       "Measuring revenue growth and business survival rates of firms receiving support",
       "Conducting a community-wide survey of entrepreneur satisfaction with available services"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "funding-ecosystem-3k4l5m6n",
@@ -1561,7 +1643,8 @@
       "Secured a single large federal EDA grant to fund all ecosystem activities for five years",
       "Funded ESOs as part of its workforce development strategy, directly invested in entrepreneurs through an early-stage fund (Startup Texas), and leveraged private sector interest to grow the fund from $100,000 to nearly $500,000",
       "Created a public-private real estate development fund and used proceeds to cross-subsidize entrepreneurship programs",
-      "Required all businesses receiving economic development incentives to contribute a percentage of their incentive value into a community entrepreneurship fund"
+      "Required all businesses receiving economic development incentives to contribute a percentage of their incentive value into a community entrepreneurship fund",
+      "Established a municipal development district that assessed property tax increments from redevelopment zones and allocated revenues to support business incubators, mentorship programs, and entrepreneurial training initiatives"
     ],
     "answerIndex": 1
   },
@@ -1593,11 +1676,12 @@
       "The Foundation provided financial compensation to competing organizations to secure their non-interference",
       "The Foundation organized monthly calls for all ecosystem players before launch to help organizations understand their role, quell negative attitudes, and update the ecosystem on activities \u2014 illustrating that bringing partners along from the beginning is critical to building collaborative trust and reducing territorial resistance",
       "The Foundation ignored the concern and let program results speak for themselves over time",
-      "The Foundation restructured the program so each partner organization received a formal co-leadership role, eliminating competition"
+      "The Foundation restructured the program so each partner organization received a formal co-leadership role, eliminating competition",
+      "The Foundation conducted a competitive impact assessment and offered technical assistance grants to partner organizations to help them integrate Scalerator NEO services into their existing portfolios, demonstrating that addressing concerns through capacity building and resource allocation strengthens ecosystem relationships and reduces organizational defensiveness."
     ],
     "answerIndex": 1
   },
-   {
+  {
     "id": "business-types-stages-1a2b3c4d",
     "title": "Accelerating Growth Through Entrepreneurship-Led Economic Development",
     "chapter": 1,
@@ -1625,6 +1709,7 @@
       "Innovation-led firms are too difficult to support and require PhD-level expertise that most EDOs lack",
       "Federal regulations prohibit EDOs from directing more than 20% of resources toward innovation-led firms",
       "While innovation drives economic growth, disproportionate focus on innovation-led firms \u2014 which are a small percentage of the entrepreneurial community \u2014 risks excluding the vast majority of microenterprise and main street entrepreneurs who collectively employ millions and deserve support",
+      "Innovation-led firms require extensive venture capital networks and angel investor connections that most EDOs cannot facilitate, making resource allocation toward these enterprises inefficient compared to supporting established main street businesses with proven operational models.",
       "Innovation-led firms generate insufficient tax revenue to justify the cost of specialized ecosystem support"
     ],
     "answerIndex": 2
@@ -1687,11 +1772,12 @@
     "question": "A biotech startup in your community needs access to specialized lab equipment and cutting-edge research. Chapter 3 outlines several factors for successful corporate-higher education partnerships. Which combination of factors does the chapter identify as most critical for these partnerships to succeed?",
     "options": [
       "Shared physical space, equal financial contributions, and annual performance reviews conducted by a neutral third party",
+      "Formal governance structures with dedicated liaison offices, mandatory quarterly stakeholder reviews, institutionalized cost-sharing mechanisms, and documented technology transfer protocols",
       "Government co-funding mandates, standardized curricula, and mandatory internship quotas for all partner firms",
       "Shared vision as a framework for activities, leaders who cross boundaries, a shared communication platform, clear intellectual property agreements, and long-term relationships",
       "University ownership of all resulting patents, exclusive licensing agreements, and joint marketing campaigns"
     ],
-    "answerIndex": 2
+    "answerIndex": 3
   },
   {
     "id": "second-stage-4y5z6a7b",
@@ -1704,6 +1790,7 @@
     "options": [
       "Recognizing they need external help and admitting they can no longer go it alone, though getting the right kind of help is easier said than done",
       "Securing a Series A equity investment to fund the next growth phase",
+      "Establishing a formal board of advisors and implementing structured governance protocols to manage organizational complexity and decision-making processes",
       "Hiring a professional CEO to replace the founder as the primary leader of the company",
       "Achieving $1 million in annual revenue to qualify for second-stage support programs"
     ],
@@ -1721,7 +1808,8 @@
       "University technology transfer is only viable when a serial entrepreneur with prior exits is available to license the technology",
       "Corporate acquisition inevitably leads to the departure of a company from its home community, making ecosystem investment in such firms a poor use of resources",
       "Federal grant funding is the primary driver of innovation-led company success, and communities without federal research funding cannot replicate this model",
-      "A well-connected local ecosystem \u2014 combining tech transfer offices, angel networks, accelerator programs, coworking space, and technical assistance \u2014 can take a university lab innovation all the way from patent licensing to global acquisition while retaining local presence and economic impact"
+      "A well-connected local ecosystem \u2014 combining tech transfer offices, angel networks, accelerator programs, coworking space, and technical assistance \u2014 can take a university lab innovation all the way from patent licensing to global acquisition while retaining local presence and economic impact",
+      "Early-stage university spinouts require immediate venture capital funding from institutional investors rather than angel networks to achieve scale, and successful technology transfer depends primarily on the founders' ability to secure Series A rounds before commercialization can begin."
     ],
     "answerIndex": 3
   },
@@ -1753,7 +1841,8 @@
       "It leads to legal liability under federal equal opportunity statutes governing economic development programs",
       "An ELED strategy that doesn't account for how overlapping characteristics like race and gender create distinct barriers \u2014 such as Black women leading in business creation but having the lowest average sales of any group \u2014 will likely produce outcomes far below expectations for those groups",
       "It results in duplicate service delivery, with multiple organizations providing the same assistance to the same demographic groups",
-      "It reduces participation rates among white male entrepreneurs who feel excluded from programs focused on diverse groups"
+      "It reduces participation rates among white male entrepreneurs who feel excluded from programs focused on diverse groups",
+      "It fails to allocate resources efficiently across economic development initiatives, resulting in higher per-capita costs for serving each entrepreneur and reducing the overall return on investment for the ELED program's funding sources and stakeholders."
     ],
     "answerIndex": 1
   },
@@ -1768,6 +1857,7 @@
     "options": [
       "One equal leg of the traditional three-legged stool alongside attraction and BRE",
       "The foundation of economic development, upon which business expansion, retention, and attraction are built and enhanced",
+      "A complementary strategy that works alongside attraction and retention efforts to diversify the local economy and reduce dependence on external business recruitment",
       "A supplemental strategy reserved only for communities too small to attract outside businesses",
       "A replacement for traditional economic development strategies rather than a complement to them"
     ],
@@ -1784,6 +1874,7 @@
     "options": [
       "The City of Ord's property valuation rose 131% since 2000, school enrollment grew 14%, and 70% of high school seniors reported wanting to return to the community \u2014 reflecting a cultural transformation rooted in collaborative investment and a new sense of hope",
       "The county attracted three Fortune 500 companies to open regional offices over a 20-year period",
+      "The county established a regional innovation hub that generated $47 million in venture capital funding, created 340 new technology jobs, and attracted 12 startup companies\u2014demonstrating measurable economic diversification and private sector confidence in the region",
       "The county received a national award for rural economic development from the USDA Rural Development program",
       "The county eliminated its economic development department after achieving full employment and no longer needing outside assistance"
     ],
@@ -1799,11 +1890,12 @@
     "question": "Chapter 7 describes a 'valley of death' in entrepreneur financing. What does the manual say is the EDO's role in addressing this challenge?",
     "options": [
       "Directly providing equity investment to all startups that cannot access bank financing",
+      "Facilitating connections between early-stage entrepreneurs and angel investors while establishing microfinance programs to bridge funding gaps, thereby reducing reliance on traditional bank loans and venture capital sources.",
       "Lobbying Congress to expand SBA loan programs to cover all capital needs of startups",
       "Referring all entrepreneurs with capital needs to venture capital firms regardless of their stage of development",
       "Assessing gaps in the funding continuum and rallying support to fill them, ensuring entrepreneurs have access to the right type of capital at the right stage of development"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "capital-entrepreneurs-1a2b3c4d5e",
@@ -1814,12 +1906,13 @@
     "type": "scenario",
     "question": "Chapter 7 presents data on capital access disparities for minority entrepreneurs. According to Rodney Sampson, while 60% of net new jobs come from venture-backed companies, what does the data reveal about the share of venture capital going to Black firms?",
     "options": [
+      "Black firms receive approximately 3% of venture capital annually, representing meaningful progress in closing equity gaps through SBA-backed community development financial institutions",
       "Black firms receive approximately 8.5% of all venture capital, proportionate to their share of the business-owning population",
       "Black firms receive 15% of all VC investment due to targeted diversity programs launched by major venture funds after 2015",
       "Black firms receive approximately 5% of venture capital, which reflects steady progress from near-zero levels in the 1990s",
       "Less than 1% of annual venture capital goes to Black firms, with only about 200 Black and Latinx firms having raised over $1 million in VC over two decades"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "corporate-engagement-8f9g0h1i",
@@ -1846,12 +1939,13 @@
     "type": "scenario",
     "question": "The CASE program case study in Chapter 8 describes how to connect small businesses to anchor institution procurement. What does Natalie Rosado Ortiz identify as the single most important key to making anchor mission procurement work?",
     "options": [
+      "Establishing formal partnerships between small businesses and anchor institutions through legally binding multi-year contracts that guarantee minimum purchase volumes and pricing terms, thereby creating predictable revenue streams that allow small businesses to invest in capacity building and workforce development initiatives.",
       "Mandating that anchor institutions spend a fixed percentage of procurement budgets with local small businesses through city ordinance",
       "Creating a public online marketplace where small businesses can bid directly on anchor contracts without intermediary support",
       "Requiring all small businesses to obtain national supplier diversity certifications before being introduced to anchor procurement officers",
       "Having a dedicated internal advocate \u2014 ideally a full-time supply chain or supplier diversity employee \u2014 within the anchor institution who cares deeply about empowering local businesses as strategic sourcing partners, since internal champions are critical with so many competing institutional priorities"
     ],
-    "answerIndex": 3
+    "answerIndex": 4
   },
   {
     "id": "policy-environment-9n0o1p2q",
@@ -1863,11 +1957,12 @@
     "question": "Chapter 9 quotes IEDC's Matthew Mullin on what it takes to change public policy for entrepreneurship. What two factors does he identify as most essential?",
     "options": [
       "Media coverage and public petitions signed by a majority of community residents",
+      "Political will and stakeholder engagement \u2014 demonstrated through organized coalitions, sustained advocacy campaigns, and measurable community support metrics",
       "Relationships and persistence \u2014 combined with a clear, specific goal and willingness to pursue multiple avenues even when faced with initial resistance",
       "Large campaign contributions and direct lobbying by well-funded industry associations",
       "Academic research publications and university partnerships that lend scientific credibility to policy proposals"
     ],
-    "answerIndex": 1
+    "answerIndex": 2
   },
   {
     "id": "policy-environment-3r4s5t6u",
@@ -1880,6 +1975,7 @@
     "options": [
       "Don't ask a mayor about immigration policy since they don't control it; instead focus on actions within their authority \u2014 like making the city more immigrant-friendly or adopting programs to help the immigrant community \u2014 and be specific about what you want them to do",
       "Mayors should never be approached on immigration-related issues since these topics are too politically sensitive",
+      "Focus immigration entrepreneurship requests on state and federal legislators who have direct control over immigration policy, as mayors lack the authority to influence immigration matters and should instead be approached only about unrelated economic development initiatives.",
       "All policy requests must first be vetted by the city attorney before being presented to elected officials",
       "Mayors are only receptive to policy requests that are backed by unanimous endorsement from the local chamber of commerce"
     ],
@@ -1911,6 +2007,7 @@
     "question": "The Erie, Pennsylvania case study in Chapter 10 describes how the Innovation Collaborative changed its community's entrepreneurial culture. The community had been identified as extremely risk-averse with low entrepreneurial activity. What was the core of their strategy for driving cultural change?",
     "options": [
       "Launching an effective PR and educational campaign \u2014 using awards, social media, and storytelling across multiple channels \u2014 to communicate what entrepreneurship is, why it matters, and how the community can support it, thereby shifting the culture toward greater risk-taking and startup activity",
+      "Establishing a community venture capital fund with matching grants from local foundations to provide accessible seed funding for early-stage startups, thereby reducing financial barriers and encouraging more residents to pursue entrepreneurial ventures and business formation.",
       "Recruiting high-profile tech companies to relocate to Erie to shift perceptions of the city as a viable entrepreneurship hub",
       "Securing a major federal EDA grant to fund a five-year entrepreneurship acceleration program",
       "Replacing the city's economic development leadership with entrepreneurs who could model risk-taking from within government"
