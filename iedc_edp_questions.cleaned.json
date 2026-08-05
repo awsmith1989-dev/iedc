@@ -529,12 +529,12 @@
     "type": "scenario",
     "question": "An economic developer explains that entrepreneurship helps diversify industry sectors and stabilize local economies. What concept are they describing?",
     "options": [
-      "Tax abatements",
       "Entrepreneurial ecosystems",
+      "Tax abatements",
       "Zoning reform",
       "Corporate consolidation"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -547,12 +547,12 @@
     "type": "standard",
     "question": "Which entrepreneurial stack segment focuses on commercialization of research and intellectual property?",
     "options": [
-      "Microenterprise",
       "Technology transfer",
+      "Microenterprise",
       "Retail business",
       "Franchise ownership"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -567,10 +567,10 @@
     "options": [
       "Startup/scaleup",
       "Technology transfer",
-      "Microenterprise",
-      "Industrial manufacturer"
+      "Industrial manufacturer",
+      "Microenterprise"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -583,12 +583,12 @@
     "type": "standard",
     "question": "Why should economic development organizations avoid trying to provide every service themselves?",
     "options": [
-      "Federal law prevents it",
       "Resource strain and lack of strategic focus",
+      "Federal law prevents it",
       "It limits collaboration opportunities",
       "Entrepreneurs prefer isolation"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -599,15 +599,15 @@
     "chapter_tag": "entrepreneurship_foundations",
     "difficulty": "hard",
     "type": "scenario",
-    "question": "An entrepreneur cannot obtain traditional bank loans due to limited collateral and credit history. Which ecosystem gap is most relevant?",
+    "question": "An entrepreneur cannot obtain traditional bank loans due to limited collateral and credit history. As an economic developer, what is the most appropriate ecosystem strategy to fill this capital gap?",
     "options": [
-      "Talent shortage",
-      "Capital spectrum gap",
-      "Overregulation",
-      "Infrastructure failure"
+      "Connect the entrepreneur to angel investors seeking equity stakes in high-growth startups",
+      "Help the entrepreneur identify an SBA-guaranteed loan program and connect them to a participating lender",
+      "Advise the entrepreneur to launch a crowdfunding campaign on Kickstarter",
+      "Refer the entrepreneur to a CDFI or microlender that uses character-based underwriting"
     ],
-    "answerIndex": 1,
-    "explanation": "",
+    "answerIndex": 3,
+    "explanation": "CDFIs and microlenders are specifically designed for entrepreneurs who lack traditional credit and collateral. Character-based underwriting replaces credit score and collateral as the primary criteria. SBA 7(a) still requires reasonable credit history, angel investors seek equity in high-growth businesses, and crowdfunding is self-directed rather than an EDO ecosystem strategy.",
     "refs": []
   },
   {
@@ -639,10 +639,10 @@
     "options": [
       "Counseling",
       "Tax workshops",
-      "Peer networking",
-      "Debt restructuring"
+      "Debt restructuring",
+      "Peer networking"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -655,12 +655,12 @@
     "type": "standard",
     "question": "Which nationwide program provides small business consulting and training?",
     "options": [
-      "HUD",
       "SBDC",
+      "HUD",
       "EPA",
       "FEMA"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -673,12 +673,12 @@
     "type": "scenario",
     "question": "Your EDO surveys local businesses to determine gaps in technical assistance services. What is the main purpose of this action?",
     "options": [
-      "Meeting federal mandates",
       "Identifying community needs",
+      "Meeting federal mandates",
       "Reducing staffing",
       "Marketing grants"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -729,12 +729,12 @@
     "type": "standard",
     "question": "Economic gardening focuses on supporting which businesses?",
     "options": [
-      "Large multinational corporations",
       "Local growth-stage companies",
+      "Large multinational corporations",
       "Government agencies",
       "Import distributors"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -767,10 +767,10 @@
     "options": [
       "Isolationism",
       "Tax Abatement",
-      "Market Research",
-      "Advertising"
+      "Advertising",
+      "Market Research"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -801,12 +801,12 @@
     "type": "standard",
     "question": "Economic gardening differs from traditional recruitment strategies because it prioritizes:",
     "options": [
-      "External relocation incentives",
       "Internal firm growth",
+      "External relocation incentives",
       "Trade tariffs",
       "Infrastructure expansion"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -837,12 +837,12 @@
     "type": "standard",
     "question": "Which section provides a high-level overview of a business plan?",
     "options": [
-      "Appendix",
       "Executive summary",
+      "Appendix",
       "Operations audit",
       "Supply chain report"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -891,12 +891,12 @@
     "type": "scenario",
     "question": "A client struggles to determine staffing needs and workspace requirements while drafting a plan. Which stage are they in?",
     "options": [
-      "Closing the business",
       "Formalizing the business plan",
+      "Closing the business",
       "Export acceleration",
       "Debt restructuring"
     ],
-    "answerIndex": 1,
+    "answerIndex": 0,
     "explanation": "",
     "refs": []
   },
@@ -929,10 +929,10 @@
     "options": [
       "Fixed costs are depreciating",
       "Lack of investment in variable costs",
-      "Variable costs are outpacing gross margin",
-      "External factors beyond their control"
+      "External factors beyond their control",
+      "Variable costs are outpacing gross margin"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -965,10 +965,10 @@
     "options": [
       "Secure patents",
       "Hire legal staff",
-      "Conduct market research",
-      "Open a warehouse"
+      "Open a warehouse",
+      "Conduct market research"
     ],
-    "answerIndex": 2,
+    "answerIndex": 3,
     "explanation": "",
     "refs": []
   },
@@ -2589,5 +2589,131 @@
       "Financial ratio analysis is primarily useful for ruling out unqualified applicants but cannot provide meaningful information about borderline cases where judgment and experience must take precedence over all quantitative metrics"
     ],
     "answerIndex": 2
+  },
+  {
+    "id": "entre-smallbiz-bus-structure-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 2,
+    "chapter_tag": "structuring_a_business",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A sole proprietor is considering converting her business to an LLC before taking on a business partner and seeking outside investment. Which of the following best describes the primary advantage of making this change?",
+    "options": [
+      "An LLC eliminates the need to file a separate business tax return, simplifying her accounting obligations",
+      "An LLC provides personal liability protection and allows for flexible ownership structures, separating her personal assets from business debts",
+      "An LLC guarantees access to SBA loan programs that are unavailable to sole proprietors",
+      "An LLC requires a board of directors, which will improve governance and investor confidence"
+    ],
+    "answerIndex": 1,
+    "explanation": "The two core advantages of an LLC are personal liability protection (separating personal and business assets) and flexible ownership structure. LLCs do not eliminate tax filing requirements, do not guarantee SBA access, and do not require a board of directors \u2014 that is a corporation requirement.",
+    "refs": []
+  },
+  {
+    "id": "entre-smallbiz-bus-structure-02",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 2,
+    "chapter_tag": "structuring_a_business",
+    "difficulty": "medium",
+    "type": "standard",
+    "question": "Which of the following correctly matches a business structure to its defining characteristic?",
+    "options": [
+      "S-Corporation \u2014 allows unlimited shareholders and is the preferred structure for large publicly traded companies",
+      "Sole Proprietorship \u2014 provides personal liability protection and is the simplest structure to establish",
+      "C-Corporation \u2014 subject to double taxation, with profits taxed at the corporate level and again when distributed to shareholders as dividends",
+      "Partnership \u2014 requires at least one general partner who has limited liability for business debts"
+    ],
+    "answerIndex": 2,
+    "explanation": "Double taxation is the defining and most testable characteristic of C-Corporations. S-Corps are limited to 100 shareholders and cannot be publicly traded. Sole proprietorships provide no liability protection. In a general partnership, all general partners have unlimited personal liability \u2014 limited liability applies only to limited partners in an LP.",
+    "refs": []
+  },
+  {
+    "id": "entre-smallbiz-ta-program-design-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 2,
+    "chapter_tag": "technical_assistance_networks",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "An economic developer is tasked with designing a new technical assistance program for small businesses in her community. What is the most appropriate first step?",
+    "options": [
+      "Select a curriculum from a nationally recognized provider such as SCORE or the SBA and begin scheduling workshops",
+      "Conduct an asset mapping exercise to inventory existing TA resources, identify gaps, and avoid duplicating services already available",
+      "Secure funding from a community foundation before assessing what types of businesses need support",
+      "Hire a program director with experience running a small business incubator"
+    ],
+    "answerIndex": 1,
+    "explanation": "Asset mapping is the explicit starting point before building any new program. You must know what already exists to identify gaps and avoid duplication. Selecting a curriculum before understanding community needs puts the solution before the diagnosis. Securing funding before assessment leads to programs designed around funder priorities rather than community needs. Staffing decisions follow program design, not precede it.",
+    "refs": []
+  },
+  {
+    "id": "entre-smallbiz-sba-tools-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 8,
+    "chapter_tag": "small_business_financing",
+    "difficulty": "hard",
+    "type": "scenario",
+    "question": "A veteran-owned restaurant with two years of operating history needs $180,000 to purchase commercial kitchen equipment and renovate its dining space. The owner has decent credit but limited collateral. Which SBA financing tool is the most appropriate recommendation?",
+    "options": [
+      "SBA 504 Loan \u2014 provides long-term fixed-rate financing for major fixed assets such as real estate and heavy equipment",
+      "SBA 7(a) Loan \u2014 the SBA's primary and most flexible loan program, suitable for working capital, equipment, and renovations with a government guarantee reducing lender risk",
+      "SBA Microloan \u2014 provides loans up to $50,000 through nonprofit intermediaries for startups and small businesses with limited credit history",
+      "SBA SBIC Program \u2014 connects small businesses with privately managed investment funds that provide equity and debt financing for growth"
+    ],
+    "answerIndex": 1,
+    "explanation": "The SBA 7(a) is the most flexible tool and the correct fit for this scenario \u2014 it covers both equipment and renovation, works with limited collateral via the government guarantee, and is appropriately scaled at $180K. The 504 is designed for major fixed assets typically $1M+ and requires a CDC intermediary. Microloans cap at $50,000. SBICs provide equity and debt for growth-stage companies, not renovation financing.",
+    "refs": []
+  },
+  {
+    "id": "entre-smallbiz-cdfi-microloan-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 8,
+    "chapter_tag": "small_business_financing",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A first-generation immigrant entrepreneur wants to open a food truck. She has a solid business plan and strong community support but has no established credit history and no collateral to offer a traditional lender. Which financing tool is the most appropriate first recommendation?",
+    "options": [
+      "SBA 7(a) Loan \u2014 the SBA's most flexible loan program, backed by a government guarantee to reduce lender risk",
+      "CDFI Microloan \u2014 a community development financial institution offering small loans using character-based underwriting designed for entrepreneurs who lack traditional credit qualifications",
+      "Angel Investment \u2014 equity financing from a high-net-worth individual in exchange for an ownership stake in the business",
+      "Revolving Loan Fund \u2014 a pool of public or nonprofit capital recycled through repaid loans to support local business development"
+    ],
+    "answerIndex": 1,
+    "explanation": "CDFIs and microloan programs are specifically designed for entrepreneurs without credit history or collateral. Character-based underwriting is the key differentiator \u2014 the borrower's commitment, community ties, and business plan matter more than credit score. The SBA 7(a) still requires reasonable credit history. Angel investors seek equity in high-growth businesses, not food trucks. Revolving loan funds typically require some credit history.",
+    "refs": []
+  },
+  {
+    "id": "entre-smallbiz-mbe-stat-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 9,
+    "chapter_tag": "equity_in_entrepreneurship",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "Over the last 10 years, minority business enterprises accounted for more than 50% of the approximately 2 million new businesses started in the United States, creating 4.7 million jobs. What does this statistic most directly argue for in the context of entrepreneurial ecosystem development?",
+    "options": [
+      "Minority-owned businesses should be prioritized over other business types in SBA loan allocation to correct historical underfunding",
+      "Ecosystem builders must intentionally design programs, capital access, and leadership pathways that include minority entrepreneurs, as they represent a primary driver of new business and job creation",
+      "The capital gap facing minority entrepreneurs has been largely closed, and future ecosystem investment should shift toward technology transfer and innovation-led businesses",
+      "State and local governments should create separate economic development offices dedicated exclusively to minority business enterprises"
+    ],
+    "answerIndex": 1,
+    "explanation": "The manual uses this statistic to make the equity case as an economic argument: ignoring minority entrepreneurs means ignoring the majority of new business creation and job growth. The correct response is intentional, integrated program design \u2014 not reallocation of existing loan programs, not declaring the gap closed (Black and Hispanic founders raised only 2.4% of VC between 2015-2020), and not siloed separate offices.",
+    "refs": []
+  },
+  {
+    "id": "entre-smallbiz-micro-ta-curriculum-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 11,
+    "chapter_tag": "microenterprise_programs",
+    "difficulty": "medium",
+    "type": "scenario",
+    "question": "A microenterprise program manager is designing a technical assistance curriculum for a new cohort of participants. Based on the characteristics of microentrepreneurs, which curriculum design best reflects their needs?",
+    "options": [
+      "Advanced financial modeling, investor pitch preparation, and intellectual property protection \u2014 focused on positioning participants for growth capital",
+      "Basic business planning, market analysis, and SBA loan application support \u2014 the standard curriculum used for most small business development programs",
+      "Self-esteem building, personal financial management, credit counseling, and business development assistance \u2014 addressing both foundational personal needs and business skills simultaneously",
+      "Export readiness assessment, supply chain optimization, and technology adoption \u2014 focused on helping participants compete in larger markets"
+    ],
+    "answerIndex": 2,
+    "explanation": "The manual explicitly states that microentrepreneurs need basic assistance beyond what other entrepreneurs require, including self-esteem building, personal organization, personal financial management, and credit counseling \u2014 alongside business development support. The key is the 'and': both foundational personal support and business skills simultaneously. Standard SBDC curriculum misses the personal foundational layer. Growth capital prep and export readiness are appropriate for second-stage and established firms, not microenterprise.",
+    "refs": []
   }
 ]
