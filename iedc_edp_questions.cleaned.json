@@ -14,7 +14,8 @@
       "Existing firms, new business ventures, and prospective relocating companies",
       "Local investors, regional developers, and foreign direct investors"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "bre-overview-7b4e1d8a",
@@ -31,7 +32,8 @@
       "A program that provides equity financing to small businesses in exchange for customer loyalty",
       "A metric used to evaluate the return on investment of business outreach activities"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "bre-overview-9c6d0e5b",
@@ -48,7 +50,8 @@
       "Small businesses are less likely to relocate, making them lower-risk investments for EDO resources",
       "Small firms create more local supply chain opportunities and multiplier effects than large corporations, requiring EDOs to focus resources on maximizing community economic impact."
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "program-management-2f5a8b1c",
@@ -64,7 +67,8 @@
       "Hire a program manager and establish a CRM system",
       "Conduct a SWOT analysis of the community"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "program-management-6e3c7d4f",
@@ -81,7 +85,8 @@
       "BRE programs must be tailored to each community's unique industry composition, economic resources, and organizational capacity",
       "Federal funding requirements prohibit identical program designs across jurisdictions"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "program-management-0d9f2e7a",
@@ -98,7 +103,8 @@
       "Broad categories are preferred to allow flexibility when presenting results to stakeholders",
       "The analysis must identify competitive advantages within transportation sectors, comparing Atlanta's modal infrastructure performance against peer metropolitan areas to ensure strategic relevance and applicability."
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "customer-outreach-4a7c1b9e",
@@ -114,7 +120,8 @@
       "Once every two to three years",
       "Quarterly"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "customer-outreach-8b2e5f3d",
@@ -131,7 +138,8 @@
       "The region is over-reliant on a single industry and is at risk of economic volatility",
       "The industry qualifies for federal set-aside procurement contracts"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "customer-outreach-5c0d6a2f",
@@ -148,7 +156,8 @@
       "Conduct all visits in groups to make firms more comfortable sharing information",
       "Limit visits to large employers to maximize return on time investment"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "technical-assistance-1e8b4c6d",
@@ -165,7 +174,8 @@
       "BRE success requires establishing formal partnerships where all participating organizations share equal decision-making authority and contribute proportional funding to technical assistance initiatives.",
       "Economic developers must compete with other EDOs to attract the best technical assistance providers"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "technical-assistance-7f3a9d1b",
@@ -182,7 +192,8 @@
       "It eliminates competition between firms in the same industry by encouraging collaboration mandated by the EDO",
       "It qualifies participating firms for exclusive federal grants unavailable to non-cluster businesses"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "technical-assistance-2d6c0e4a",
@@ -199,7 +210,8 @@
       "Focus resources only on the largest firm in the cluster, since its needs will represent those of all other firms",
       "Implement a cluster-focused BRE approach: survey the cluster, convene a focus group to identify shared needs, and coordinate among all relevant EDOs and resource partners at a regional level"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "workforce-5a1f7b3c",
@@ -215,7 +227,8 @@
       "Proximity to transportation infrastructure",
       "Labor"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "workforce-9c4e2d8b",
@@ -232,7 +245,8 @@
       "WIOA reduced the size of workforce investment boards, required unified state plans, and established data-driven accountability and performance measures",
       "WIOA focused exclusively on disadvantaged populations and eliminated services for employed workers seeking career advancement"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "workforce-6b0f3a5e",
@@ -249,7 +263,8 @@
       "Lobby Congress to update federal job definitions before adjusting local programs",
       "Implement a hybrid job-counting methodology that weights traditional full-time positions at 100% while discounting gig and remote work at 50% to maintain consistency with historical incentive benchmarks and federal employment standards."
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "resiliency-3d8b5c1a",
@@ -266,7 +281,8 @@
       "Events causing significant economic impact to a region that require coordination between multiple government agencies and private sector organizations to manage recovery efforts",
       "Serious disruptions to the functioning of a community that exceed its capacity to cope using its own resources, caused by natural, man-made, or technological hazards"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "resiliency-7e2a9f4c",
@@ -283,7 +299,8 @@
       "There is no documented difference in recovery outcomes across demographic groups according to current FEMA data",
       "Minority populations in disaster zones experience improved recovery outcomes through community development block grants that prioritize equitable resource distribution and facilitate inclusive economic revitalization initiatives."
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "resiliency-0f4c6d2e",
@@ -300,7 +317,8 @@
       "Establishing a lottery system so businesses can return on a fair, randomized schedule",
       "Allowing only businesses with active disaster insurance policies to re-enter the affected area first"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "finance-4b1e7a9c",
@@ -317,7 +335,8 @@
       "An equity investment in small, growth-oriented businesses, typically at the seed, start-up, or early expansion stages",
       "A federal grant program administered through the SBA for minority-owned small businesses"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "finance-8c5f3b0d",
@@ -334,7 +353,8 @@
       "To give EDOs the authority to seize business assets if a firm relocates before a defined period",
       "To prevent competing jurisdictions from offering higher incentive packages to the same firm"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Capital & Financing"
   },
   {
     "id": "finance-2a6d4e1f",
@@ -351,7 +371,8 @@
       "The 'but-for' determination: whether the company would actually relocate or expand outside the jurisdiction but for the incentive in question",
       "The market rate test: whether the incentive package is competitive with what neighboring jurisdictions are offering"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "new-markets-6e9b2c5a",
@@ -367,7 +388,8 @@
       "A federal program that deploys DOD technology assets to support civilian economic development",
       "The exchange or sharing of knowledge, skills, processes, or technologies across different organizations"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "new-markets-1d4f8a3b",
@@ -384,7 +406,8 @@
       "Providing financing to help firms substitute imported raw materials with domestically sourced inputs",
       "A tax strategy that allows businesses to deduct costs of switching from foreign to domestic suppliers"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "new-markets-7c0e5d9f",
@@ -400,7 +423,8 @@
       "HUBZone procurement set-aside",
       "Cooperative Research and Development Agreement (CRADA)"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "exporting-5a2b8c4d",
@@ -416,7 +440,8 @@
       "50 to 55 percent",
       "65 to 70 percent"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "exporting-9f3d1e6b",
@@ -433,7 +458,8 @@
       "Indirect exporting eliminates the need for any export documentation or customs compliance",
       "It generates higher profit margins because the exporter avoids paying import duties in the destination country"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "exporting-3c7a0f2e",
@@ -450,7 +476,8 @@
       "Conduct a preliminary market assessment and establish relationships with foreign distributors in target markets before evaluating internal organizational and financial readiness capabilities.",
       "Base the decision on careful analysis and sound planning, evaluating whether the company meets the organizational and financial criteria required for export readiness"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "mergers-acquisitions-8b1d5c3f",
@@ -466,7 +493,8 @@
       "Joint venture development",
       "Strategic alliance formation"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "mergers-acquisitions-4e9a2b7c",
@@ -483,7 +511,8 @@
       "To conduct a comprehensive foreign investment impact assessment and present findings to city council before any community engagement occurs",
       "To require the foreign owner to hire a fixed percentage of local workers as a condition of receiving EDO assistance"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "mergers-acquisitions-6f0c4d8a",
@@ -500,7 +529,8 @@
       "Implement a formal foreign investment review protocol that requires the facility to demonstrate compliance with state and federal foreign ownership regulations before resuming normal business operations and community engagement activities.",
       "Assign the firm to the business attraction team rather than the BRE team since it is now foreign-controlled"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "entrepreneurial-and-smal-7bd2b4d391",
@@ -518,7 +548,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "entrepreneurial-and-smal-8aaf553235",
@@ -536,7 +567,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "entrepreneurial-and-smal-1f4ffae28b",
@@ -554,7 +586,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "entrepreneurial-and-smal-5f8637677e",
@@ -572,7 +605,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "entrepreneurial-and-smal-a15365e5dd",
@@ -590,7 +624,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "entrepreneurial-and-smal-788d506a98",
@@ -608,7 +643,8 @@
     ],
     "answerIndex": 3,
     "explanation": "CDFIs and microlenders are specifically designed for entrepreneurs who lack traditional credit and collateral. Character-based underwriting replaces credit score and collateral as the primary criteria. SBA 7(a) still requires reasonable credit history, angel investors seek equity in high-growth businesses, and crowdfunding is self-directed rather than an EDO ecosystem strategy.",
-    "refs": []
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "entrepreneurial-and-smal-9f1f890efc",
@@ -626,7 +662,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-and-smal-ffd4c07837",
@@ -644,7 +681,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-and-smal-bf0291b2cb",
@@ -662,7 +700,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-and-smal-4394ed7396",
@@ -680,7 +719,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-and-smal-45bfdbbb17",
@@ -699,7 +739,8 @@
     ],
     "answerIndex": 1,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-and-smal-65c49231df",
@@ -718,7 +759,8 @@
     ],
     "answerIndex": 2,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-and-smal-2e58aa1da3",
@@ -736,7 +778,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "entrepreneurial-and-smal-0d43da7281",
@@ -754,7 +797,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "entrepreneurial-and-smal-e562700303",
@@ -772,7 +816,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "entrepreneurial-and-smal-35d7883f9c",
@@ -790,7 +835,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "entrepreneurial-and-smal-2577f84e20",
@@ -808,7 +854,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "entrepreneurial-and-smal-3e98138896",
@@ -826,7 +873,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "entrepreneurial-and-smal-eb6657ad19",
@@ -844,7 +892,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entrepreneurial-and-smal-edadae49b2",
@@ -862,7 +911,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entrepreneurial-and-smal-75fce908c4",
@@ -880,7 +930,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entrepreneurial-and-smal-871ff46b81",
@@ -898,7 +949,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entrepreneurial-and-smal-f6561c4c6b",
@@ -916,7 +968,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entrepreneurial-and-smal-3e19632c81",
@@ -934,7 +987,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entrepreneurial-and-smal-8d53657d05",
@@ -952,7 +1006,8 @@
     ],
     "answerIndex": 0,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "International Business & Exporting"
   },
   {
     "id": "entrepreneurial-and-smal-2c085ff6da",
@@ -970,7 +1025,8 @@
     ],
     "answerIndex": 3,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "International Business & Exporting"
   },
   {
     "id": "entrepreneurial-and-smal-7bea9dcf15",
@@ -988,7 +1044,8 @@
     ],
     "answerIndex": 1,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "International Business & Exporting"
   },
   {
     "id": "entrepreneurial-and-smal-33091fc7e5",
@@ -1006,7 +1063,8 @@
     ],
     "answerIndex": 1,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "International Business & Exporting"
   },
   {
     "id": "entrepreneurial-and-smal-679e09cc79",
@@ -1024,7 +1082,8 @@
     ],
     "answerIndex": 2,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "International Business & Exporting"
   },
   {
     "id": "entrepreneurial-and-smal-2f5591b3b8",
@@ -1042,7 +1101,8 @@
     ],
     "answerIndex": 1,
     "explanation": "",
-    "refs": []
+    "refs": [],
+    "domain": "International Business & Exporting"
   },
   {
     "id": "incubators-accelerators-3a1f9c2d",
@@ -1059,7 +1119,8 @@
       "Incubators provide physical office space only, while accelerators provide only financial capital",
       "Incubators provide comprehensive mentorship and networking support to early-stage ventures regardless of development stage, while accelerators offer intensive, time-limited programs specifically designed to rapidly scale businesses with established market traction"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "incubators-accelerators-7b4e1d8a",
@@ -1075,7 +1136,8 @@
       "Community development financial institutions",
       "Academic institutions"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "incubators-accelerators-9c6d0e5b",
@@ -1092,7 +1154,8 @@
       "A community revitalization incubator, prioritizing business basics such as marketing, cash flow management, and accounting control for tenants in the declining area",
       "A mixed-use incubator targeting high-growth software and mobile app start-ups to modernize the district's economic base"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entrepreneurial-financing-2f5a8b1c",
@@ -1109,7 +1172,8 @@
       "Angel investors and venture capital firms invest identical amounts but differ only in whether they take board seats",
       "Angel investors exclusively fund businesses in the seed stage, while VCs only fund companies post-revenue"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Capital & Financing"
   },
   {
     "id": "entrepreneurial-financing-6e3c7d4f",
@@ -1125,7 +1189,8 @@
       "Washington, Colorado, and Georgia",
       "Pennsylvania, Ohio, and Michigan"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "entrepreneurial-financing-0d9f2e7a",
@@ -1142,7 +1207,8 @@
       "The EDO must match every dollar of outside financing with a corresponding public subsidy to reduce risk",
       "All entrepreneurial financing must be structured as equity rather than debt to align the EDO's interests with the business owner's"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "small-business-financing-4a7c1b9e",
@@ -1159,7 +1225,8 @@
       "The SBA purchases equity stakes in small businesses in exchange for technical assistance services",
       "The SBA provides direct capital infusions to small businesses through microfinance institutions and community development financial institutions to facilitate underserved market lending"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "small-business-financing-8b2e5f3d",
@@ -1176,7 +1243,8 @@
       "Administering federal SBA loan programs directly to businesses on behalf of the federal government",
       "Increasing access to capital by connecting small business owners to an innovative financing ecosystem, identifying credit sources, recognizing financing gaps, and developing strategies to address those gaps"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Capital & Financing"
   },
   {
     "id": "small-business-financing-5c0d6a2f",
@@ -1193,7 +1261,8 @@
       "As evidence that she has maximized personal liquidity and demonstrates strong commitment, indicating she should pursue venture capital or equity investors rather than traditional debt financing through conventional lenders",
       "As irrelevant to the financing evaluation, since lenders focus only on business revenues and credit scores"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Capital & Financing"
   },
   {
     "id": "equity-chapter-1e8b4c6d",
@@ -1209,7 +1278,8 @@
       "Approximately 38 percent",
       "Approximately 10 percent"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "equity-chapter-7f3a9d1b",
@@ -1226,7 +1296,8 @@
       "They raised over $15 billion combined, but this represented only 2.4 percent of total venture capital raised during that period",
       "They received preferential VC access through federal set-aside programs accounting for 15 percent of VC deals"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "equity-chapter-2d6c0e4a",
@@ -1243,7 +1314,8 @@
       "Convene mentorship programs to expand networks, provide technical assistance such as legal aid and business coaching, and connect entrepreneurs with incubators and accelerators specifically designed to support entrepreneurs of color and underserved communities",
       "Develop targeted loan products with below-market interest rates through community development financial institutions, establish vendor certification programs for minority-owned businesses to access government procurement opportunities, and create business improvement districts in underserved neighborhoods to increase commercial activity and property values."
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "exporting-small-biz-5a1f7b3c",
@@ -1259,7 +1331,8 @@
       "25 to 30 percent faster",
       "No measurable difference was found"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "exporting-small-biz-9c4e2d8b",
@@ -1275,7 +1348,8 @@
       "An EDO reimbursing companies for international trade fair attendance after the fact",
       "A federal program that matches domestic companies with overseas distributors through an online database"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "exporting-small-biz-6b0f3a5e",
@@ -1292,7 +1366,8 @@
       "Encourage the business to hire a full-time export manager before engaging with any EDO programs",
       "Limit assistance to connecting the business with a foreign distributor, since market research is beyond the EDO's typical scope"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "microenterprise-programs-3d8b5c1a",
@@ -1309,7 +1384,8 @@
       "Credit-score-based, following the same criteria used by commercial banks",
       "Revenue-based, using trailing 12-month sales figures as the primary underwriting criterion"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "microenterprise-programs-7e2a9f4c",
@@ -1326,7 +1402,8 @@
       "Direct lending is similar to bank lending where borrowers guarantee repayment through collateral or co-signers, while peer lending provides financing to groups where members are collectively responsible for repayment and rely on peer pressure rather than collateral",
       "Direct lending requires borrowers to complete financial literacy training before approval, while peer lending groups are exempt from training requirements and rely instead on informal knowledge sharing among members"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "microenterprise-programs-0f4c6d2e",
@@ -1343,7 +1420,8 @@
       "Refer all applicants to the SBA Microloan Program without offering local wraparound services, since federal programs are better capitalized",
       "A graduated collateral model with selective technical assistance focused primarily on loan underwriting and approval, since microentrepreneurs benefit most from financial discipline and independence rather than extensive hand-holding that may undermine their entrepreneurial initiative and self-reliance in business decision-making processes."
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "eled-ecosystem-1a2b3c4d",
@@ -1360,7 +1438,8 @@
       "Replacing traditional economic development strategies such as business attraction with entrepreneur-focused programs",
       "Fostering economic growth through targeted investment in emerging technology sectors and supporting venture capital funding for high-potential startups to create sustainable jobs and attract skilled workers to underserved regions"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "eled-ecosystem-5e6f7a8b",
@@ -1377,7 +1456,8 @@
       "Seek state and federal grants to fund new programming before engaging with existing organizations",
       "Discover what entrepreneurship supports are already in place, find the gaps, and knit together existing resources to form a strong support network rather than searching for a single 'silver bullet' program"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "roles-relationships-2c3d4e5f",
@@ -1394,7 +1474,8 @@
       "Economic development initiatives should emphasize workforce development outcomes and skills training programs, as entrepreneurs are primarily concerned with labor availability and human capital investment rather than financial incentives.",
       "Program structure and eligibility criteria should be the primary focus of all outreach communications"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "roles-relationships-6g7h8i9j",
@@ -1411,7 +1492,8 @@
       "Consolidating all services under one department to eliminate partner coordination costs",
       "Redirecting all funding from technical assistance programs into direct financial grants to entrepreneurs"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "ecosystem-composition-3k4l5m6n",
@@ -1427,7 +1509,8 @@
       "Revolutionary",
       "Squelcher"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "ecosystem-composition-7o8p9q0r",
@@ -1444,7 +1527,8 @@
       "Government participation is counterproductive in entrepreneurial ecosystems and should be limited to regulatory functions only",
       "Government should establish clear performance metrics and direct oversight of all local entrepreneurial ventures to maximize economic returns and minimize community risk"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "silo-busting-4s5t6u7v",
@@ -1461,7 +1545,8 @@
       "With the increasing speed of the economy, no one individual can process all information and make decisions quickly enough \u2014 agility and diverse perspectives are required for smart decision-making",
       "Siloed thinking is primarily a symptom of under-resourced organizations that need more staff and technology"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "silo-busting-8w9x0y1z",
@@ -1478,7 +1563,8 @@
       "Focus all energy on a single transformational initiative rather than spreading resources across multiple small efforts",
       "Establish a formal governance structure with clearly defined roles and decision-making authority, secure adequate funding through grants and public investment, develop comprehensive performance metrics to demonstrate ROI, and require all participating organizations to align their missions with the unified ELED strategy framework"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "assessing-community-5a6b7c8d",
@@ -1495,7 +1581,8 @@
       "A community that has achieved optimal balance between internal cohesion and external openness",
       "A community that expands its organizational network too rapidly, diluting focus and creating redundancy in economic development initiatives and services"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "assessing-community-9e0f1g2h",
@@ -1512,7 +1599,8 @@
       "Stabilize, Restructure, Relaunch \u2014 providing emergency loans, negotiating lease deferrals, and connecting to federal disaster programs",
       "Identify, Triage, Recover \u2014 cataloging all affected businesses, prioritizing those at greatest risk, and deploying technical assistance teams"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "inclusion-eled-6i7j8k9l",
@@ -1528,7 +1616,8 @@
       "The mean age is 55, as experienced professionals have the most capital and networks to succeed",
       "The mean age is 45, busting the myth that entrepreneurship is primarily a younger person's game"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "inclusion-eled-0m1n2o3p",
@@ -1545,7 +1634,8 @@
       "The two terms are interchangeable and both refer to whether support services are physically located in a community",
       "Availability means a program or resource exists, while accessibility means that all entrepreneurs \u2014 regardless of background, geography, or circumstance \u2014 can actually reach and use it"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "trusted-source-7q8r9s0t",
@@ -1562,7 +1652,8 @@
       "Develop standardized empathy training modules with certified diversity trainers, implement regular unconscious bias workshops, and utilize validated psychometric assessments to measure empathy competency levels among staff before direct community engagement.",
       "Partner with a diversity consultant to design all outreach programs on behalf of underrepresented communities"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "trusted-source-1u2v3w4x",
@@ -1579,7 +1670,8 @@
       "Hiring staff from underrepresented communities and requiring all ESOs to submit diversity reports annually",
       "Creating separate parallel ecosystems for underrepresented entrepreneurs until sufficient trust is built to integrate them into the main ecosystem"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "measurement-8y9z0a1b",
@@ -1595,7 +1687,8 @@
       "Is your region a good place for growing a business? Is your region getting better or worse as a place for growing a business?",
       "Is venture capital investment growing in your region? Are startup failure rates declining compared to the national average?"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Measurement & Evaluation"
   },
   {
     "id": "measurement-2c3d4e5f",
@@ -1612,7 +1705,8 @@
       "Commission an independent academic study every three years to validate ecosystem outcomes rather than relying on internal reporting",
       "Recognize that the measurement framework must depend on what you hope to accomplish, look beyond traditional metrics to explore other ways of assessing ELED progress, and use stories and testimonials to bridge the gap between standard measures and the real impact of ecosystem work"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Measurement & Evaluation"
   },
   {
     "id": "funding-ecosystem-9g0h1i2j",
@@ -1629,7 +1723,8 @@
       "Measuring revenue growth and business survival rates of firms receiving support",
       "Conducting a community-wide survey of entrepreneur satisfaction with available services"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "funding-ecosystem-3k4l5m6n",
@@ -1646,7 +1741,8 @@
       "Required all businesses receiving economic development incentives to contribute a percentage of their incentive value into a community entrepreneurship fund",
       "Established a municipal development district that assessed property tax increments from redevelopment zones and allocated revenues to support business incubators, mentorship programs, and entrepreneurial training initiatives"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "bre-attraction-0o1p2q3r",
@@ -1662,7 +1758,8 @@
       "A private-sector customer retention strategy applied to economic and workforce development",
       "A federal initiative managed by the SBA to support existing small businesses in underserved communities"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "bre-attraction-4s5t6u7v",
@@ -1679,7 +1776,8 @@
       "The Foundation restructured the program so each partner organization received a formal co-leadership role, eliminating competition",
       "The Foundation conducted a competitive impact assessment and offered technical assistance grants to partner organizations to help them integrate Scalerator NEO services into their existing portfolios, demonstrating that addressing concerns through capacity building and resource allocation strengthens ecosystem relationships and reduces organizational defensiveness."
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Business Retention & Expansion"
   },
   {
     "id": "business-types-stages-1a2b3c4d",
@@ -1695,7 +1793,8 @@
       "100 to 499 employees and $50 million to $250 million in revenue",
       "50 to 249 employees and $5 million to $100 million in revenue"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "business-types-stages-5e6f7g8h",
@@ -1712,7 +1811,8 @@
       "Innovation-led firms require extensive venture capital networks and angel investor connections that most EDOs cannot facilitate, making resource allocation toward these enterprises inefficient compared to supporting established main street businesses with proven operational models.",
       "Innovation-led firms generate insufficient tax revenue to justify the cost of specialized ecosystem support"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "microenterprises-main-street-2i3j4k5l",
@@ -1728,7 +1828,8 @@
       "Black business owners have a median net worth 12 times higher than Black non-business owners",
       "Black business owners have a median net worth 2 times higher than Black non-business owners"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "microenterprises-main-street-6m7n8o9p",
@@ -1744,7 +1845,8 @@
       "$68 of every $100 stays locally \u2014 more than twice what chains reinvest",
       "$90 of every $100 stays locally \u2014 nearly three times what chains reinvest"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "innovation-led-3q4r5s6t",
@@ -1760,7 +1862,8 @@
       "Approximately 75 percent",
       "Approximately 50 percent"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "innovation-led-7u8v9w0x",
@@ -1777,7 +1880,8 @@
       "Shared vision as a framework for activities, leaders who cross boundaries, a shared communication platform, clear intellectual property agreements, and long-term relationships",
       "University ownership of all resulting patents, exclusive licensing agreements, and joint marketing campaigns"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "second-stage-4y5z6a7b",
@@ -1794,7 +1898,8 @@
       "Hiring a professional CEO to replace the founder as the primary leader of the company",
       "Achieving $1 million in annual revenue to qualify for second-stage support programs"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "second-stage-8c9d0e1f",
@@ -1811,7 +1916,8 @@
       "A well-connected local ecosystem \u2014 combining tech transfer offices, angel networks, accelerator programs, coworking space, and technical assistance \u2014 can take a university lab innovation all the way from patent licensing to global acquisition while retaining local presence and economic impact",
       "Early-stage university spinouts require immediate venture capital funding from institutional investors rather than angel networks to achieve scale, and successful technology transfer depends primarily on the founders' ability to secure Series A rounds before commercialization can begin."
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Business Types & Growth Stages"
   },
   {
     "id": "diversified-community-5g6h7i8j",
@@ -1827,7 +1933,8 @@
       "About 25 percent more likely",
       "Three times more likely"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "diversified-community-9k0l1m2n",
@@ -1844,7 +1951,8 @@
       "It reduces participation rates among white male entrepreneurs who feel excluded from programs focused on diverse groups",
       "It fails to allocate resources efficiently across economic development initiatives, resulting in higher per-capita costs for serving each entrepreneur and reducing the overall return on investment for the ELED program's funding sources and stakeholders."
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "rural-communities-6o7p8q9r",
@@ -1861,7 +1969,8 @@
       "A supplemental strategy reserved only for communities too small to attract outside businesses",
       "A replacement for traditional economic development strategies rather than a complement to them"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "rural-communities-0s1t2u3v",
@@ -1878,7 +1987,8 @@
       "The county received a national award for rural economic development from the USDA Rural Development program",
       "The county eliminated its economic development department after achieving full employment and no longer needing outside assistance"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "capital-entrepreneurs-7w8x9y0z",
@@ -1895,7 +2005,8 @@
       "Referring all entrepreneurs with capital needs to venture capital firms regardless of their stage of development",
       "Assessing gaps in the funding continuum and rallying support to fill them, ensuring entrepreneurs have access to the right type of capital at the right stage of development"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Capital & Financing"
   },
   {
     "id": "capital-entrepreneurs-1a2b3c4d5e",
@@ -1912,7 +2023,8 @@
       "Black firms receive approximately 5% of venture capital, which reflects steady progress from near-zero levels in the 1990s",
       "Less than 1% of annual venture capital goes to Black firms, with only about 200 Black and Latinx firms having raised over $1 million in VC over two decades"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Capital & Financing"
   },
   {
     "id": "corporate-engagement-8f9g0h1i",
@@ -1928,7 +2040,8 @@
       "From 33 years in 1964 to just 12 years by 2027",
       "From 40 years in 1964 to 20 years by 2027"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "corporate-engagement-2j3k4l5m",
@@ -1945,7 +2058,8 @@
       "Requiring all small businesses to obtain national supplier diversity certifications before being introduced to anchor procurement officers",
       "Having a dedicated internal advocate \u2014 ideally a full-time supply chain or supplier diversity employee \u2014 within the anchor institution who cares deeply about empowering local businesses as strategic sourcing partners, since internal champions are critical with so many competing institutional priorities"
     ],
-    "answerIndex": 4
+    "answerIndex": 4,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "policy-environment-9n0o1p2q",
@@ -1962,7 +2076,8 @@
       "Large campaign contributions and direct lobbying by well-funded industry associations",
       "Academic research publications and university partnerships that lend scientific credibility to policy proposals"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "policy-environment-3r4s5t6u",
@@ -1979,7 +2094,8 @@
       "All policy requests must first be vetted by the city attorney before being presented to elected officials",
       "Mayors are only receptive to policy requests that are backed by unanimous endorsement from the local chamber of commerce"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Ecosystem Building & Partnerships"
   },
   {
     "id": "storytelling-0v1w2x3y",
@@ -1995,7 +2111,8 @@
       "A job creation story, a business attraction story, and an innovation story",
       "A founder origin story, a community challenge story, and a program impact story"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Measurement & Evaluation"
   },
   {
     "id": "storytelling-4z5a6b7c",
@@ -2012,7 +2129,8 @@
       "Securing a major federal EDA grant to fund a five-year entrepreneurship acceleration program",
       "Replacing the city's economic development leadership with entrepreneurs who could model risk-taking from within government"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Measurement & Evaluation"
   },
   {
     "id": "bre-ch4-business-climate",
@@ -2028,7 +2146,8 @@
       "Appoint an Ombudsman",
       "Train regulatory staff"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "credit-ch1-players-roles-d1a2b3c4",
@@ -2042,7 +2161,8 @@
       "To guarantee loans for any business that applies, ensuring that no creditworthy company is ever denied financing from any source",
       "To bridge capital gaps in the private sector financing market by extending access to credit-worthy entities that do not meet traditional commercial lending standards"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch1-players-roles-a2b3c4d5",
@@ -2056,7 +2176,8 @@
       "To match the interest rates of commercial lenders on a dollar-for-dollar basis so that borrowers always have access to the best possible terms in the market",
       "To fund only projects that have already been rejected by at least three private-sector lenders in order to document the existence of a capital gap"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch1-players-roles-b3c4d5e6",
@@ -2070,7 +2191,8 @@
       "Long-term commercial mortgages with 30-year terms for established businesses with at least ten years of profitable operations",
       "Fixed-rate government securities backed by the full faith and credit of the federal government for pension fund investors"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch1-players-roles-c4d5e6f7",
@@ -2084,7 +2206,8 @@
       "An LLC is a separate legal entity that shields owners from personal liability while allowing profits and losses to pass directly to owners without taxation of the entity itself",
       "An LLC automatically converts to a corporation once it has more than 100 members, at which point it becomes subject to double taxation"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch2-business-financing-a1b2c3d4",
@@ -2098,7 +2221,8 @@
       "Equity financing is guaranteed by the federal government through the Small Business Administration, which eliminates any risk of loss for investors who participate in startup ventures",
       "Equity financing converts automatically to a long-term fixed-rate loan after five years, giving startups both the flexibility of equity and the predictability of debt over time"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch2-business-financing-c2d3e4f5",
@@ -2112,7 +2236,8 @@
       "New firms in distressed communities face low incomes, high costs of doing business including expensive insurance, difficulty obtaining capital even with high demand, and fewer commercial banks due to recent mergers despite the Community Reinvestment Act of 1977",
       "All lending to distressed communities is prohibited by federal regulation unless a formal empowerment zone designation has been approved by the U.S. Department of Housing and Urban Development"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch2-business-financing-d3e4f5g6",
@@ -2126,7 +2251,8 @@
       "Seed capital is the money retained from prior profitable operations, and high-tech firms lack it because they have historically underperformed relative to other sectors of the economy",
       "Seed capital is the pre-production capital needed to finance research, development, feasibility analysis, and prototype development; it is difficult to obtain because of the significant risk of poor market demand, rapid obsolescence, competition, and the high degree of risk associated with unproven products"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch2-business-financing-b4c5d6e7",
@@ -2140,7 +2266,8 @@
       "Banks are prohibited by federal law from renewing short-term loans more than twice, meaning businesses must find entirely new lenders every time a short-term loan comes due",
       "Short-term financing always requires a personal guarantee from the business owner, which immediately disqualifies the borrower from participating in any SBA loan program"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch3-financial-statements-b1c2d3e4",
@@ -2154,7 +2281,8 @@
       "The income statement, the tax return, and the working capital analysis",
       "The pro forma statement, the depreciation schedule, and the net worth statement"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch3-financial-statements-d2e3f4g5",
@@ -2168,7 +2296,8 @@
       "Gross Profit = Net Sales \u2212 Cost of Goods Sold",
       "Assets = Liabilities + Equity"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch3-financial-statements-c3d4e5f6",
@@ -2182,7 +2311,8 @@
       "Investing Activities, because this section reports cash flows that arise from purchases and disposal of plant assets or investments",
       "Capital Activities, which is a separate, fourth section of the cash flow statement reserved exclusively for transactions involving fixed assets"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch3-financial-statements-c4d5e6f7",
@@ -2196,7 +2326,8 @@
       "The income and expenses and profitability of a business over a specific period of time, including components such as net sales, cost of goods sold, gross profit, and net income",
       "The sources and uses of cash during an accounting period, reconciling the opening and closing cash balances shown on the balance sheet"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch4-bank-review-c1d2e3f4",
@@ -2210,7 +2341,8 @@
       "A one-to-one collateral ratio, meaning for every $100,000 borrowed there is $100,000 pledged by the business to secure the loan",
       "A three-to-one ratio, requiring $300,000 in collateral for every $100,000 borrowed, reflecting the elevated risk banks associate with small business lending"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch4-bank-review-d2e3f4g5",
@@ -2224,7 +2356,8 @@
       "It measures the long-term debt obligations of a business relative to its fixed assets, helping analysts assess whether the company's capital structure is appropriate for its industry",
       "Accounts Receivable Turnover is the number of times receivables are collected during the year, revealing how efficiently the company manages credit extended to customers and converts those sales into cash"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch4-bank-review-c3d4e5f6",
@@ -2238,7 +2371,8 @@
       "The current ratio is the most common measure of short-term credit, comparing current assets to current liabilities to assess whether the business can cover its near-term obligations",
       "The current ratio divides total equity by total debt and signals to lenders whether the company has maintained the owner's investment required for a standard commercial loan approval"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch4-bank-review-b4c5d6e7",
@@ -2252,7 +2386,8 @@
       "The quick ratio emphasizes accounts payable relative to accounts receivable to assess a company's supplier relationships; analysts prefer a ratio below 0.5:1 as an indicator of strong payment discipline",
       "The quick ratio measures how quickly a company can liquidate its entire asset base, including fixed assets and inventory; the industry standard requires a minimum ratio of 3:1 for most lending programs"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch5-risk-factors-b1c2d3e4",
@@ -2266,7 +2401,8 @@
       "Management experience, market size, competitive environment, and the financial history of the borrower's industry as a whole",
       "Working capital adequacy, fixed asset coverage, accounts receivable aging, and the projected profitability of the funded project over a five-year horizon"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch5-risk-factors-c2d3e4f5",
@@ -2280,7 +2416,8 @@
       "Private lenders typically want a DCR between 1.2 and 1.3; a DCR of less than 1 means the cost of servicing debt is greater than the net operating income and should be avoided, as closing such a deal would be unwise",
       "Private lenders typically want a DCR between 0.8 and 0.9, allowing some flexibility below break-even; a DCR below 0.5 is considered the threshold at which a lender will require additional collateral"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch5-risk-factors-d3e4f5g6",
@@ -2294,7 +2431,8 @@
       "Security risk is the threat that rising interest rates will erode the purchasing power of fixed loan repayments, reducing the real value of the lender's return over the life of a long-term investment",
       "Security risk is the chance that the value of the pledged collateral will be insufficient to cover the value of the investment in the case of a default; investors' risk increases as the amount of security decreases"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch5-risk-factors-c4d5e6f7",
@@ -2308,7 +2446,8 @@
       "Maturity risk is the chance that an investor will forgo more profitable future investments because funds are committed to another investment, with the basis being rising inflation that erodes the purchasing power of money over time",
       "Maturity risk is the probability that a borrower's business model will become obsolete before the loan is fully repaid, leaving the lender with collateral that has lost all of its original market value"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch6-lending-process-c1d2e3f4",
@@ -2322,7 +2461,8 @@
       "Character, Capacity, Collateral, Conditions, and Cash flow",
       "Capital, Collateral, Credit score, Conditions, and Competency of management"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch6-lending-process-b2c3d4e5",
@@ -2336,7 +2476,8 @@
       "Feasibility analysis, market research, collateral appraisal, and regulatory compliance review by the appropriate federal oversight agency",
       "Initial interview, financial statement analysis, gap financing calculation, and legal documentation filed with the local recorder of deeds"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch6-lending-process-c3d4e5f6",
@@ -2350,7 +2491,8 @@
       "A payment pattern change, bounced checks, change in loan payment account, deteriorating financial record-keeping, greatly fluctuating income stream, or the borrower concealing information",
       "The business requests a one-time payment deferral during a seasonal revenue dip that is consistent with the cyclical nature of the industry in which the company operates"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch6-lending-process-d4e5f6g7",
@@ -2364,7 +2506,8 @@
       "Loan closeout is optional for economic development organizations but is required for banks under the Truth in Lending Act and other federal consumer protection regulations",
       "Loan closeout is the legal process required to end the commitment of the borrower; the lender sends documentation that the loan has been paid in full, all liens are removed, and verbal agreements are not sufficient"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch7-private-finance-b1c2d3e4",
@@ -2378,7 +2521,8 @@
       "CDCs are state-chartered institutions that hold one-third of all commercial mortgages and specialize in providing long-term, fixed-rate financing to manufacturers with at least $1 million in annual revenue",
       "CDCs are federal agencies within the SBA that directly originate and service 504 loans without requiring participation from any private-sector lender or other financial institution"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch7-private-finance-c2d3e4f5",
@@ -2392,7 +2536,8 @@
       "The CRA, enacted in 1977, established that financial institutions are obligated to serve the entire community to meet local credit needs\u2014particularly low and moderate-income neighborhoods\u2014because of the privileges they receive from the government",
       "The CRA is a state law that prohibits banks from charging interest rates above the prime rate in economically distressed communities that have been formally designated as enterprise zones by the governor"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch7-private-finance-b3c4d5e6",
@@ -2406,7 +2551,8 @@
       "Credit unions are privately held corporations that specialize in residential mortgage lending; they are governed by a board appointed by the largest depositors in proportion to their account balances",
       "Credit unions are regulated exclusively by state banking authorities and must hold at least 20% of their assets in U.S. Treasury securities as a condition of their operating charter"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch7-private-finance-b4c5d6e7",
@@ -2420,7 +2566,8 @@
       "Seed capital is only available to businesses located in federally designated enterprise zones; companies outside these zones must rely exclusively on equity contributions from founders and their immediate family members",
       "Seed capital providers are prohibited by the Investment Company Act from investing more than 5% of their fund in any single company, making it impossible to accumulate enough capital for technology development"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch8-local-state-tools-c1d2e3f4",
@@ -2434,7 +2581,8 @@
       "An RLF works on the basis that repayment of loans made is recycled into future lending; as loans are repaid, the principal and interest return to a loan pool and can be lent to other businesses, making it an ongoing source of capital",
       "An RLF functions as a guarantee program in which the fund promises to cover a percentage of private-sector loan losses without making any direct loans or holding any loan assets on its own balance sheet"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch8-local-state-tools-b2c3d4e5",
@@ -2448,7 +2596,8 @@
       "RLFs that lack federal charters are prohibited from participating in any SBA loan programs, which significantly limits their ability to leverage federal dollars for gap financing",
       "Because RLFs are unregulated, they cannot enforce loan repayment through the courts and must rely solely on the voluntary cooperation of borrowers to recover funds in default"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch8-local-state-tools-d3e4f5g6",
@@ -2462,7 +2611,8 @@
       "Economically targeted investments, which direct public pension fund dollars to community development financial institutions serving low-income borrowers",
       "Linked deposits, which are a means of providing low-interest loans to targeted populations through local commercial lending institutions by tying deposits of public funds to those institutions"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch8-local-state-tools-d4e5f6g7",
@@ -2476,7 +2626,8 @@
       "Debt subordination automatically converts public sector loans into equity investments if the private sector lender forecloses, protecting taxpayers from losing the full value of their contribution",
       "Debt subordination attracts private sector participation by reducing risk: private investors collect their share of repayments first, while the public sector bears the brunt of any irregular payments or delinquencies, acting as a buffer for private capital"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch9-federal-programs-b1c2d3e4",
@@ -2490,7 +2641,8 @@
       "A 504 project is financed with a 70% private-sector loan and a 30% SBA direct loan; the business owner is not required to provide any equity contribution if the project meets job creation requirements",
       "A 504 project requires the business to first secure a minimum of 25% equity from outside investors before the CDC and private lender will consider the remaining 75% of project financing"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch9-federal-programs-c2d3e4f5",
@@ -2504,7 +2656,8 @@
       "Businesses must operate for profit, be small as defined by the SBA, operate in the U.S., have reasonable invested equity, use alternative financial resources first, demonstrate a need for loan proceeds, use funds for a sound business purpose, and not be delinquent on existing government debt obligations",
       "Businesses must have fewer than 50 employees and demonstrate that the requested loan amount will be used exclusively for fixed asset purchases such as real estate, machinery, or equipment"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch9-federal-programs-c3d4e5f6",
@@ -2518,7 +2671,8 @@
       "The CDBG program is administered by the Department of Housing and Urban Development (HUD) and provides funds to states and localities for local economic development efforts",
       "The CDBG program provides tax credits to private investors who make equity contributions to community development financial institutions in low- and moderate-income census tracts"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch9-federal-programs-a4b5c6d7",
@@ -2532,7 +2686,8 @@
       "SBIR awards are provided by venture capital firms that partner with the SBA to offer below-market equity investments to technology companies in exchange for a convertible debt instrument",
       "SBIR is a revolving loan program that requires recipients to repay their awards with interest once their product reaches commercial scale, ensuring that federal dollars are reinvested into future innovation grants"
     ],
-    "answerIndex": 0
+    "answerIndex": 0,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch10-programs-applied-b1c2d3e4",
@@ -2546,7 +2701,8 @@
       "H&H needs a complete refinancing of its existing long-term debt and is directed toward the SBA's Express Loan Program, which provides expedited approval within 36 hours for amounts up to $350,000",
       "H&H needs international trade financing to support an export contract and is referred to the Export-Import Bank of the United States, which provides working capital guarantees for exporting small businesses"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "International Business & Exporting"
   },
   {
     "id": "credit-ch10-programs-applied-b2c3d4e5",
@@ -2560,7 +2716,8 @@
       "Ratios from the current year should be compared only to the company's pro forma projections filed with the original loan application, since those represent the lender's agreed-upon performance expectations",
       "Ratios should be compared against the underwriting thresholds specified in the SBA Standard Operating Procedures manual, which establishes legally binding benchmarks for all federally guaranteed loan programs"
     ],
-    "answerIndex": 1
+    "answerIndex": 1,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch10-programs-applied-d3e4f5g6",
@@ -2574,7 +2731,8 @@
       "Localities that secure independent funding first become eligible for federal block grants that are unavailable to projects relying solely on local government financing sources",
       "Localities are both more willing and more financially able to provide funding when independent funding has already been secured, as the existing commitments validate the project's viability and reduce perceived risk"
     ],
-    "answerIndex": 3
+    "answerIndex": 3,
+    "domain": "Capital & Financing"
   },
   {
     "id": "credit-ch10-programs-applied-c4d5e6f7",
@@ -2588,7 +2746,8 @@
       "Financial analysis is not an exact science, it focuses on past and current performance using specific benchmarks, and it must be supplemented by qualitative assessment of industry conditions, management character, product quality, physical assets, and personal interviews\u2014since meeting with the owner can be as important as reviewing financial statements",
       "Financial ratio analysis is primarily useful for ruling out unqualified applicants but cannot provide meaningful information about borderline cases where judgment and experience must take precedence over all quantitative metrics"
     ],
-    "answerIndex": 2
+    "answerIndex": 2,
+    "domain": "Capital & Financing"
   },
   {
     "id": "entre-smallbiz-bus-structure-01",
@@ -2606,7 +2765,8 @@
     ],
     "answerIndex": 1,
     "explanation": "The two core advantages of an LLC are personal liability protection (separating personal and business assets) and flexible ownership structure. LLCs do not eliminate tax filing requirements, do not guarantee SBA access, and do not require a board of directors \u2014 that is a corporation requirement.",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entre-smallbiz-bus-structure-02",
@@ -2624,7 +2784,8 @@
     ],
     "answerIndex": 2,
     "explanation": "Double taxation is the defining and most testable characteristic of C-Corporations. S-Corps are limited to 100 shareholders and cannot be publicly traded. Sole proprietorships provide no liability protection. In a general partnership, all general partners have unlimited personal liability \u2014 limited liability applies only to limited partners in an LP.",
-    "refs": []
+    "refs": [],
+    "domain": "Business Planning & Marketing"
   },
   {
     "id": "entre-smallbiz-ta-program-design-01",
@@ -2642,7 +2803,8 @@
     ],
     "answerIndex": 1,
     "explanation": "Asset mapping is the explicit starting point before building any new program. You must know what already exists to identify gaps and avoid duplication. Selecting a curriculum before understanding community needs puts the solution before the diagnosis. Securing funding before assessment leads to programs designed around funder priorities rather than community needs. Staffing decisions follow program design, not precede it.",
-    "refs": []
+    "refs": [],
+    "domain": "Technical Assistance & Business Support"
   },
   {
     "id": "entre-smallbiz-sba-tools-01",
@@ -2660,7 +2822,8 @@
     ],
     "answerIndex": 1,
     "explanation": "The SBA 7(a) is the most flexible tool and the correct fit for this scenario \u2014 it covers both equipment and renovation, works with limited collateral via the government guarantee, and is appropriately scaled at $180K. The 504 is designed for major fixed assets typically $1M+ and requires a CDC intermediary. Microloans cap at $50,000. SBICs provide equity and debt for growth-stage companies, not renovation financing.",
-    "refs": []
+    "refs": [],
+    "domain": "Capital & Financing"
   },
   {
     "id": "entre-smallbiz-cdfi-microloan-01",
@@ -2678,7 +2841,8 @@
     ],
     "answerIndex": 1,
     "explanation": "CDFIs and microloan programs are specifically designed for entrepreneurs without credit history or collateral. Character-based underwriting is the key differentiator \u2014 the borrower's commitment, community ties, and business plan matter more than credit score. The SBA 7(a) still requires reasonable credit history. Angel investors seek equity in high-growth businesses, not food trucks. Revolving loan funds typically require some credit history.",
-    "refs": []
+    "refs": [],
+    "domain": "Capital & Financing"
   },
   {
     "id": "entre-smallbiz-mbe-stat-01",
@@ -2696,7 +2860,8 @@
     ],
     "answerIndex": 1,
     "explanation": "The manual uses this statistic to make the equity case as an economic argument: ignoring minority entrepreneurs means ignoring the majority of new business creation and job growth. The correct response is intentional, integrated program design \u2014 not reallocation of existing loan programs, not declaring the gap closed (Black and Hispanic founders raised only 2.4% of VC between 2015-2020), and not siloed separate offices.",
-    "refs": []
+    "refs": [],
+    "domain": "Equity & Inclusion"
   },
   {
     "id": "entre-smallbiz-micro-ta-curriculum-01",
@@ -2714,6 +2879,311 @@
     ],
     "answerIndex": 2,
     "explanation": "The manual explicitly states that microentrepreneurs need basic assistance beyond what other entrepreneurs require, including self-esteem building, personal organization, personal financial management, and credit counseling \u2014 alongside business development support. The key is the 'and': both foundational personal support and business skills simultaneously. Standard SBDC curriculum misses the personal foundational layer. Growth capital prep and export readiness are appropriate for second-stage and established firms, not microenterprise.",
+    "refs": [],
+    "domain": "Business Types & Growth Stages"
+  },
+  {
+    "id": "entre-intl-antidumping-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 5,
+    "chapter_tag": "international_business",
+    "difficulty": "hard",
+    "type": "scenario",
+    "domain": "International Business & Exporting",
+    "question": "A small manufacturer is setting prices for its first export market. To win share quickly, the owner proposes pricing each unit below what it costs to produce one additional unit. What is the primary risk of this strategy?",
+    "options": [
+      "Foreign distributors will refuse to carry a product priced below prevailing market rates",
+      "The firm will be unable to recover export-specific costs such as packaging, translation, and after-sales service",
+      "The firm will be required to reclassify the shipment under a higher tariff schedule",
+      "The pricing may trigger anti-dumping penalties under the destination country's trade laws"
+    ],
+    "answerIndex": 3,
+    "explanation": "Chapter 5 states that pricing below marginal cost -- the amount it costs to produce an additional unit -- may trigger anti-dumping penalties and is not considered a sound business strategy. A country's anti-dumping laws are listed among the factors that must shape export pricing. Failing to recover export-specific costs is a real concern but is discussed separately as a costing issue, not as the risk of underpricing.",
+    "refs": []
+  },
+  {
+    "id": "bre-mep-primary-role-01",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "medium",
+    "type": "scenario",
+    "domain": "Technical Assistance & Business Support",
+    "question": "A local manufacturer is losing ground to competitors and suspects its production processes are outdated, but cannot identify the specific problem. An economic developer refers the firm to the regional Manufacturing Extension Partnership (MEP). What is the MEP's primary role in this situation?",
+    "options": [
+      "To conduct an evaluation and assessment that helps the firm identify and solve its specific problems",
+      "To provide direct grant funding that allows the firm to purchase updated equipment",
+      "To license federally developed technology from national laboratories to the firm",
+      "To connect the firm with foreign buyers through its supplier scouting network"
+    ],
+    "answerIndex": 0,
+    "explanation": "MEPs are intermediaries in the technology transfer process, but their primary mission is to conduct evaluations and assessments that help companies identify and solve problems. MEPs deliver assessment and technical assistance, not grants. Licensing federal lab technology is handled through CRADAs and the Federal Laboratory Consortium. MEP's Supplier Scouting program identifies domestic suppliers, not foreign buyers.",
+    "refs": []
+  },
+  {
+    "id": "bre-dod-mantech-01",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "medium",
+    "type": "standard",
+    "domain": "Business Retention & Expansion",
+    "question": "Which federal department administers the Manufacturing Technology (ManTech) Program, which bridges technological invention and industrial application for weapon system production?",
+    "options": [
+      "Department of Commerce, through the National Institute of Standards and Technology",
+      "Department of Energy, Office of the Under Secretary",
+      "Department of Defense",
+      "National Science Foundation"
+    ],
+    "answerIndex": 2,
+    "explanation": "The DoD Manufacturing Technology (ManTech) Program focuses on the needs of weapon system programs for affordable, low-risk development and production, providing the link between technological invention and industrial application. NIST (Commerce) administers the Manufacturing Extension Partnership; DOE administers the Industrial Technologies Program; NSF administers its own separate research programs.",
+    "refs": []
+  },
+  {
+    "id": "bre-crada-foia-01",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "hard",
+    "type": "scenario",
+    "domain": "Business Retention & Expansion",
+    "question": "A private manufacturer is considering entering a Cooperative Research and Development Agreement (CRADA) with a federal laboratory but is concerned that competitors could obtain its research findings through a public records request. Which CRADA provision addresses this concern?",
+    "options": [
+      "CRADAs transfer full ownership of all resulting intellectual property to the private partner",
+      "Research results emerging from a CRADA can be kept confidential and exempt from Freedom of Information Act disclosure for up to five years",
+      "Federal agencies are prohibited from publishing any findings developed under a CRADA",
+      "CRADAs require the federal laboratory to indemnify the private partner against disclosure claims"
+    ],
+    "answerIndex": 1,
+    "explanation": "A CRADA allows all parties to keep research results confidential and free from disclosure under the Freedom of Information Act for up to five years. Intellectual property is negotiated -- parties may share patents and licenses, or one partner may retain exclusive rights -- so full automatic transfer to the private partner is incorrect.",
+    "refs": []
+  },
+  {
+    "id": "bre-flc-sequencing-01",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "hard",
+    "type": "scenario",
+    "domain": "Business Retention & Expansion",
+    "question": "An economic developer is helping a local firm navigate federal technology transfer resources. The firm has not yet identified which federal laboratory holds technology relevant to its product. Which resource should the developer recommend first?",
+    "options": [
+      "The Federal Laboratory Consortium (FLC)",
+      "A Cooperative Research and Development Agreement (CRADA)",
+      "The Small Business Technology Transfer Program (STTR)",
+      "NIST's Manufacturing Extension Partnership (MEP)"
+    ],
+    "answerIndex": 0,
+    "explanation": "All major federal laboratories are members of the Federal Laboratory Consortium, whose mission is to link laboratories with potential users of government-developed technology. Identifying the right lab comes before structuring a CRADA with that lab. STTR is a research funding mechanism requiring a nonprofit research partner, and MEP conducts assessments rather than matching firms to laboratories.",
+    "refs": []
+  },
+  {
+    "id": "bre-sttr-matching-01",
+    "title": "Business Retention & Expansion",
+    "chapter": 8,
+    "chapter_tag": "Helping Firms Open New Markets",
+    "difficulty": "hard",
+    "type": "standard",
+    "domain": "Business Retention & Expansion",
+    "question": "A small technology firm wants federal research funding but must partner with a university research center as a condition of the award, with the university performing a substantial share of the research. Which program matches this description?",
+    "options": [
+      "Small Business Innovation Research (SBIR) -- sets aside 2.5% of twelve agencies' extramural R&D budgets for competitions open to small businesses only",
+      "Experimental Program to Stimulate Competitive Research (EPSCoR) -- supports states that have historically received little federal research and development funding",
+      "Small Business Technology Transfer Program (STTR) -- requires five federal agencies to designate 0.3% of research budgets to small business and nonprofit research institution partnerships",
+      "Federal Laboratory Consortium (FLC) -- links federal laboratories with potential users of government-developed technologies"
+    ],
+    "answerIndex": 2,
+    "explanation": "STTR requires substantial cooperative research collaboration (at least 30%) between the small business and a nonprofit research institution. SBIR is the closest neighbor but is open to small businesses only with no partnership requirement. EPSCoR targets states rather than firms, and the FLC connects labs with users rather than providing research funding.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-exim-wcg-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "hard",
+    "type": "scenario",
+    "domain": "International Business & Exporting",
+    "question": "A small manufacturer has received a large export order but lacks the working capital to buy raw materials and cover labor to fulfill it. Its bank is hesitant to lend against an unproven foreign receivable. Which federal resource is designed for this situation?",
+    "options": [
+      "A Small Business Innovation Research award to fund production scale-up",
+      "A Foreign Trade Zone designation to defer duties on imported inputs",
+      "The Export-Import Bank's Working Capital Guarantee, which guarantees 90% of principal and interest on bank-originated commercial loans tied to an export order",
+      "An Economic Development Administration Public Works grant to expand the facility"
+    ],
+    "answerIndex": 2,
+    "explanation": "Ex-Im Bank working capital financing guarantees 90% of the principal and interest of bank-originated commercial loans, up to 100% of the value of the U.S. export, with maturities up to 36 months. Debts are secured by export-related accounts receivable and inventory tied to an export order, and funds may be used to pay for raw materials, equipment, supplies, labor, and overhead. The borrower pays a 1.5% up-front fee. SBIR funds research, FTZs address duties, and EDA Public Works funds infrastructure.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-export-credit-insurance-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "hard",
+    "type": "standard",
+    "domain": "International Business & Exporting",
+    "question": "Export credit insurance offered through the Export-Import Bank protects an exporter against which combination of risks?",
+    "options": [
+      "Buyer nonpayment from commercial risks such as bankruptcy, and certain political risks such as war or currency inconvertibility",
+      "Physical loss or damage to goods while in transit to the foreign buyer",
+      "Fluctuations in the exchange rate between the date of sale and the date of payment",
+      "Tariff increases imposed by the destination country after a contract is signed"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ex-Im Bank insurance covers the risk of buyer nonpayment for commercial risks such as bankruptcy and certain political risks such as war or the inconvertibility of currency. It can replace cash-in-advance and letters of credit, and it converts export-related accounts receivable into receivables insured by the U.S. government. Cargo damage, currency fluctuation, and tariff changes are separate exposures not covered by this product.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-trade-mission-direction-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "medium",
+    "type": "standard",
+    "domain": "International Business & Exporting",
+    "question": "An economic development organization is planning an export promotion activity in which foreign buyers and distributors are identified and then brought to tour local production facilities. What is this activity called?",
+    "options": [
+      "An outbound trade mission",
+      "A Gold Key matching event",
+      "A foreign direct investment prospecting tour",
+      "A reverse trade mission"
+    ],
+    "answerIndex": 3,
+    "explanation": "A reverse trade mission brings foreign buyers and distributors to tour a community's production facilities. A standard trade mission is the opposite direction -- groups of local export firms travel abroad to meet buyers. Gold Key is the Commercial Service's export matching program, and FDI prospecting targets investors rather than buyers.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-goldkey-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "medium",
+    "type": "scenario",
+    "domain": "International Business & Exporting",
+    "question": "A local firm is export-ready but has no contacts in its target market and needs to be matched with pre-screened potential buyers or partners abroad. Which service is designed specifically for this?",
+    "options": [
+      "The Federal Laboratory Consortium's technology matching service",
+      "The U.S. Commercial Service's Gold Key export matching program",
+      "The Ex-Im Bank's City/State Partners program",
+      "The Trade Information Center's general market research line"
+    ],
+    "answerIndex": 1,
+    "explanation": "The U.S. Commercial Service's Gold Key program is a consulting service that matches U.S. exporters with potential overseas partners and buyers. The Ex-Im City/State Partners program gives EDOs access to Ex-Im staff and training rather than matching individual firms to buyers. The Trade Information Center provides general information, and the FLC handles federal laboratory technology transfer.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-screening-reps-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 5,
+    "chapter_tag": "international_business",
+    "difficulty": "hard",
+    "type": "scenario",
+    "domain": "International Business & Exporting",
+    "question": "A small producer plans to export indirectly and is evaluating several foreign agents and distributors. According to the manual, which factor should the producer screen for that is easy to overlook?",
+    "options": [
+      "Whether the representative maintains an office in the producer's home country",
+      "Whether the representative is fluent in the producer's native language",
+      "How many competing companies the representative also represents",
+      "Whether the representative has previously worked with a federal export agency"
+    ],
+    "answerIndex": 2,
+    "explanation": "Companies should screen potential representatives for their facility portfolio, financial strengths, client base, and the number of competitors they may also represent. A representative carrying competing lines may not prioritize the producer's products. Contracts should also specify commissions, obligations, and the detailed arrangement. Home-country offices, language fluency, and prior federal agency experience are not the screening criteria the manual identifies.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-exim-citystate-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "medium",
+    "type": "standard",
+    "domain": "International Business & Exporting",
+    "question": "The Export-Import Bank's City/State Partners program is designed primarily to serve which group?",
+    "options": [
+      "Individual small businesses seeking direct loan guarantees from the Bank",
+      "Foreign buyers seeking credit terms from U.S. exporters",
+      "Multilateral development banks coordinating projects in developing countries",
+      "Municipal, county, state, university, and other nonprofit economic development organizations"
+    ],
+    "answerIndex": 3,
+    "explanation": "Through the Ex-Im Bank's City/State Partners program, municipal, county, state, university, and other nonprofit EDOs gain access to Ex-Im staff, training, and marketing materials. The program creates an on-the-ground referral network for the bank, extending its reach through local intermediaries rather than serving firms or foreign buyers directly.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-indirect-tradeoff-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 5,
+    "chapter_tag": "international_business",
+    "difficulty": "medium",
+    "type": "scenario",
+    "domain": "International Business & Exporting",
+    "question": "A novice exporter chooses indirect exporting to enter a foreign market. What tradeoff should the economic developer make sure the firm understands?",
+    "options": [
+      "Indirect exporting requires a larger up-front capital commitment than direct exporting",
+      "The producer gives up control over how products are packaged, shipped, and marketed, and gains less information about customers and competitors",
+      "Indirect exporting exposes the firm to greater political risk in the destination market",
+      "The firm becomes ineligible for Ex-Im Bank working capital financing"
+    ],
+    "answerIndex": 1,
+    "explanation": "Indirect exporting is cost-effective and low-risk, which is why novice exporters and small businesses commonly use it. The major drawback is that it affords the producer little control over how its products are packaged, shipped, and marketed, and producers exporting indirectly earn lower profits and gain less customer and competitor information than direct exporters. It does not require more capital, increase political risk, or disqualify a firm from Ex-Im financing.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-shortterm-insurance-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "hard",
+    "type": "standard",
+    "domain": "International Business & Exporting",
+    "question": "Ex-Im Bank short-term export credit insurance generally covers goods and most services for terms up to how long?",
+    "options": [
+      "30 days, extendable to 90 days in exceptional cases",
+      "90 days, extendable to 180 days in exceptional cases",
+      "180 days, extendable to 360 days in exceptional cases",
+      "360 days, extendable to 720 days in exceptional cases"
+    ],
+    "answerIndex": 2,
+    "explanation": "Short-term insurance covers a wide range of goods, raw materials, spare parts, components, and most services for terms of up to 180 days, and in exceptional cases up to 360 days. It also covers capital goods, consumer durables, and bulk agricultural commodities. Medium-term insurance is a separate product covering up to 85% of net U.S. contract value for longer-term financing to buyers of capital equipment.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-tax-duty-incentives-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "medium",
+    "type": "standard",
+    "domain": "International Business & Exporting",
+    "question": "Which of the following is identified as a tax or duty incentive that economic developers can use to support exporting firms?",
+    "options": [
+      "Small Business Innovation Research set-asides",
+      "Community Development Block Grant entitlement funds",
+      "Workforce Innovation and Opportunity Act training grants",
+      "Foreign Trade Zones and Freeport exemptions"
+    ],
+    "answerIndex": 3,
+    "explanation": "Foreign Trade Zones and Freeport exemptions are listed among the tax and duty incentives available to support exporters, along with income tax reductions and sector-specific incentives. SBIR funds research, CDBG supports community development, and WIOA funds workforce training -- none are export tax or duty mechanisms.",
+    "refs": []
+  },
+  {
+    "id": "entre-intl-mdb-01",
+    "title": "Entrepreneurial and Small Business Development Strategies",
+    "chapter": 10,
+    "chapter_tag": "Exporting for Small Businesses",
+    "difficulty": "hard",
+    "type": "standard",
+    "domain": "International Business & Exporting",
+    "question": "Multilateral development banks (MDBs) represent a financing opportunity that the manual notes most small businesses know very little about. What are MDBs?",
+    "options": [
+      "Private investment funds that specialize in emerging-market equity stakes",
+      "Membership organizations for sovereign governments that finance trade and development in less-developed countries",
+      "Regional branches of the Export-Import Bank located in major trading partners",
+      "Consortia of commercial banks that syndicate large export transactions"
+    ],
+    "answerIndex": 1,
+    "explanation": "Multilateral development banks are membership organizations for sovereign governments whose function is to increase international trade and development in less-developed countries. The manual notes that many companies, especially small businesses, know very little about the large amounts of financing available through them, making this an area where economic developers can add value.",
     "refs": []
   }
 ]
